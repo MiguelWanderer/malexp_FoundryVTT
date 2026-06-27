@@ -25,7 +25,8 @@ Hooks.on('init', () => {
         grav: 'Grav',
         gauss: 'Gauss',
         phase: 'Phase',
-        tesla: 'Tesla'
+        tesla: 'Tesla',
+        fast: 'Fast',
     });
 
     game.impmal.config.weaponTraitEffects ??= {};
@@ -105,14 +106,67 @@ Hooks.on('init', () => {
                         opposed: args.opposed,
                         context
                     });
-                `
+                `,
                 }]
             }
+        },
+        Accurate: {
+        name: 'Accurate',
+        system: {
+            transferData: { documentType: 'Item' },
+            scriptData: [
+                {
+                    label: 'Accurate: +1 SL al Apuntar',
+                    trigger: 'dialog',
+                    script: "args.fields.SL++;",
+                    options: {
+                        hideScript: "return !(args.weapon?.system.isRanged && args.actor.statuses.has('aim'));",
+                        activateScript: "return args.weapon?.system.isRanged && args.actor.statuses.has('aim');"
+                    }
+                },
+                {
+                    label: 'Accurate: Marca de Apuntado',
+                    trigger: 'preRollWeaponTest',
+                    script: "args.context.accurateAimed = args.item.system.isRanged && args.actor.statuses.has('aim');"
+                },
+                {
+                    label: 'Accurate: Dano extra por SL',
+                    trigger: 'rollWeaponTest',
+                    script: `
+                        if (!args.context.accurateAimed) return;
+                        let sl = Math.max(0, args.result.SL || 0);
+                        let bsBonus = args.actor.system.characteristics.bs.bonus;
+                        let bonus = Math.min(Math.floor(sl / 2), bsBonus);
+                        if (bonus > 0) {
+                            args.result.additionalDamage = (args.result.additionalDamage || 0) + bonus;
+                        }
+
+                    `
+                }]
+            }
+        },
+        fast: {
+        name: 'Fast',
+        system: {
+            transferData: { documentType: 'Item' },
+            scriptData: [{
+                label: 'Fast: -2 SL al intentar Parry',
+                trigger: 'dialog',
+                script: "args.fields.SL -= 2;",
+                options: {
+                    hideScript: "return !args.actor.defendingAgainst || !args.weapon;",
+                    activateScript: "return !!args.actor.defendingAgainst && !!args.weapon;"
+                }
+            }]
         }
+    }
     });
+
 
     foundry.utils.mergeObject(game.impmal.config.traitHasValue, {
         storm: true,
         haywire: true
-    });
+    
+    
+});
 });
