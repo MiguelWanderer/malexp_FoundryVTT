@@ -158,8 +158,43 @@ Hooks.on('init', () => {
                     activateScript: "return !!args.actor.defendingAgainst && !!args.weapon;"
                 }
             }]
+        },
+        phase: {
+        name: 'Phase',
+        system: {
+            transferData: { documentType: 'Item' },
+            scriptData: [
+                {
+                    label: "Phase: Ignora Armadura y Campos de Fuerza",
+                    trigger: 'preApplyDamage',
+                    script: `
+                        args.ignoreAP = true;
+                        if (args.locationData) args.locationData.field = null;
+                    `
+                },
+                {
+                    label: "Phase: Destruccion contra C'tan",
+                    trigger: 'preApplyDamage',
+                    script: `
+                        let isCtan = args.actor.items.some(i => i.name === "C'tan");
+                        if (!isCtan) return;
+
+                        args.value = 0; // El ataque no causa dano al C'tan
+
+                        new Roll("2d10").roll().then(heal => {
+                            heal.toMessage({ flavor: "Phase: el C'tan se regenera", speaker: { alias: args.actor.name } });
+                            let newWounds = Math.max(0, args.actor.system.combat.wounds.value - heal.total);
+                            args.actor.update({ "system.combat.wounds.value": newWounds });
+                        });
+
+                        this.item.delete();
+                    `
+                }
+            ]
         }
     }
+    }
+
     });
 
 
