@@ -37,12 +37,12 @@ Hooks.on('init', () => {
                 transferData: { documentType: 'Item' },
                 scriptData: [
                     {
-                        label: 'Gauss: +5 a la Severidad',
+                        label: 'Gauss: +5 to Severity',
                         trigger: 'preRollWeaponTest',
                         script: 'args.data.critModifier = (args.data.critModifier || 0) + 5;'
                     },
                     {
-                        label: 'Gauss: Crítico si termina en 9',
+                        label: 'Gauss: Critical if it ends in 9',
                         trigger: 'rollWeaponTest',
                         script: "if (args.result.outcome === 'success' && !args.result.critical && (args.result.roll % 10 === 9)) { args.result.critical = true; }"
                     }
@@ -54,7 +54,7 @@ Hooks.on('init', () => {
             system: {
                 transferData: { documentType: 'Item' },
                 scriptData: [{
-                    label: 'Tesla: Salto de Rayo',
+                    label: 'Tesla: Arc Jump',
                     trigger: 'applyDamage',
                     script: `
                     let attackerTest = args.opposed?.attackerTest;
@@ -64,7 +64,7 @@ Hooks.on('init', () => {
                     let isFirstLink = !context.teslaChain;
                     context.teslaChain = context.teslaChain || new Set();
 
-                    let qualifies = args.excess > 0; // El golpe incapacita/mata
+                    let qualifies = args.excess > 0; // The hit incapacitates/kills
                     if (isFirstLink) {
                         let digit = attackerTest.result.roll % 10;
                         qualifies = qualifies || digit === 9 || digit === 0;
@@ -76,7 +76,7 @@ Hooks.on('init', () => {
                     context.teslaChain.add(currentToken.id);
 
                     let regions = currentToken.document.regions;
-                    if (!regions || regions.size === 0) return; // Sin Zona definida, no se puede determinar cercanía
+                    if (!regions || regions.size === 0) return; // No Region defined, cannot determine proximity
 
                     let attackerToken = attackerTest.actor.getActiveTokens()[0];
 
@@ -95,7 +95,7 @@ Hooks.on('init', () => {
                     if (!target.actor?.applyDamage) return;
 
                     ChatMessage.create({
-                        content: '<p><i class="fa-solid fa-bolt"></i> Tesla: el rayo salta hacia ' + target.name + '</p>',
+                        content: '<p><i class="fa-solid fa-bolt"></i> Tesla: the arc jumps to ' + target.name + '</p>',
                         speaker: ChatMessage.getSpeaker({actor: attackerTest.actor})
                     });
 
@@ -116,7 +116,7 @@ Hooks.on('init', () => {
             transferData: { documentType: 'Item' },
             scriptData: [
                 {
-                    label: 'Accurate: +1 SL al Apuntar',
+                    label: 'Accurate: +1 SL when Aiming',
                     trigger: 'dialog',
                     script: "args.fields.SL++;",
                     options: {
@@ -125,12 +125,12 @@ Hooks.on('init', () => {
                     }
                 },
                 {
-                    label: 'Accurate: Marca de Apuntado',
+                    label: 'Accurate: Aimed Marker',
                     trigger: 'preRollWeaponTest',
                     script: "args.context.accurateAimed = args.item.system.isRanged && args.actor.statuses.has('aim');"
                 },
                 {
-                    label: 'Accurate: Dano extra por SL',
+                    label: 'Accurate: Extra Damage per SL',
                     trigger: 'rollWeaponTest',
                     script: `
                         if (!args.context.accurateAimed) return;
@@ -150,7 +150,7 @@ Hooks.on('init', () => {
             system: {
                 transferData: { documentType: 'Item' },
                 scriptData: [{
-                    label: 'Fast: -2 SL al intentar Parry',
+                    label: 'Fast: -2 SL when attempting to Parry',
                     trigger: 'dialog',
                     script: "args.fields.SL -= 2;",
                     options: {
@@ -166,7 +166,7 @@ Hooks.on('init', () => {
                 transferData: { documentType: 'Item' },
                 scriptData: [
                     {
-                        label: "Phase: Ignora Armadura y Campos de Fuerza",
+                        label: "Phase: Ignores Armour and Force Fields",
                         trigger: 'preApplyDamage',
                         script: `
                             args.ignoreAP = true;
@@ -174,16 +174,16 @@ Hooks.on('init', () => {
                         `
                     },
                     {
-                        label: "Phase: Destruccion contra C'tan",
+                        label: "Phase: Destruction against C'tan",
                         trigger: 'preApplyDamage',
                         script: `
                             let isCtan = args.actor.items.some(i => i.name === "C'tan");
                             if (!isCtan) return;
 
-                            args.value = 0; // El ataque no causa dano al C'tan
+                            args.value = 0; // The attack deals no damage to the C'tan
 
                             new Roll("2d10").roll().then(heal => {
-                                heal.toMessage({ flavor: "Phase: el C'tan se regenera", speaker: { alias: args.actor.name } });
+                                heal.toMessage({ flavor: "Phase: the C'tan regenerates", speaker: { alias: args.actor.name } });
                                 let newWounds = Math.max(0, args.actor.system.combat.wounds.value - heal.total);
                                 args.actor.update({ "system.combat.wounds.value": newWounds });
                             });
@@ -201,7 +201,7 @@ Hooks.on('init', () => {
                 transferData: { documentType: 'Item' },
                 scriptData: [
                     {
-                        label: "Grav: Suma el Indice de Armadura al Dano",
+                        label: "Grav: Adds Armour Rating to Damage",
                         trigger: 'preApplyDamage',
                         script: `
                             let armourBonus = (args.modifiers || [])
