@@ -1,53 +1,53 @@
 {
-  "folder": "9XChaf688ZLcQSfg",
-  "name": "Aeldari Ranger",
+  "folder": "38AibNyyurlGFb0E",
+  "name": "Horse",
   "type": "npc",
-  "_id": "XwpbbYbwPNENDjfl",
+  "_id": "dXt5yN84Bl3WWWqW",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
-        "starting": 30,
+        "starting": 25,
         "advances": 0,
         "modifier": 0
       },
       "bs": {
-        "starting": 60,
+        "starting": 0,
         "advances": 0,
         "modifier": 0
       },
       "str": {
-        "starting": 30,
-        "advances": 0,
-        "modifier": 0
-      },
-      "tgh": {
-        "starting": 30,
-        "advances": 0,
-        "modifier": 0
-      },
-      "ag": {
-        "starting": 60,
-        "advances": 0,
-        "modifier": 0
-      },
-      "int": {
-        "starting": 40,
-        "advances": 0,
-        "modifier": 0
-      },
-      "per": {
-        "starting": 40,
-        "advances": 0,
-        "modifier": 0
-      },
-      "wil": {
         "starting": 50,
         "advances": 0,
         "modifier": 0
       },
+      "tgh": {
+        "starting": 45,
+        "advances": 0,
+        "modifier": 0
+      },
+      "ag": {
+        "starting": 35,
+        "advances": 0,
+        "modifier": 0
+      },
+      "int": {
+        "starting": 15,
+        "advances": 0,
+        "modifier": 0
+      },
+      "per": {
+        "starting": 30,
+        "advances": 0,
+        "modifier": 0
+      },
+      "wil": {
+        "starting": 25,
+        "advances": 0,
+        "modifier": 0
+      },
       "fel": {
-        "starting": 20,
+        "starting": 10,
         "advances": 0,
         "modifier": 0
       }
@@ -55,12 +55,12 @@
     "skills": {
       "athletics": {
         "characteristic": "str",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "awareness": {
         "characteristic": "per",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "dexterity": {
@@ -75,12 +75,12 @@
       },
       "fortitude": {
         "characteristic": "tgh",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "intuition": {
         "characteristic": "per",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "linguistics": {
@@ -105,12 +105,12 @@
       },
       "melee": {
         "characteristic": "ws",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "navigation": {
         "characteristic": "int",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "presence": {
@@ -130,7 +130,7 @@
       },
       "ranged": {
         "characteristic": "bs",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "rapport": {
@@ -140,12 +140,12 @@
       },
       "reflexes": {
         "characteristic": "ag",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "stealth": {
         "characteristic": "ag",
-        "advances": 2,
+        "advances": 0,
         "modifier": 0
       },
       "tech": {
@@ -156,10 +156,10 @@
     },
     "notes": {
       "player": "",
-      "gm": "<p>Possessions: A set of Aeldari Light Mesh Armor, an empty Spirit Stone.</p>"
+      "gm": ""
     },
     "combat": {
-      "size": "medium",
+      "size": "large",
       "armourModifier": 0,
       "speed": {
         "land": {
@@ -171,28 +171,28 @@
           "modifier": 0
         }
       },
-      "initiative": 9,
+      "initiative": 6,
       "wounds": {
-        "max": 14,
-        "value": 14
+        "max": 15,
+        "value": 15
       },
       "criticals": {
-        "max": 1,
+        "max": 0,
         "value": 0
       },
-      "resolve": 2,
+      "resolve": 1,
       "armour": {
         "formula": "",
-        "value": 4,
+        "value": 0,
         "useItems": false
       }
     },
     "faction": {
       "id": "",
-      "name": "Aeldari"
+      "name": "Fauna"
     },
-    "species": "Aeldari",
-    "role": "elite",
+    "species": "Horse (Fauna)",
+    "role": "troop",
     "autoCalc": {
       "wounds": false,
       "criticals": false,
@@ -200,7 +200,7 @@
     }
   },
   "prototypeToken": {
-    "name": "Aeldari Ranger",
+    "name": "Horse",
     "displayName": 20,
     "actorLink": false,
     "width": 1,
@@ -236,17 +236,17 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!XwpbbYbwPNENDjfl",
+  "_key": "!actors!dXt5yN84Bl3WWWqW",
   "items": [
     {
-      "name": "Cameleoline Cloak",
+      "name": "Bred for War",
       "type": "trait",
-      "_id": "Th2aGF49peQI6DeM",
+      "_id": "ibY6PFcv7DJzk3i8",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
-          "player": "",
-          "gm": "<p>The Aeldari Ranger has Advantage on Stealth Tests if they do not move that turn.</p>"
+          "player": "<p>The Horse has been trained to withstand the rigors of combat and gains +2 SL to Discipline (Fear) & (Composure) tests during a combat encounter.</p>",
+          "gm": ""
         },
         "attack": {
           "enabled": false,
@@ -297,135 +297,13 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.Th2aGF49peQI6DeM"
+      "_key": "!actors.items!dXt5yN84Bl3WWWqW.ibY6PFcv7DJzk3i8"
     },
     {
-      "name": "Psychic Sensitivity",
-      "type": "trait",
-      "_id": "RfGLcr0JePtE2wrp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
-      "system": {
-        "notes": {
-          "player": "",
-          "gm": "<p>The Aeldari may use Psyniscience. The Aeldari has Disadvantage on any Tests made to resist Psychic Powers.</p>"
-        },
-        "attack": {
-          "enabled": false,
-          "type": "melee",
-          "characteristic": "",
-          "skill": {
-            "key": "",
-            "specialisation": ""
-          },
-          "damage": {
-            "SL": false,
-            "base": "",
-            "characteristic": "",
-            "ignoreAP": false
-          },
-          "range": "",
-          "traits": {
-            "list": []
-          },
-          "self": false
-        },
-        "test": {
-          "enabled": false,
-          "target": "self",
-          "difficulty": "challenging",
-          "characteristic": "",
-          "skill": {
-            "key": "",
-            "specialisation": ""
-          },
-          "self": false
-        },
-        "roll": {
-          "enabled": false,
-          "formula": "",
-          "label": ""
-        },
-        "category": "standard"
-      },
-      "effects": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "impmal",
-        "systemVersion": "3.2.1"
-      },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.RfGLcr0JePtE2wrp"
-    },
-    {
-      "name": "Deadeye",
-      "type": "trait",
-      "_id": "P7mD4HQb8GeavjTE",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
-      "system": {
-        "notes": {
-          "player": "",
-          "gm": "<p>When the Aeldari Ranger uses the Aim Action they gain +1 SL to their Ranged Attack Test.</p>"
-        },
-        "attack": {
-          "enabled": false,
-          "type": "melee",
-          "characteristic": "",
-          "skill": {
-            "key": "",
-            "specialisation": ""
-          },
-          "damage": {
-            "SL": false,
-            "base": "",
-            "characteristic": "",
-            "ignoreAP": false
-          },
-          "range": "",
-          "traits": {
-            "list": []
-          },
-          "self": false
-        },
-        "test": {
-          "enabled": false,
-          "target": "self",
-          "difficulty": "challenging",
-          "characteristic": "",
-          "skill": {
-            "key": "",
-            "specialisation": ""
-          },
-          "self": false
-        },
-        "roll": {
-          "enabled": false,
-          "formula": "",
-          "label": ""
-        },
-        "category": "standard"
-      },
-      "effects": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "impmal",
-        "systemVersion": "3.2.1"
-      },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.P7mD4HQb8GeavjTE"
-    },
-    {
-      "name": "Ranger Long Rifle",
+      "name": "Hooves",
       "type": "weapon",
-      "_id": "QykdeLFkeJnjb7wX",
-      "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
+      "_id": "ju6BRoQowFgsH9R1",
+      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -443,30 +321,19 @@
           "force": true
         },
         "damage": {
-          "base": "9",
+          "base": "5",
           "characteristic": "",
           "SL": true,
           "ignoreAP": false
         },
         "traits": {
-          "list": [
-            {
-              "key": "loud"
-            },
-            {
-              "key": "penetrating",
-              "value": "2"
-            },
-            {
-              "key": "twoHanded"
-            }
-          ]
+          "list": []
         },
         "ammoCost": 0,
-        "attackType": "ranged",
-        "category": "",
-        "spec": "longGun",
-        "range": "extreme",
+        "attackType": "melee",
+        "category": "mundane",
+        "spec": "brawling",
+        "range": "",
         "rangeModifier": {
           "value": 0,
           "override": ""
@@ -497,90 +364,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.QykdeLFkeJnjb7wX"
+      "_key": "!actors.items!dXt5yN84Bl3WWWqW.ju6BRoQowFgsH9R1"
     },
     {
-      "name": "Shuriken Pistol",
-      "type": "weapon",
-      "_id": "h9HjQtDcArQZclrj",
-      "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
-      "system": {
-        "notes": {
-          "player": "",
-          "gm": ""
-        },
-        "encumbrance": {
-          "value": 0
-        },
-        "cost": 0,
-        "availability": "",
-        "quantity": 1,
-        "equipped": {
-          "value": true,
-          "hand": "",
-          "force": true
-        },
-        "damage": {
-          "base": "6",
-          "characteristic": "",
-          "SL": true,
-          "ignoreAP": false
-        },
-        "traits": {
-          "list": [
-            {
-              "key": "burst"
-            },
-            {
-              "key": "close"
-            },
-            {
-              "key": "penetrating",
-              "value": "4"
-            }
-          ]
-        },
-        "ammoCost": 0,
-        "attackType": "ranged",
-        "category": "",
-        "spec": "pistol",
-        "range": "medium",
-        "rangeModifier": {
-          "value": 0,
-          "override": ""
-        },
-        "mag": {
-          "value": 1,
-          "current": 1
-        },
-        "ammo": {
-          "id": ""
-        },
-        "mods": {
-          "list": []
-        },
-        "slots": {
-          "list": [],
-          "value": 0
-        }
-      },
-      "effects": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "impmal",
-        "systemVersion": "3.2.1"
-      },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.h9HjQtDcArQZclrj"
-    },
-    {
-      "name": "Sight",
+      "name": "Might",
       "type": "specialisation",
-      "_id": "t92jX1DcKyWwFvL0",
+      "_id": "YpX4nVrRtdVlC1fD",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -589,7 +378,7 @@
         },
         "advances": 2,
         "restricted": false,
-        "skill": "awareness"
+        "skill": "athletics"
       },
       "effects": [],
       "sort": 0,
@@ -605,12 +394,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.t92jX1DcKyWwFvL0"
+      "_key": "!actors.items!dXt5yN84Bl3WWWqW.YpX4nVrRtdVlC1fD"
     },
     {
-      "name": "Psyniscience",
+      "name": "Running",
       "type": "specialisation",
-      "_id": "DEcY7E30M4kCUXH0",
+      "_id": "BUiTue7fiPgpoiN4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -619,7 +408,7 @@
         },
         "advances": 2,
         "restricted": false,
-        "skill": "awareness"
+        "skill": "athletics"
       },
       "effects": [],
       "sort": 0,
@@ -635,21 +424,21 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.DEcY7E30M4kCUXH0"
+      "_key": "!actors.items!dXt5yN84Bl3WWWqW.BUiTue7fiPgpoiN4"
     },
     {
-      "name": "Surface",
+      "name": "Pain",
       "type": "specialisation",
-      "_id": "CsrhXlABXh8Hg11F",
+      "_id": "au9KWLFbAzjQ05OI",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
           "gm": ""
         },
-        "advances": 2,
+        "advances": 1,
         "restricted": false,
-        "skill": "navigation"
+        "skill": "fortitude"
       },
       "effects": [],
       "sort": 0,
@@ -665,37 +454,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.CsrhXlABXh8Hg11F"
-    },
-    {
-      "name": "Long Guns",
-      "type": "specialisation",
-      "_id": "y00QqPmwgSSZ9kL6",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
-      "system": {
-        "notes": {
-          "player": "",
-          "gm": ""
-        },
-        "advances": 2,
-        "restricted": false,
-        "skill": "ranged"
-      },
-      "effects": [],
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "impmal",
-        "systemVersion": "3.2.1"
-      },
-      "_key": "!actors.items!XwpbbYbwPNENDjfl.y00QqPmwgSSZ9kL6"
+      "_key": "!actors.items!dXt5yN84Bl3WWWqW.au9KWLFbAzjQ05OI"
     }
   ]
 }
