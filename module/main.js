@@ -174,6 +174,36 @@ Hooks.on('init', () => {
                 }]
             }
         },
+        tripleLinked: {
+            name: 'Triple-Linked',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Triple-Linked: +2 SL',
+                    trigger: 'dialog',
+                    script: 'args.fields.SL += 2;'
+                }, {
+                    label: 'Triple-Linked: additional hit at SL 3+',
+                    trigger: 'rollWeaponTest',
+                    script: 'if ((args.result.SL || 0) >= 3) args.result.additionalHits = (args.result.additionalHits || 0) + 1;'
+                }]
+            }
+        },
+        quadLinked: {
+            name: 'Quad-Linked',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Quad-Linked: +3 SL',
+                    trigger: 'dialog',
+                    script: 'args.fields.SL += 3;'
+                }, {
+                    label: 'Quad-Linked: additional hit at SL 2+',
+                    trigger: 'rollWeaponTest',
+                    script: 'if ((args.result.SL || 0) >= 2) args.result.additionalHits = (args.result.additionalHits || 0) + 1;'
+                }]
+            }
+        },
         gyroStabilized: {
             name: 'Gyro-Stabilized',
             system: {
