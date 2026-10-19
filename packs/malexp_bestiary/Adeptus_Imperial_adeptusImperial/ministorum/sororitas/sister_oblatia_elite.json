@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Oblatia",
   "type": "npc",
   "_id": "adeptusActor45",
@@ -241,7 +241,7 @@
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor45Item1",
+      "_id": "adeptusActor45Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item1"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item01"
     },
     {
       "name": "Boltgun",
       "type": "weapon",
-      "_id": "adeptusActor45Item2",
+      "_id": "adeptusActor45Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item2"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item02"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor45Item3",
+      "_id": "adeptusActor45Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -463,12 +463,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item3"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item03"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "adeptusActor45Item4",
+      "_id": "adeptusActor45Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -540,12 +540,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item4"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item04"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "adeptusActor45Item5",
+      "_id": "adeptusActor45Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -620,12 +620,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item5"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item05"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor45Item6",
+      "_id": "adeptusActor45Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -650,12 +650,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item6"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item06"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor45Item7",
+      "_id": "adeptusActor45Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -680,12 +680,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item7"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item07"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor45Item8",
+      "_id": "adeptusActor45Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -710,12 +710,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item8"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item08"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor45Item9",
+      "_id": "adeptusActor45Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -740,7 +740,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor45.adeptusActor45Item9"
+      "_key": "!actors.items!adeptusActor45.adeptusActor45Item09"
     },
     {
       "name": "Long Guns",

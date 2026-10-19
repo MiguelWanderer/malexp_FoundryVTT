@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorum",
+  "folder": "adeptusFolder05",
   "name": "Crusader",
   "type": "npc",
   "_id": "adeptusActor23",
@@ -241,7 +241,7 @@
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor23Item1",
+      "_id": "adeptusActor23Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item1"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item01"
     },
     {
       "name": "Mastercrafted Sanctified Power Sword",
       "type": "weapon",
-      "_id": "adeptusActor23Item2",
+      "_id": "adeptusActor23Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item2"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item02"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor23Item3",
+      "_id": "adeptusActor23Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -401,12 +401,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item3"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item03"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor23Item4",
+      "_id": "adeptusActor23Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -431,12 +431,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item4"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item04"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor23Item5",
+      "_id": "adeptusActor23Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -461,12 +461,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item5"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item05"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor23Item6",
+      "_id": "adeptusActor23Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -491,12 +491,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item6"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item06"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor23Item7",
+      "_id": "adeptusActor23Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -521,12 +521,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item7"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item07"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor23Item8",
+      "_id": "adeptusActor23Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -551,7 +551,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item8"
+      "_key": "!actors.items!adeptusActor23.adeptusActor23Item08"
     }
   ]
 }

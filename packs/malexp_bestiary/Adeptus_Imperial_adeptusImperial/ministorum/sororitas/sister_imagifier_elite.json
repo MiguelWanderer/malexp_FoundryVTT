@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Imagifier",
   "type": "npc",
   "_id": "adeptusActor44",
@@ -241,7 +241,7 @@
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor44Item1",
+      "_id": "adeptusActor44Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item1"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item01"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor44Item2",
+      "_id": "adeptusActor44Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item2"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item02"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "adeptusActor44Item3",
+      "_id": "adeptusActor44Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -457,12 +457,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item3"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item03"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "adeptusActor44Item4",
+      "_id": "adeptusActor44Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -537,12 +537,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item4"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item04"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor44Item5",
+      "_id": "adeptusActor44Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -611,12 +611,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item5"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item05"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor44Item6",
+      "_id": "adeptusActor44Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -641,12 +641,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item6"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item06"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor44Item7",
+      "_id": "adeptusActor44Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -671,12 +671,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item7"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item07"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor44Item8",
+      "_id": "adeptusActor44Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -701,12 +701,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item8"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item08"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor44Item9",
+      "_id": "adeptusActor44Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -731,7 +731,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor44.adeptusActor44Item9"
+      "_key": "!actors.items!adeptusActor44.adeptusActor44Item09"
     },
     {
       "name": "Leadership",

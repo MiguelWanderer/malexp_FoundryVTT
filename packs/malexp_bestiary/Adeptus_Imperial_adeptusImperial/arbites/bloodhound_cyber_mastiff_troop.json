@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Bloodhound Cyber Mastiff",
   "type": "npc",
   "_id": "adeptusActor11",
@@ -241,7 +241,7 @@
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor11Item1",
+      "_id": "adeptusActor11Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item1"
+      "_key": "!actors.items!adeptusActor11.adeptusActor11Item01"
     },
     {
       "name": "Plasteel Jaw",
       "type": "weapon",
-      "_id": "adeptusActor11Item2",
+      "_id": "adeptusActor11Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item2"
+      "_key": "!actors.items!adeptusActor11.adeptusActor11Item02"
     },
     {
       "name": "Smell",
       "type": "specialisation",
-      "_id": "adeptusActor11Item3",
+      "_id": "adeptusActor11Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -398,12 +398,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item3"
+      "_key": "!actors.items!adeptusActor11.adeptusActor11Item03"
     },
     {
       "name": "Tracking",
       "type": "specialisation",
-      "_id": "adeptusActor11Item4",
+      "_id": "adeptusActor11Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -428,7 +428,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item4"
+      "_key": "!actors.items!adeptusActor11.adeptusActor11Item04"
     }
   ]
 }

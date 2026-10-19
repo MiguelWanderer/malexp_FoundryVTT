@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Hospitaller",
   "type": "npc",
   "_id": "adeptusActor43",
@@ -241,7 +241,7 @@
     {
       "name": "Chirurgeon",
       "type": "trait",
-      "_id": "adeptusActor43Item1",
+      "_id": "adeptusActor43Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item1"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item01"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor43Item2",
+      "_id": "adeptusActor43Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item2"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item02"
     },
     {
       "name": "Chainblade",
       "type": "weapon",
-      "_id": "adeptusActor43Item3",
+      "_id": "adeptusActor43Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item3"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item03"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor43Item4",
+      "_id": "adeptusActor43Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -484,12 +484,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item4"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item04"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor43Item5",
+      "_id": "adeptusActor43Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -514,12 +514,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item5"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item05"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor43Item6",
+      "_id": "adeptusActor43Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -544,12 +544,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item6"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item06"
     },
     {
       "name": "Humans",
       "type": "specialisation",
-      "_id": "adeptusActor43Item7",
+      "_id": "adeptusActor43Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -574,12 +574,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item7"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item07"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "adeptusActor43Item8",
+      "_id": "adeptusActor43Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -604,7 +604,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item8"
+      "_key": "!actors.items!adeptusActor43.adeptusActor43Item08"
     }
   ]
 }

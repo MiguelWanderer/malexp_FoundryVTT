@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Verispex Adept",
   "type": "npc",
   "_id": "adeptusActor18",
@@ -241,7 +241,7 @@
     {
       "name": "Investigative Expert",
       "type": "trait",
-      "_id": "adeptusActor18Item1",
+      "_id": "adeptusActor18Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item1"
+      "_key": "!actors.items!adeptusActor18.adeptusActor18Item01"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor18Item2",
+      "_id": "adeptusActor18Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item2"
+      "_key": "!actors.items!adeptusActor18.adeptusActor18Item02"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "adeptusActor18Item3",
+      "_id": "adeptusActor18Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -388,12 +388,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item3"
+      "_key": "!actors.items!adeptusActor18.adeptusActor18Item03"
     },
     {
       "name": "Investigation",
       "type": "specialisation",
-      "_id": "adeptusActor18Item4",
+      "_id": "adeptusActor18Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -418,7 +418,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item4"
+      "_key": "!actors.items!adeptusActor18.adeptusActor18Item04"
     }
   ]
 }

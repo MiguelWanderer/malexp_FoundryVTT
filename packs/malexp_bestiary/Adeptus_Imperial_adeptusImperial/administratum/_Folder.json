@@ -4,7 +4,7 @@
   "name": "Administratum",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusadministratum",
+  "_id": "adeptusFolder01",
   "description": "",
   "sort": 921001,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusadministratum"
+  "_key": "!folders!adeptusFolder01"
 }

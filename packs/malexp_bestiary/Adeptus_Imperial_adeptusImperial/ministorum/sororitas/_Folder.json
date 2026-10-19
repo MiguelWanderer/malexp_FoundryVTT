@@ -4,7 +4,7 @@
   "name": "Ministorum/Sororitas",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusministorumsororita",
+  "_id": "adeptusFolder04",
   "description": "",
   "sort": 921004,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusministorumsororita"
+  "_key": "!folders!adeptusFolder04"
 }

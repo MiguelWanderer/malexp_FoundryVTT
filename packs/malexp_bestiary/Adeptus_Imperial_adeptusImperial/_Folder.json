@@ -4,7 +4,7 @@
   "name": "Adeptus Imperial",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusImperial",
+  "_id": "adeptusFolder06",
   "description": "",
   "sort": 920000,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusImperial"
+  "_key": "!folders!adeptusFolder06"
 }

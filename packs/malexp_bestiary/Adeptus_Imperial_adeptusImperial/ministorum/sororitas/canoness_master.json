@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Canoness",
   "type": "npc",
   "_id": "adeptusActor27",
@@ -241,7 +241,7 @@
     {
       "name": "Acts of Faith",
       "type": "trait",
-      "_id": "adeptusActor27Item1",
+      "_id": "adeptusActor27Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item1"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item01"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor27Item2",
+      "_id": "adeptusActor27Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item2"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item02"
     },
     {
       "name": "Hallowed Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor27Item3",
+      "_id": "adeptusActor27Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -457,12 +457,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item3"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item03"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor27Item4",
+      "_id": "adeptusActor27Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -487,12 +487,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item4"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item04"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor27Item5",
+      "_id": "adeptusActor27Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -517,12 +517,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item5"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item05"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor27Item6",
+      "_id": "adeptusActor27Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -547,12 +547,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item6"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item06"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor27Item7",
+      "_id": "adeptusActor27Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -577,12 +577,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item7"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item07"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor27Item8",
+      "_id": "adeptusActor27Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -607,12 +607,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item8"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item08"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "adeptusActor27Item9",
+      "_id": "adeptusActor27Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -637,7 +637,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor27.adeptusActor27Item9"
+      "_key": "!actors.items!adeptusActor27.adeptusActor27Item09"
     }
   ]
 }

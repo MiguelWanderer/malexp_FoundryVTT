@@ -4,7 +4,7 @@
   "name": "Ministorum",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusministorum",
+  "_id": "adeptusFolder05",
   "description": "",
   "sort": 921003,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusministorum"
+  "_key": "!folders!adeptusFolder05"
 }

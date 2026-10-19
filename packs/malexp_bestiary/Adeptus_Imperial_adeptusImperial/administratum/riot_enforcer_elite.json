@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusadministratum",
+  "folder": "adeptusFolder01",
   "name": "Riot Enforcer",
   "type": "npc",
   "_id": "adeptusActor07",
@@ -241,7 +241,7 @@
     {
       "name": "Call for Backup",
       "type": "trait",
-      "_id": "adeptusActor07Item1",
+      "_id": "adeptusActor07Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item1"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item01"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor07Item2",
+      "_id": "adeptusActor07Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item2"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item02"
     },
     {
       "name": "Ius Automatic",
       "type": "weapon",
-      "_id": "adeptusActor07Item3",
+      "_id": "adeptusActor07Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item3"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item03"
     },
     {
       "name": "Choke Grenade",
       "type": "weapon",
-      "_id": "adeptusActor07Item4",
+      "_id": "adeptusActor07Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -509,12 +509,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item4"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item04"
     },
     {
       "name": "Shock Maul",
       "type": "weapon",
-      "_id": "adeptusActor07Item5",
+      "_id": "adeptusActor07Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -583,12 +583,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item5"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item05"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor07Item6",
+      "_id": "adeptusActor07Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -613,12 +613,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item6"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item06"
     },
     {
       "name": "Interrogation",
       "type": "specialisation",
-      "_id": "adeptusActor07Item7",
+      "_id": "adeptusActor07Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -643,12 +643,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item7"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item07"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor07Item8",
+      "_id": "adeptusActor07Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -673,7 +673,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor07.adeptusActor07Item8"
+      "_key": "!actors.items!adeptusActor07.adeptusActor07Item08"
     }
   ]
 }

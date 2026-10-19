@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Servo-Hunter",
   "type": "npc",
   "_id": "adeptusActor16",
@@ -241,7 +241,7 @@
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor16Item1",
+      "_id": "adeptusActor16Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item1"
+      "_key": "!actors.items!adeptusActor16.adeptusActor16Item01"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor16Item2",
+      "_id": "adeptusActor16Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item2"
+      "_key": "!actors.items!adeptusActor16.adeptusActor16Item02"
     },
     {
       "name": "Tracking",
       "type": "specialisation",
-      "_id": "adeptusActor16Item3",
+      "_id": "adeptusActor16Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -388,7 +388,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item3"
+      "_key": "!actors.items!adeptusActor16.adeptusActor16Item03"
     }
   ]
 }

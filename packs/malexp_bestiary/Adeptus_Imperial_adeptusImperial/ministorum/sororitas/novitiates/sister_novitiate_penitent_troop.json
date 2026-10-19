@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Novitiate Penitent",
   "type": "npc",
   "_id": "adeptusActor34",
@@ -241,7 +241,7 @@
     {
       "name": "Absolution Through Destruction",
       "type": "trait",
-      "_id": "adeptusActor34Item1",
+      "_id": "adeptusActor34Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item1"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item01"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor34Item2",
+      "_id": "adeptusActor34Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item2"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item02"
     },
     {
       "name": "Eviscerator",
       "type": "weapon",
-      "_id": "adeptusActor34Item3",
+      "_id": "adeptusActor34Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -451,12 +451,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item3"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item03"
     },
     {
       "name": "Pain",
       "type": "specialisation",
-      "_id": "adeptusActor34Item4",
+      "_id": "adeptusActor34Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -481,12 +481,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item4"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item04"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor34Item5",
+      "_id": "adeptusActor34Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -511,12 +511,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item5"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item05"
     },
     {
       "name": "Two-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor34Item6",
+      "_id": "adeptusActor34Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -541,7 +541,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor34.adeptusActor34Item6"
+      "_key": "!actors.items!adeptusActor34.adeptusActor34Item06"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Novitiate Purgatus",
   "type": "npc",
   "_id": "adeptusActor36",
@@ -241,7 +241,7 @@
     {
       "name": "Cleanse with Fire",
       "type": "trait",
-      "_id": "adeptusActor36Item1",
+      "_id": "adeptusActor36Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor36.adeptusActor36Item1"
+      "_key": "!actors.items!adeptusActor36.adeptusActor36Item01"
     },
     {
       "name": "Flamer",
       "type": "weapon",
-      "_id": "adeptusActor36Item2",
+      "_id": "adeptusActor36Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor36.adeptusActor36Item2"
+      "_key": "!actors.items!adeptusActor36.adeptusActor36Item02"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor36Item3",
+      "_id": "adeptusActor36Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -404,7 +404,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor36.adeptusActor36Item3"
+      "_key": "!actors.items!adeptusActor36.adeptusActor36Item03"
     }
   ]
 }

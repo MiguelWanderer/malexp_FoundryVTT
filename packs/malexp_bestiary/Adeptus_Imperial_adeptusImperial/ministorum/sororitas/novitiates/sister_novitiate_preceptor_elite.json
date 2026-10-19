@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Novitiate Preceptor",
   "type": "npc",
   "_id": "adeptusActor35",
@@ -241,7 +241,7 @@
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "adeptusActor35Item1",
+      "_id": "adeptusActor35Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor35.adeptusActor35Item1"
+      "_key": "!actors.items!adeptusActor35.adeptusActor35Item01"
     },
     {
       "name": "Mace of the Righteous",
       "type": "weapon",
-      "_id": "adeptusActor35Item2",
+      "_id": "adeptusActor35Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor35.adeptusActor35Item2"
+      "_key": "!actors.items!adeptusActor35.adeptusActor35Item02"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor35Item3",
+      "_id": "adeptusActor35Item03",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -401,7 +401,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor35.adeptusActor35Item3"
+      "_key": "!actors.items!adeptusActor35.adeptusActor35Item03"
     }
   ]
 }

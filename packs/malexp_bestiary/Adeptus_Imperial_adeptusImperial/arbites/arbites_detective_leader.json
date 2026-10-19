@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Arbites Detective",
   "type": "npc",
   "_id": "adeptusActor10",
@@ -241,7 +241,7 @@
     {
       "name": "Guilty until Proven Innocent",
       "type": "trait",
-      "_id": "adeptusActor10Item1",
+      "_id": "adeptusActor10Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item1"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item01"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor10Item2",
+      "_id": "adeptusActor10Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item2"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item02"
     },
     {
       "name": "Silenced Stub Pistol",
       "type": "weapon",
-      "_id": "adeptusActor10Item3",
+      "_id": "adeptusActor10Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -432,12 +432,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item3"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item03"
     },
     {
       "name": "Mono-Knife",
       "type": "weapon",
-      "_id": "adeptusActor10Item4",
+      "_id": "adeptusActor10Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -503,12 +503,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item4"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item04"
     },
     {
       "name": "Composure",
       "type": "specialisation",
-      "_id": "adeptusActor10Item5",
+      "_id": "adeptusActor10Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -533,12 +533,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item5"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item05"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor10Item6",
+      "_id": "adeptusActor10Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -563,12 +563,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item6"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item06"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor10Item7",
+      "_id": "adeptusActor10Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -593,12 +593,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item7"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item07"
     },
     {
       "name": "Interrogation",
       "type": "specialisation",
-      "_id": "adeptusActor10Item8",
+      "_id": "adeptusActor10Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -623,12 +623,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item8"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item08"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor10Item9",
+      "_id": "adeptusActor10Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -653,7 +653,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item9"
+      "_key": "!actors.items!adeptusActor10.adeptusActor10Item09"
     },
     {
       "name": "Long Guns",

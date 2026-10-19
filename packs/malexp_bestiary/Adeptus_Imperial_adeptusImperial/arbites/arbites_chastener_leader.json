@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Arbites Chastener",
   "type": "npc",
   "_id": "adeptusActor09",
@@ -241,7 +241,7 @@
     {
       "name": "Alive, not Dead",
       "type": "trait",
-      "_id": "adeptusActor09Item1",
+      "_id": "adeptusActor09Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item1"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item01"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor09Item2",
+      "_id": "adeptusActor09Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item2"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item02"
     },
     {
       "name": "Shock Maul",
       "type": "weapon",
-      "_id": "adeptusActor09Item3",
+      "_id": "adeptusActor09Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -432,12 +432,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item3"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item03"
     },
     {
       "name": "Combat Shotgun",
       "type": "weapon",
-      "_id": "adeptusActor09Item4",
+      "_id": "adeptusActor09Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -515,12 +515,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item4"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item04"
     },
     {
       "name": "Webber",
       "type": "weapon",
-      "_id": "adeptusActor09Item5",
+      "_id": "adeptusActor09Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -589,12 +589,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item5"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item05"
     },
     {
       "name": "Choke Grenade",
       "type": "weapon",
-      "_id": "adeptusActor09Item6",
+      "_id": "adeptusActor09Item06",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -660,12 +660,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item6"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item06"
     },
     {
       "name": "Composure",
       "type": "specialisation",
-      "_id": "adeptusActor09Item7",
+      "_id": "adeptusActor09Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -690,12 +690,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item7"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item07"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor09Item8",
+      "_id": "adeptusActor09Item08",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -720,12 +720,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item8"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item08"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor09Item9",
+      "_id": "adeptusActor09Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -750,7 +750,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor09.adeptusActor09Item9"
+      "_key": "!actors.items!adeptusActor09.adeptusActor09Item09"
     },
     {
       "name": "One-handed",

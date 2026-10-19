@@ -4,7 +4,7 @@
   "name": "Arbites",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusarbites",
+  "_id": "adeptusFolder02",
   "description": "",
   "sort": 921002,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusarbites"
+  "_key": "!folders!adeptusFolder02"
 }

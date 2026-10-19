@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister of Battle",
   "type": "npc",
   "_id": "adeptusActor46",
@@ -241,7 +241,7 @@
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor46Item1",
+      "_id": "adeptusActor46Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item1"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item01"
     },
     {
       "name": "Boltgun",
       "type": "weapon",
-      "_id": "adeptusActor46Item2",
+      "_id": "adeptusActor46Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item2"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item02"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor46Item3",
+      "_id": "adeptusActor46Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -463,12 +463,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item3"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item03"
     },
     {
       "name": "Storm Bolter",
       "type": "weapon",
-      "_id": "adeptusActor46Item4",
+      "_id": "adeptusActor46Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -543,12 +543,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item4"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item04"
     },
     {
       "name": "Flamer",
       "type": "weapon",
-      "_id": "adeptusActor46Item5",
+      "_id": "adeptusActor46Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -623,12 +623,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item5"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item05"
     },
     {
       "name": "Meltagun",
       "type": "weapon",
-      "_id": "adeptusActor46Item6",
+      "_id": "adeptusActor46Item06",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -700,12 +700,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item6"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item06"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "adeptusActor46Item7",
+      "_id": "adeptusActor46Item07",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -777,12 +777,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item7"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item07"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "adeptusActor46Item8",
+      "_id": "adeptusActor46Item08",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -857,12 +857,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item8"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item08"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor46Item9",
+      "_id": "adeptusActor46Item09",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -931,7 +931,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor46.adeptusActor46Item9"
+      "_key": "!actors.items!adeptusActor46.adeptusActor46Item09"
     },
     {
       "name": "Fear",

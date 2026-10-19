@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Retributor",
   "type": "npc",
   "_id": "adeptusActor48",
@@ -241,7 +241,7 @@
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor48Item1",
+      "_id": "adeptusActor48Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item1"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item01"
     },
     {
       "name": "Heavy Bolter",
       "type": "weapon",
-      "_id": "adeptusActor48Item2",
+      "_id": "adeptusActor48Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item2"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item02"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor48Item3",
+      "_id": "adeptusActor48Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -463,12 +463,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item3"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item03"
     },
     {
       "name": "Heavy Flamer",
       "type": "weapon",
-      "_id": "adeptusActor48Item4",
+      "_id": "adeptusActor48Item04",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -543,12 +543,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item4"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item04"
     },
     {
       "name": "Multi-Melta",
       "type": "weapon",
-      "_id": "adeptusActor48Item5",
+      "_id": "adeptusActor48Item05",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -620,12 +620,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item5"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item05"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "adeptusActor48Item6",
+      "_id": "adeptusActor48Item06",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -697,12 +697,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item6"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item06"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "adeptusActor48Item7",
+      "_id": "adeptusActor48Item07",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -777,12 +777,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item7"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item07"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor48Item8",
+      "_id": "adeptusActor48Item08",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -851,12 +851,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item8"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item08"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor48Item9",
+      "_id": "adeptusActor48Item09",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -881,7 +881,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor48.adeptusActor48Item9"
+      "_key": "!actors.items!adeptusActor48.adeptusActor48Item09"
     },
     {
       "name": "Psychic",

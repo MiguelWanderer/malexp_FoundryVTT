@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorumsororita",
+  "folder": "adeptusFolder04",
   "name": "Sister Novitiate Duelist",
   "type": "npc",
   "_id": "adeptusActor30",
@@ -241,7 +241,7 @@
     {
       "name": "Duelist",
       "type": "trait",
-      "_id": "adeptusActor30Item1",
+      "_id": "adeptusActor30Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item1"
+      "_key": "!actors.items!adeptusActor30.adeptusActor30Item01"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor30Item2",
+      "_id": "adeptusActor30Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item2"
+      "_key": "!actors.items!adeptusActor30.adeptusActor30Item02"
     },
     {
       "name": "2x Mono-Swords",
       "type": "weapon",
-      "_id": "adeptusActor30Item3",
+      "_id": "adeptusActor30Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -445,12 +445,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item3"
+      "_key": "!actors.items!adeptusActor30.adeptusActor30Item03"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor30Item4",
+      "_id": "adeptusActor30Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -475,7 +475,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item4"
+      "_key": "!actors.items!adeptusActor30.adeptusActor30Item04"
     }
   ]
 }

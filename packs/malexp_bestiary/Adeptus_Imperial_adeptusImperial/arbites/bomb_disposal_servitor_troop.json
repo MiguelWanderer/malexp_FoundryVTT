@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Bomb Disposal Servitor",
   "type": "npc",
   "_id": "adeptusActor12",
@@ -241,7 +241,7 @@
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor12Item1",
+      "_id": "adeptusActor12Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor12.adeptusActor12Item1"
+      "_key": "!actors.items!adeptusActor12.adeptusActor12Item01"
     },
     {
       "name": "Shotgun Pistol",
       "type": "weapon",
-      "_id": "adeptusActor12Item2",
+      "_id": "adeptusActor12Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,7 +371,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor12.adeptusActor12Item2"
+      "_key": "!actors.items!adeptusActor12.adeptusActor12Item02"
     }
   ]
 }

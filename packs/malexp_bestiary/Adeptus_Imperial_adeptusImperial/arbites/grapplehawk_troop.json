@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusarbites",
+  "folder": "adeptusFolder02",
   "name": "Grapplehawk",
   "type": "npc",
   "_id": "adeptusActor15",
@@ -241,7 +241,7 @@
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor15Item1",
+      "_id": "adeptusActor15Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item1"
+      "_key": "!actors.items!adeptusActor15.adeptusActor15Item01"
     },
     {
       "name": "Rending Claws",
       "type": "weapon",
-      "_id": "adeptusActor15Item2",
+      "_id": "adeptusActor15Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item2"
+      "_key": "!actors.items!adeptusActor15.adeptusActor15Item02"
     },
     {
       "name": "Shock Pulse Claws",
       "type": "weapon",
-      "_id": "adeptusActor15Item3",
+      "_id": "adeptusActor15Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -439,12 +439,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item3"
+      "_key": "!actors.items!adeptusActor15.adeptusActor15Item03"
     },
     {
       "name": "Dodge",
       "type": "specialisation",
-      "_id": "adeptusActor15Item4",
+      "_id": "adeptusActor15Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -469,7 +469,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item4"
+      "_key": "!actors.items!adeptusActor15.adeptusActor15Item04"
     }
   ]
 }

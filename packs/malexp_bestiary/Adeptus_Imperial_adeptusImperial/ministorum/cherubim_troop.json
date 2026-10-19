@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorum",
+  "folder": "adeptusFolder05",
   "name": "Cherubim",
   "type": "npc",
   "_id": "adeptusActor21",
@@ -241,7 +241,7 @@
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor21Item1",
+      "_id": "adeptusActor21Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor21.adeptusActor21Item1"
+      "_key": "!actors.items!adeptusActor21.adeptusActor21Item01"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor21Item2",
+      "_id": "adeptusActor21Item02",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,7 +358,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor21.adeptusActor21Item2"
+      "_key": "!actors.items!adeptusActor21.adeptusActor21Item02"
     }
   ]
 }

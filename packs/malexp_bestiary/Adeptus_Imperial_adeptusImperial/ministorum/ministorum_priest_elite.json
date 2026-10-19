@@ -1,5 +1,5 @@
 {
-  "folder": "adeptusministorum",
+  "folder": "adeptusFolder05",
   "name": "Ministorum Priest",
   "type": "npc",
   "_id": "adeptusActor25",
@@ -241,7 +241,7 @@
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "adeptusActor25Item1",
+      "_id": "adeptusActor25Item01",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item1"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item01"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor25Item2",
+      "_id": "adeptusActor25Item02",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item2"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item02"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor25Item3",
+      "_id": "adeptusActor25Item03",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item3"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item03"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor25Item4",
+      "_id": "adeptusActor25Item04",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item4"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item04"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor25Item5",
+      "_id": "adeptusActor25Item05",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item5"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item05"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor25Item6",
+      "_id": "adeptusActor25Item06",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item6"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item06"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor25Item7",
+      "_id": "adeptusActor25Item07",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,7 +568,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item7"
+      "_key": "!actors.items!adeptusActor25.adeptusActor25Item07"
     }
   ]
 }
