@@ -159,6 +159,26 @@ Hooks.on('init', () => {
                 }]
             }
         },
+        inflict: {
+            name: 'Inflict (X)',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Inflict: apply weapon conditions',
+                    trigger: 'applyDamage',
+                    script: `
+                        let conditions = (args.item?.system?.traits?.list || [])
+                            .filter(trait => trait.key === 'inflict' && trait.value)
+                            .map(trait => String(trait.value).toLowerCase());
+                        for (let condition of conditions) {
+                            if (args.actor?.toggleStatusEffect) {
+                                args.actor.toggleStatusEffect(condition, {active: true});
+                            }
+                        }
+                    `
+                }]
+            }
+        },
         twinLinked: {
             name: 'Twin-Linked',
             system: {
