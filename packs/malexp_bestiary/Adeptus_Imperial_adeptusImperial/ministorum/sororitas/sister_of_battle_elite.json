@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Guns) 70, 8 + SL Damage, Long Range. Loud, Penetrating (4), Rapid Fire (2), Spread, Two-handed.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -390,7 +390,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Pistols) 60, 8 + SL Damage, Short Range. Burst, Close, Loud, Penetrating (4), Spread.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -473,7 +473,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Ordnance) 60, 8 + SL Damage, Long Range. Heavy (4), Loud, Penetrating (4), Spread, Storm (2), Two-Handed</p>"
         },
         "encumbrance": {
           "value": 0
@@ -553,7 +553,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Guns) 70, 8 + SL Damage, Medium Range. Flamer, Inflict (Ablaze), Loud, Two-Handed.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -633,7 +633,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Guns) 70, 16 + SL Damage, Medium Range. Loud, Rend (5), Two-Handed.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -710,7 +710,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Thrown) 50, 6 Damage, Medium Range. Blast, Loud, Unstable.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -787,7 +787,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Thrown) 50, 12 Damage, Medium Range. Loud, Penetrating (4), Spread, Unstable.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -867,7 +867,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed) 60, 9 Damage. Loud, Rend (2).</p>"
         },
         "encumbrance": {
           "value": 0

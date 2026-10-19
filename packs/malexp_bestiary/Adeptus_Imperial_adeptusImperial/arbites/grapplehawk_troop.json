@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (Brawling), 40, 4 + SL Damage. Rend (1).</p>"
         },
         "encumbrance": {
           "value": 0
@@ -378,7 +378,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (Brawling), 40, 3 + SL Damage. Inflict (Stunned).</p>"
         },
         "encumbrance": {
           "value": 0

@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Pistol), 30, 5 + SL Damage, [Medium Range]. Burst, Close, Loud, Reliable</p>"
         },
         "encumbrance": {
           "value": 0
@@ -387,7 +387,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (Brawling), 30, 2 + SL Damage. Ineffective.</p>"
         },
         "encumbrance": {
           "value": 0

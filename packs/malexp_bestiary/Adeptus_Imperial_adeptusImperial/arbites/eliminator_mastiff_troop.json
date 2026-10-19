@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (Brawling), 35, 7 + SL Damage. Rend (3)</p>"
         },
         "encumbrance": {
           "value": 0
@@ -378,7 +378,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Guns), 40, 5 + SL Damage, [Medium Range]. Loud, Rapid Fire (3), Reliable.</p>"
         },
         "encumbrance": {
           "value": 0

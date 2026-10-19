@@ -368,7 +368,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Gun), 50, 6 + SL Damage, [Range]. Loud, Rapid Fire (3), Two-Handed</p>"
         },
         "encumbrance": {
           "value": 0
@@ -445,7 +445,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Pistol), 45, 6 + SL Damage, [Medium Range]. Burst, Close, Loud.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -522,7 +522,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Thrown), 45, Medium Range. Unstable. When a Choke Grenade hits a Zone, all creatures in that Zone must make a Hard (−20) Fortitude (Endurance) Test or suffer the Stunned (Minor) Condition for three rounds. Additionally, anyone who enters or starts their turn in that Zone for the next three rounds must make the same Test.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -593,7 +593,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed), 55, 5 + SL Damage.</p>"
         },
         "encumbrance": {
           "value": 0

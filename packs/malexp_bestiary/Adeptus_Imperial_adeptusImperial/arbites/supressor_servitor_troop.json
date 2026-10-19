@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Ordnance), 20, -, [Long Range]. Inflict (Stunned) Loud, Unstable.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -384,7 +384,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Long Gun), 20, -, [Medium Range]. Inflict (Restrained).</p>"
         },
         "encumbrance": {
           "value": 0
@@ -455,7 +455,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed), 40, 6 + SL Damage. Inflict (Prone).</p>"
         },
         "encumbrance": {
           "value": 0

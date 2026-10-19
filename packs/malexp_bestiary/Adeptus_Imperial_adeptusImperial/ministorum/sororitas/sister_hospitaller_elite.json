@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Pistol), 60, 8 + SL Damage, [Medium Range]. Burst, Close, Loud, Penetrating (4), Spread.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -390,7 +390,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed), 40, 6 + SL Damage. Loud, Rend (2).</p>"
         },
         "encumbrance": {
           "value": 0

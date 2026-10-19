@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Ranged (Pistols) 60, 8 + SL Damage, Short Range. Burst, Close, Loud, Penetrating (4), Spread.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -390,7 +390,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed) 80, 11 Damage. Penetrating (4), Reach, Sanctified.</p>"
         },
         "encumbrance": {
           "value": 0
@@ -464,7 +464,7 @@
       "system": {
         "notes": {
           "player": "",
-          "gm": ""
+          "gm": "<p>Melee (One-Handed) 80, 11 Damage. Penetrating (5), Reach, Sanctified.</p>"
         },
         "encumbrance": {
           "value": 0
