@@ -225,7 +225,22 @@ Hooks.on('init', () => {
                 scriptData: [{
                     label: 'Haywire: resolve effect on hit',
                     trigger: 'applyDamage',
-                    script: 'args.context.haywire = Math.max(args.context.haywire || 0, Number(args.item?.system?.traits?.list?.find(t => t.key === "haywire")?.value || 0));'
+                    script: `
+                        let trait = args.item?.system?.traits?.list?.find(t => t.key === 'haywire');
+                        let bonus = Number(trait?.value || 0);
+                        let roll = Math.ceil(CONFIG.Dice.randomUniform() * 10);
+                        let total = roll + bonus;
+                        let effect = total <= 2 ? 'No noticeable effect.' :
+                            total <= 4 ? '-1 SL to powered technology actions; Power Armour Speed becomes Slow.' :
+                            total <= 6 ? '-2 SL to powered technology actions; Power Armour Speed becomes Slow.' :
+                            total <= 8 ? '-2 SL and Disadvantage to powered technology actions; Power Armour Speed becomes no movement.' :
+                            'As above; the effect lasts 1d5 additional rounds.';
+                        args.context.haywire = Math.max(args.context.haywire || 0, total);
+                        ChatMessage.create({
+                            content: '<p><strong>Haywire (' + bonus + ')</strong>: ' + roll + ' + ' + bonus + ' = ' + total + '. ' + effect + '</p>',
+                            speaker: ChatMessage.getSpeaker({actor: args.opposed?.attackerTest?.actor || args.actor})
+                        });
+                    `
                 }]
             }
         },
@@ -236,7 +251,16 @@ Hooks.on('init', () => {
                 scriptData: [{
                     label: 'Luminagen: mark target',
                     trigger: 'applyDamage',
-                    script: 'args.context.luminagenRounds = 1 + Math.floor(CONFIG.Dice.randomUniform() * 5) + 1;'
+                    script: `
+                        let rounds = 1 + Math.floor(CONFIG.Dice.randomUniform() * 5) + 1;
+                        let ablaze = Math.ceil(CONFIG.Dice.randomUniform() * 10) >= 9;
+                        args.context.luminagenRounds = rounds;
+                        if (ablaze && args.actor?.toggleStatusEffect) args.actor.toggleStatusEffect('ablaze', {active: true});
+                        ChatMessage.create({
+                            content: '<p><strong>Luminagen</strong>: target is affected for ' + rounds + ' rounds.' + (ablaze ? ' The target becomes Ablaze.' : '') + '</p>',
+                            speaker: ChatMessage.getSpeaker({actor: args.opposed?.attackerTest?.actor || args.actor})
+                        });
+                    `
                 }]
             }
         },
