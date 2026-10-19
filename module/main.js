@@ -26,7 +26,6 @@ Hooks.on('init', () => {
         gauss: 'Gauss',
         phase: 'Phase',
         tesla: 'Tesla',
-        fast: 'Fast',
     });
 
     game.impmal.config.weaponTraitEffects ??= {};
@@ -157,6 +156,87 @@ Hooks.on('init', () => {
                         hideScript: "return !args.actor.defendingAgainst || !args.weapon;",
                         activateScript: "return !!args.actor.defendingAgainst && !!args.weapon;"
                     }
+                }]
+            }
+        },
+        twinLinked: {
+            name: 'Twin-Linked',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Twin-Linked: +1 SL',
+                    trigger: 'dialog',
+                    script: 'args.fields.SL++;'
+                }, {
+                    label: 'Twin-Linked: additional hit at SL 4+',
+                    trigger: 'rollWeaponTest',
+                    script: 'if ((args.result.SL || 0) >= 4) args.result.additionalHits = (args.result.additionalHits || 0) + 1;'
+                }]
+            }
+        },
+        gyroStabilized: {
+            name: 'Gyro-Stabilized',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Gyro-Stabilized: effective range is Long',
+                    trigger: 'preRollWeaponTest',
+                    script: 'if (args.item?.system?.isRanged) args.context.gyroStabilized = true;'
+                }]
+            }
+        },
+        transonic: {
+            name: 'Transonic',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Transonic: ignores armour',
+                    trigger: 'preApplyDamage',
+                    script: 'args.ignoreAP = true;'
+                }]
+            }
+        },
+        sanctified: {
+            name: 'Sanctified',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Sanctified: Holy damage',
+                    trigger: 'preApplyDamage',
+                    script: 'args.holy = true;'
+                }]
+            }
+        },
+        vespid: {
+            name: 'Vespid',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Vespid: user restriction',
+                    trigger: 'preRollWeaponTest',
+                    script: "if (!String(args.actor?.system?.species || '').toLowerCase().includes('vespid')) args.result = { ...(args.result || {}), success: false, failed: true };"
+                }]
+            }
+        },
+        haywire: {
+            name: 'Haywire (X)',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Haywire: resolve effect on hit',
+                    trigger: 'applyDamage',
+                    script: 'args.context.haywire = Math.max(args.context.haywire || 0, Number(args.item?.system?.traits?.list?.find(t => t.key === "haywire")?.value || 0));'
+                }]
+            }
+        },
+        luminagen: {
+            name: 'Luminagen',
+            system: {
+                transferData: { documentType: 'Item' },
+                scriptData: [{
+                    label: 'Luminagen: mark target',
+                    trigger: 'applyDamage',
+                    script: 'args.context.luminagenRounds = 1 + Math.floor(CONFIG.Dice.randomUniform() * 5) + 1;'
                 }]
             }
         },
