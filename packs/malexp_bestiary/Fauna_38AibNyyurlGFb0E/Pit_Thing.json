@@ -246,7 +246,7 @@
       "system": {
         "notes": {
           "player": "<p>The Pit Thing generates such a raw torrent of emotion that it can disturb psychic abilities used in close proximity. If a Psychic Power is used within Medium Range of a Pit Thing, the caster must do so with Disadvantage.</p>",
-          "gm": ""
+          "gm": "<p>The Pit Thing generates such a raw torrent of emotion that it can disturb psychic abilities used in close proximity. If a Psychic Power is used within Medium Range of a Pit Thing, the caster must do so with Disadvantage.</p>"
         },
         "attack": {
           "enabled": false,
@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "<p>Whenever someone views a Pit Thing, they must test to resist the Frightened condition.</p>",
-          "gm": ""
+          "gm": "<p>Whenever someone views a Pit Thing, they must test to resist the Frightened condition.</p>"
         },
         "attack": {
           "enabled": false,

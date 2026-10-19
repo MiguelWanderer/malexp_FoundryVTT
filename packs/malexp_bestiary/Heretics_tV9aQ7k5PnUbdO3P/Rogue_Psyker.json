@@ -246,7 +246,7 @@
       "system": {
         "notes": {
           "player": "<p>The Rogue Psyker can use the following Psychic Powers - Minor: Call Vermin, Dread Presence, Float, Ill Omen, Jinx, Nova. Biomancy: Affliction, Bio-Lightning, Haemorrhage, Life Leech, Wither. Divination: Question the Warp, Scrying Gaze, Twist Fate. Telekinesis: Gate of Infinity, Vortex of Doom. Telepathy: Compel, Dominate, Mental Interrogation, Psychic Shriek, Terrifying Visions. Unaligned Chaos: Doombolt, Foul Cage.</p>",
-          "gm": ""
+          "gm": "<p>The Rogue Psyker can use the following Psychic Powers - Minor: Call Vermin, Dread Presence, Float, Ill Omen, Jinx, Nova. Biomancy: Affliction, Bio-Lightning, Haemorrhage, Life Leech, Wither. Divination: Question the Warp, Scrying Gaze, Twist Fate. Telekinesis: Gate of Infinity, Vortex of Doom. Telepathy: Compel, Dominate, Mental Interrogation, Psychic Shriek, Terrifying Visions. Unaligned Chaos: Doombolt, Foul Cage.</p>"
         },
         "attack": {
           "enabled": false,
@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "<p>Psychic Mastery Test, Warp Rating 2, 7 + SL Damage, Medium Range. Ignores Armor.</p>",
-          "gm": ""
+          "gm": "<p>Psychic Mastery Test, Warp Rating 2, 7 + SL Damage, Medium Range. Ignores Armor.</p>"
         },
         "attack": {
           "enabled": false,
@@ -368,7 +368,7 @@
       "system": {
         "notes": {
           "player": "<p>Psychic Mastery Test, Warp Rating 2, 8 + SL Damage, Medium Range. Inflict (Restrained).</p>",
-          "gm": ""
+          "gm": "<p>Psychic Mastery Test, Warp Rating 2, 8 + SL Damage, Medium Range. Inflict (Restrained).</p>"
         },
         "attack": {
           "enabled": false,
@@ -429,7 +429,7 @@
       "system": {
         "notes": {
           "player": "<p>Physical contact with the Rogue Psyker is Minor Exposure. Make a Challenging (+0) Fortitude Test to resist 1 Corruption Point; every SL reduces the Corruption gained by 1.</p>",
-          "gm": ""
+          "gm": "<p>Physical contact with the Rogue Psyker is Minor Exposure. Make a Challenging (+0) Fortitude Test to resist 1 Corruption Point; every SL reduces the Corruption gained by 1.</p>"
         },
         "attack": {
           "enabled": false,
@@ -490,7 +490,7 @@
       "system": {
         "notes": {
           "player": "<p>The Rogue Psyker can choose to have Advantage on any Psychic Mastery Test. If they do so, they must double the Warp Charge gained.</p>",
-          "gm": ""
+          "gm": "<p>The Rogue Psyker can choose to have Advantage on any Psychic Mastery Test. If they do so, they must double the Warp Charge gained.</p>"
         },
         "attack": {
           "enabled": false,
@@ -551,7 +551,7 @@
       "system": {
         "notes": {
           "player": "<p>The Rogue Psyker has a Warp Threshold of 5.</p>",
-          "gm": ""
+          "gm": "<p>The Rogue Psyker has a Warp Threshold of 5.</p>"
         },
         "attack": {
           "enabled": false,
@@ -692,7 +692,7 @@
       "system": {
         "notes": {
           "player": "<p>Damage is 5 + current Warp Charge + SL.</p>",
-          "gm": ""
+          "gm": "<p>Damage is 5 + current Warp Charge + SL.</p>"
         },
         "encumbrance": {
           "value": 0

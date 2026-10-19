@@ -246,7 +246,7 @@
       "system": {
         "notes": {
           "player": "<p>The Kroot Mercenary can attempt to make a Stealth Test as part of their Movement if the Zone they are in has Cover.</p>",
-          "gm": ""
+          "gm": "<p>The Kroot Mercenary can attempt to make a Stealth Test as part of their Movement if the Zone they are in has Cover.</p>"
         },
         "attack": {
           "enabled": false,
@@ -307,7 +307,7 @@
       "system": {
         "notes": {
           "player": "<p>As an Action, the Kroot Shaper can choose to either grant themselves and their allies Advantage on Stealth Tests or allow themselves to test Intuition against a specific target's species in order to instinctually find information on Characteristics and Traits equal to the amount of SLs scored, as long as this Shaper has already devoured this species.</p>",
-          "gm": ""
+          "gm": "<p>As an Action, the Kroot Shaper can choose to either grant themselves and their allies Advantage on Stealth Tests or allow themselves to test Intuition against a specific target's species in order to instinctually find information on Characteristics and Traits equal to the amount of SLs scored, as long as this Shaper has already devoured this species.</p>"
         },
         "attack": {
           "enabled": false,
@@ -368,7 +368,7 @@
       "system": {
         "notes": {
           "player": "<p>The Kroot Mercenary gains +1 Armour from Cover.</p>",
-          "gm": ""
+          "gm": "<p>The Kroot Mercenary gains +1 Armour from Cover.</p>"
         },
         "attack": {
           "enabled": false,
@@ -507,7 +507,7 @@
       "system": {
         "notes": {
           "player": "<p>Damage is 6 + the difference between attacker and defender SL, per the source's 'SL difference' wording.</p>",
-          "gm": ""
+          "gm": "<p>Damage is 6 + the difference between attacker and defender SL, per the source's 'SL difference' wording.</p>"
         },
         "encumbrance": {
           "value": 0
