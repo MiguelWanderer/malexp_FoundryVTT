@@ -379,3 +379,16 @@ Hooks.on('init', () => {
     
 });
 });
+
+Hooks.once('ready', async () => {
+    const resets = [];
+    for (const actor of game.actors?.contents || []) {
+        const flags = actor.flags?.malexp || {};
+        for (const key of Object.keys(flags)) {
+            if (key.startsWith('talented_') && key.endsWith('_used')) {
+                resets.push(actor.unsetFlag('malexp', key));
+            }
+        }
+    }
+    await Promise.all(resets);
+});
