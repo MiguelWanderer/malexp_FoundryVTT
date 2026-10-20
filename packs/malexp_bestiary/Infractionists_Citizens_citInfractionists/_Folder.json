@@ -4,7 +4,7 @@
   "name": "Infractionists & Citizens",
   "color": null,
   "sorting": "a",
-  "_id": "citInfractionists",
+  "_id": "citInfractionist",
   "description": "",
   "sort": 900000,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!citInfractionists"
+  "_key": "!folders!citInfractionist"
 }

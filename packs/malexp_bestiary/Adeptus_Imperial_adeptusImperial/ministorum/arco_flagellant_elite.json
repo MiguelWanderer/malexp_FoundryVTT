@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Arco-Flagellant",
   "type": "npc",
-  "_id": "adeptusActor20",
+  "_id": "adeptusActor2000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor20",
+  "_key": "!actors!adeptusActor2000",
   "items": [
     {
       "name": "Passive Mode",
       "type": "trait",
-      "_id": "adeptusActor20Item01",
+      "_id": "adeptusActor20It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor20.adeptusActor20Item01"
+      "_key": "!actors.items!adeptusActor2000.adeptusActor20It"
     },
     {
       "name": "Electro-Flail",
       "type": "weapon",
-      "_id": "adeptusActor20Item02",
+      "_id": "adeptusActor20I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,7 +371,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor20.adeptusActor20Item02"
+      "_key": "!actors.items!adeptusActor2000.adeptusActor20I0"
     }
   ]
 }

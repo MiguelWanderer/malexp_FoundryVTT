@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Ministorum Priest",
   "type": "npc",
-  "_id": "adeptusActor25",
+  "_id": "adeptusActor2500",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor25",
+  "_key": "!actors!adeptusActor2500",
   "items": [
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "adeptusActor25Item01",
+      "_id": "adeptusActor25It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item01"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25It"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor25Item02",
+      "_id": "adeptusActor25I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item02"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I0"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor25Item03",
+      "_id": "adeptusActor25I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item03"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I1"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor25Item04",
+      "_id": "adeptusActor25I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item04"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I2"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor25Item05",
+      "_id": "adeptusActor25I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item05"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor25Item06",
+      "_id": "adeptusActor25I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item06"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor25Item07",
+      "_id": "adeptusActor25I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,7 +568,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor25.adeptusActor25Item07"
+      "_key": "!actors.items!adeptusActor2500.adeptusActor25I5"
     }
   ]
 }

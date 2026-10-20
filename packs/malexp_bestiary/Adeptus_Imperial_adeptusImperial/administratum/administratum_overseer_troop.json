@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Administratum Adept",
   "type": "npc",
-  "_id": "adeptusActor03",
+  "_id": "adeptusActor0300",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor03",
+  "_key": "!actors!adeptusActor0300",
   "items": [
     {
       "name": "Bureaucratic Boldness",
       "type": "trait",
-      "_id": "adeptusActor03Item01",
+      "_id": "adeptusActor03It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item01"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03It"
     },
     {
       "name": "Shock Maul",
       "type": "weapon",
-      "_id": "adeptusActor03Item02",
+      "_id": "adeptusActor03I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item02"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03I0"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor03Item03",
+      "_id": "adeptusActor03I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -401,12 +401,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item03"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03I1"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor03Item04",
+      "_id": "adeptusActor03I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -431,12 +431,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item04"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03I2"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor03Item05",
+      "_id": "adeptusActor03I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -461,12 +461,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item05"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03I3"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor03Item06",
+      "_id": "adeptusActor03I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -491,7 +491,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor03.adeptusActor03Item06"
+      "_key": "!actors.items!adeptusActor0300.adeptusActor03I4"
     }
   ]
 }

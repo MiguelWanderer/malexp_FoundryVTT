@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Cyber Mastiff",
   "type": "npc",
-  "_id": "citActor13",
+  "_id": "citActor13000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor13",
+  "_key": "!actors!citActor13000000",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "citActor13Item1",
+      "_id": "citActor13Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor13.citActor13Item1"
+      "_key": "!actors.items!citActor13000000.citActor13Item10"
     },
     {
       "name": "Plasteel Jaw",
       "type": "weapon",
-      "_id": "citActor13Item2",
+      "_id": "citActor13Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor13.citActor13Item2"
+      "_key": "!actors.items!citActor13000000.citActor13Item20"
     }
   ]
 }

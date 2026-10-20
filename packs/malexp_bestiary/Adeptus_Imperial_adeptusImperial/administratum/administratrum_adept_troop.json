@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Administratum Adept",
   "type": "npc",
-  "_id": "adeptusActor01",
+  "_id": "adeptusActor0100",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor01",
+  "_key": "!actors!adeptusActor0100",
   "items": [
     {
       "name": "Bureaucratic Boldness",
       "type": "trait",
-      "_id": "adeptusActor01Item01",
+      "_id": "adeptusActor01It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor01.adeptusActor01Item01"
+      "_key": "!actors.items!adeptusActor0100.adeptusActor01It"
     },
     {
       "name": "Flaccid Fists (Unarmed)",
       "type": "weapon",
-      "_id": "adeptusActor01Item02",
+      "_id": "adeptusActor01I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor01.adeptusActor01Item02"
+      "_key": "!actors.items!adeptusActor0100.adeptusActor01I0"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "adeptusActor01Item03",
+      "_id": "adeptusActor01I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -398,7 +398,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor01.adeptusActor01Item03"
+      "_key": "!actors.items!adeptusActor0100.adeptusActor01I1"
     }
   ]
 }

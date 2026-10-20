@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Arch-Confessor",
   "type": "npc",
-  "_id": "adeptusActor19",
+  "_id": "adeptusActor1900",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor19",
+  "_key": "!actors!adeptusActor1900",
   "items": [
     {
       "name": "Incite Zeal",
       "type": "trait",
-      "_id": "adeptusActor19Item01",
+      "_id": "adeptusActor19It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item01"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19It"
     },
     {
       "name": "Eviscerator",
       "type": "weapon",
-      "_id": "adeptusActor19Item02",
+      "_id": "adeptusActor19I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item02"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I0"
     },
     {
       "name": "Sight",
       "type": "specialisation",
-      "_id": "adeptusActor19Item03",
+      "_id": "adeptusActor19I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -404,12 +404,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item03"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I1"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor19Item04",
+      "_id": "adeptusActor19I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -434,12 +434,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item04"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I2"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor19Item05",
+      "_id": "adeptusActor19I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -464,12 +464,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item05"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor19Item06",
+      "_id": "adeptusActor19I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -494,12 +494,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item06"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I4"
     },
     {
       "name": "Two-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor19Item07",
+      "_id": "adeptusActor19I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -524,12 +524,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item07"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I5"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor19Item08",
+      "_id": "adeptusActor19I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -554,7 +554,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor19.adeptusActor19Item08"
+      "_key": "!actors.items!adeptusActor1900.adeptusActor19I6"
     }
   ]
 }

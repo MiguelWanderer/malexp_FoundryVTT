@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Exorcist",
   "type": "npc",
-  "_id": "inqActor02",
+  "_id": "inqActor02000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor02",
+  "_key": "!actors!inqActor02000000",
   "items": [
     {
       "name": "Rites of Exorcism",
       "type": "trait",
-      "_id": "inqActor02Trait01",
+      "_id": "inqActor02Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Trait01"
+      "_key": "!actors.items!inqActor02000000.inqActor02Trait0"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "inqActor02Weapon02",
+      "_id": "inqActor02Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -386,7 +386,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Weapon02"
+      "_key": "!actors.items!inqActor02000000.inqActor02Weapon"
     },
     {
       "name": "Psychic",
@@ -416,7 +416,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec03"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec03"
     },
     {
       "name": "Human",
@@ -446,7 +446,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec04"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec04"
     },
     {
       "name": "High Gothic",
@@ -476,7 +476,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec05"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec05"
     },
     {
       "name": "Forbidden",
@@ -506,7 +506,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec06"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec06"
     },
     {
       "name": "Theology",
@@ -536,7 +536,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec07"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec07"
     },
     {
       "name": "Forbidden",
@@ -566,7 +566,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec08"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec08"
     },
     {
       "name": "Leadership",
@@ -596,7 +596,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor02.inqActor02Spec09"
+      "_key": "!actors.items!inqActor02000000.inqActor02Spec09"
     }
   ]
 }

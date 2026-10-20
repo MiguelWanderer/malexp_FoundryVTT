@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Scholar",
   "type": "npc",
-  "_id": "inqActor15",
+  "_id": "inqActor15000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor15",
+  "_key": "!actors!inqActor15000000",
   "items": [
     {
       "name": "Data Delver",
       "type": "trait",
-      "_id": "inqActor15Trait01",
+      "_id": "inqActor15Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor15.inqActor15Trait01"
+      "_key": "!actors.items!inqActor15000000.inqActor15Trait0"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "inqActor15Weapon02",
+      "_id": "inqActor15Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor15.inqActor15Weapon02"
+      "_key": "!actors.items!inqActor15000000.inqActor15Weapon"
     },
     {
       "name": "People",
@@ -407,7 +407,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor15.inqActor15Spec03"
+      "_key": "!actors.items!inqActor15000000.inqActor15Spec03"
     },
     {
       "name": "Forbidden",
@@ -437,7 +437,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor15.inqActor15Spec04"
+      "_key": "!actors.items!inqActor15000000.inqActor15Spec04"
     }
   ]
 }

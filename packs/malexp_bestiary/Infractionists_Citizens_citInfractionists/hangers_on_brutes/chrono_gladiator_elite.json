@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "CHRONO GLADIATOR",
   "type": "npc",
-  "_id": "citActor25",
+  "_id": "citActor25000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor25",
+  "_key": "!actors!citActor25000000",
   "items": [
     {
       "name": "Ticking Clock",
       "type": "trait",
-      "_id": "citActor25Item1",
+      "_id": "citActor25Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor25.citActor25Item1"
+      "_key": "!actors.items!citActor25000000.citActor25Item10"
     },
     {
       "name": "Implanted Talons",
       "type": "weapon",
-      "_id": "citActor25Item2",
+      "_id": "citActor25Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor25.citActor25Item2"
+      "_key": "!actors.items!citActor25000000.citActor25Item20"
     }
   ]
 }

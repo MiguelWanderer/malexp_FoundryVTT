@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Verispex Adept",
   "type": "npc",
-  "_id": "adeptusActor18",
+  "_id": "adeptusActor1800",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor18",
+  "_key": "!actors!adeptusActor1800",
   "items": [
     {
       "name": "Investigative Expert",
       "type": "trait",
-      "_id": "adeptusActor18Item01",
+      "_id": "adeptusActor18It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item01"
+      "_key": "!actors.items!adeptusActor1800.adeptusActor18It"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor18Item02",
+      "_id": "adeptusActor18I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item02"
+      "_key": "!actors.items!adeptusActor1800.adeptusActor18I0"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "adeptusActor18Item03",
+      "_id": "adeptusActor18I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -388,12 +388,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item03"
+      "_key": "!actors.items!adeptusActor1800.adeptusActor18I1"
     },
     {
       "name": "Investigation",
       "type": "specialisation",
-      "_id": "adeptusActor18Item04",
+      "_id": "adeptusActor18I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -418,7 +418,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor18.adeptusActor18Item04"
+      "_key": "!actors.items!adeptusActor1800.adeptusActor18I2"
     }
   ]
 }

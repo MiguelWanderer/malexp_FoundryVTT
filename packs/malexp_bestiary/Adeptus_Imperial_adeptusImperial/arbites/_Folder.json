@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "adeptusImperial",
+  "folder": "adeptusFolder060",
   "name": "Arbites",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusFolder02",
+  "_id": "adeptusFolder020",
   "description": "",
   "sort": 921002,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusFolder02"
+  "_key": "!folders!adeptusFolder020"
 }

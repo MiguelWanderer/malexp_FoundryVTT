@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Officer",
   "type": "npc",
-  "_id": "astraActor03",
+  "_id": "astraActor030000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor03",
+  "_key": "!actors!astraActor030000",
   "items": [
     {
       "name": "Aura of Discipline",
       "type": "trait",
-      "_id": "astraActor03Item1",
+      "_id": "astraActor03Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item1"
+      "_key": "!actors.items!astraActor030000.astraActor03Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor03Item2",
+      "_id": "astraActor03Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item2"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite0"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "astraActor03Item3",
+      "_id": "astraActor03Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item3"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite1"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor03Item4",
+      "_id": "astraActor03Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item4"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite2"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor03Item5",
+      "_id": "astraActor03Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -598,12 +598,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item5"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite3"
     },
     {
       "name": "Power Sword",
       "type": "weapon",
-      "_id": "astraActor03Item6",
+      "_id": "astraActor03Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -669,12 +669,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item6"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "astraActor03Item7",
+      "_id": "astraActor03Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -699,12 +699,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item7"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite5"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "astraActor03Item8",
+      "_id": "astraActor03Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -729,12 +729,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item8"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite6"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "astraActor03Item9",
+      "_id": "astraActor03Ite7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -759,7 +759,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor03.astraActor03Item9"
+      "_key": "!actors.items!astraActor030000.astraActor03Ite7"
     }
   ]
 }

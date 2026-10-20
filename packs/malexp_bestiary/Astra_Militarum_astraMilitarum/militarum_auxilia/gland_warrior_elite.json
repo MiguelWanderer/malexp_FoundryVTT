@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Gland Warrior",
   "type": "npc",
-  "_id": "astraActor15",
+  "_id": "astraActor150000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor15",
+  "_key": "!actors!astraActor150000",
   "items": [
     {
       "name": "Genetically Modified",
       "type": "trait",
-      "_id": "astraActor15Item1",
+      "_id": "astraActor15Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item1"
+      "_key": "!actors.items!astraActor150000.astraActor15Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor15Item2",
+      "_id": "astraActor15Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item2"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite0"
     },
     {
       "name": "Combat Shotgun",
       "type": "weapon",
-      "_id": "astraActor15Item3",
+      "_id": "astraActor15Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item3"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite1"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor15Item4",
+      "_id": "astraActor15Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item4"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite2"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor15Item5",
+      "_id": "astraActor15Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -598,12 +598,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item5"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite3"
     },
     {
       "name": "Great Weapon",
       "type": "weapon",
-      "_id": "astraActor15Item6",
+      "_id": "astraActor15Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -669,12 +669,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item6"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite4"
     },
     {
       "name": "Might",
       "type": "specialisation",
-      "_id": "astraActor15Item7",
+      "_id": "astraActor15Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -699,7 +699,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor15.astraActor15Item7"
+      "_key": "!actors.items!astraActor150000.astraActor15Ite5"
     }
   ]
 }

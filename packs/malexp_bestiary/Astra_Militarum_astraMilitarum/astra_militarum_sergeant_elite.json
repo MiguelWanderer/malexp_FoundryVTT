@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Sergeant",
   "type": "npc",
-  "_id": "astraActor06",
+  "_id": "astraActor060000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor06",
+  "_key": "!actors!astraActor060000",
   "items": [
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor06Item1",
+      "_id": "astraActor06Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor06.astraActor06Item1"
+      "_key": "!actors.items!astraActor060000.astraActor06Item"
     },
     {
       "name": "Las Pistol",
       "type": "weapon",
-      "_id": "astraActor06Item2",
+      "_id": "astraActor06Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor06.astraActor06Item2"
+      "_key": "!actors.items!astraActor060000.astraActor06Ite0"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor06Item3",
+      "_id": "astraActor06Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor06.astraActor06Item3"
+      "_key": "!actors.items!astraActor060000.astraActor06Ite1"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor06Item4",
+      "_id": "astraActor06Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -534,12 +534,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor06.astraActor06Item4"
+      "_key": "!actors.items!astraActor060000.astraActor06Ite2"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "astraActor06Item5",
+      "_id": "astraActor06Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -608,7 +608,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor06.astraActor06Item5"
+      "_key": "!actors.items!astraActor060000.astraActor06Ite3"
     }
   ]
 }

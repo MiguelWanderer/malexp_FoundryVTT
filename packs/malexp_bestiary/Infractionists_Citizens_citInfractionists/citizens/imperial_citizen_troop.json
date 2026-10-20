@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Imperial Citizen",
   "type": "npc",
-  "_id": "citActor06",
+  "_id": "citActor06000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor06",
+  "_key": "!actors!citActor06000000",
   "items": [
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor06Item1",
+      "_id": "citActor06Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -307,7 +307,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor06.citActor06Item1"
+      "_key": "!actors.items!citActor06000000.citActor06Item10"
     }
   ]
 }

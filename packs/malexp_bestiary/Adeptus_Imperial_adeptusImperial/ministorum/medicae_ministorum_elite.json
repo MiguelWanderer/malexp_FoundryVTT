@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Medicae Ministorum",
   "type": "npc",
-  "_id": "adeptusActor24",
+  "_id": "adeptusActor2400",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor24",
+  "_key": "!actors!adeptusActor2400",
   "items": [
     {
       "name": "Divine Ministration",
       "type": "trait",
-      "_id": "adeptusActor24Item01",
+      "_id": "adeptusActor24It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item01"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24It"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor24Item02",
+      "_id": "adeptusActor24I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item02"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I0"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor24Item03",
+      "_id": "adeptusActor24I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item03"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I1"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor24Item04",
+      "_id": "adeptusActor24I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item04"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I2"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor24Item05",
+      "_id": "adeptusActor24I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item05"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor24Item06",
+      "_id": "adeptusActor24I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item06"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I4"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor24Item07",
+      "_id": "adeptusActor24I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,12 +568,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item07"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I5"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor24Item08",
+      "_id": "adeptusActor24I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -598,7 +598,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor24.adeptusActor24Item08"
+      "_key": "!actors.items!adeptusActor2400.adeptusActor24I6"
     }
   ]
 }

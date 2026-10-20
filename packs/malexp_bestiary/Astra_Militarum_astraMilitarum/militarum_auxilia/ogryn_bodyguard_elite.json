@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Ogryn Bodyguard",
   "type": "npc",
-  "_id": "astraActor17",
+  "_id": "astraActor170000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor17",
+  "_key": "!actors!astraActor170000",
   "items": [
     {
       "name": "Beaten Zone",
       "type": "trait",
-      "_id": "astraActor17Item1",
+      "_id": "astraActor17Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor17.astraActor17Item1"
+      "_key": "!actors.items!astraActor170000.astraActor17Item"
     },
     {
       "name": "Ripper Gun",
       "type": "weapon",
-      "_id": "astraActor17Item2",
+      "_id": "astraActor17Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -383,12 +383,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor17.astraActor17Item2"
+      "_key": "!actors.items!astraActor170000.astraActor17Ite0"
     },
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "astraActor17Item3",
+      "_id": "astraActor17Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -450,7 +450,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor17.astraActor17Item3"
+      "_key": "!actors.items!astraActor170000.astraActor17Ite1"
     }
   ]
 }

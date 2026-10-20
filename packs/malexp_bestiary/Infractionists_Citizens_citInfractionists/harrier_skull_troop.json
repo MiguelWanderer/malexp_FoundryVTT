@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Harrier-Skull (Troop)",
   "type": "npc",
-  "_id": "citActor34",
+  "_id": "citActor34000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor34",
+  "_key": "!actors!citActor34000000",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "citActor34Item1",
+      "_id": "citActor34Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor34.citActor34Item1"
+      "_key": "!actors.items!citActor34000000.citActor34Item10"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "citActor34Item2",
+      "_id": "citActor34Item20",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,7 +358,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor34.citActor34Item2"
+      "_key": "!actors.items!citActor34000000.citActor34Item20"
     }
   ]
 }

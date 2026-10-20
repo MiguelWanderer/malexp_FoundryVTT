@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Bullgryn",
   "type": "npc",
-  "_id": "astraActor13",
+  "_id": "astraActor130000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor13",
+  "_key": "!actors!astraActor130000",
   "items": [
     {
       "name": "Following orders, Sah!",
       "type": "trait",
-      "_id": "astraActor13Item1",
+      "_id": "astraActor13Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor13.astraActor13Item1"
+      "_key": "!actors.items!astraActor130000.astraActor13Item"
     },
     {
       "name": "Grenadier Gauntlet",
       "type": "weapon",
-      "_id": "astraActor13Item2",
+      "_id": "astraActor13Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor13.astraActor13Item2"
+      "_key": "!actors.items!astraActor130000.astraActor13Ite0"
     },
     {
       "name": "Power Maul",
       "type": "weapon",
-      "_id": "astraActor13Item3",
+      "_id": "astraActor13Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -442,12 +442,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor13.astraActor13Item3"
+      "_key": "!actors.items!astraActor130000.astraActor13Ite1"
     },
     {
       "name": "Ordnance",
       "type": "specialisation",
-      "_id": "astraActor13Item4",
+      "_id": "astraActor13Ite2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -472,7 +472,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor13.astraActor13Item4"
+      "_key": "!actors.items!astraActor130000.astraActor13Ite2"
     }
   ]
 }

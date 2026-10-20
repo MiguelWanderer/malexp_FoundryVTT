@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Eliminator Mastiff",
   "type": "npc",
-  "_id": "adeptusActor14",
+  "_id": "adeptusActor1400",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor14",
+  "_key": "!actors!adeptusActor1400",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor14Item01",
+      "_id": "adeptusActor14It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor14.adeptusActor14Item01"
+      "_key": "!actors.items!adeptusActor1400.adeptusActor14It"
     },
     {
       "name": "Chain-Jaw",
       "type": "weapon",
-      "_id": "adeptusActor14Item02",
+      "_id": "adeptusActor14I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor14.adeptusActor14Item02"
+      "_key": "!actors.items!adeptusActor1400.adeptusActor14I0"
     },
     {
       "name": "2x Lascarbines",
       "type": "weapon",
-      "_id": "adeptusActor14Item03",
+      "_id": "adeptusActor14I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -445,12 +445,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor14.adeptusActor14Item03"
+      "_key": "!actors.items!adeptusActor1400.adeptusActor14I1"
     },
     {
       "name": "Tracking",
       "type": "specialisation",
-      "_id": "adeptusActor14Item04",
+      "_id": "adeptusActor14I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -475,7 +475,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor14.adeptusActor14Item04"
+      "_key": "!actors.items!adeptusActor1400.adeptusActor14I2"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Merchant",
   "type": "npc",
-  "_id": "citActor39",
+  "_id": "citActor39000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor39",
+  "_key": "!actors!citActor39000000",
   "items": [
     {
       "name": "Haggle",
       "type": "trait",
-      "_id": "citActor39Item1",
+      "_id": "citActor39Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor39.citActor39Item1"
+      "_key": "!actors.items!citActor39000000.citActor39Item10"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "citActor39Item2",
+      "_id": "citActor39Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor39.citActor39Item2"
+      "_key": "!actors.items!citActor39000000.citActor39Item20"
     }
   ]
 }

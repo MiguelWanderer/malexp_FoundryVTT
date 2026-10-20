@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Squat",
   "type": "npc",
-  "_id": "citActor11",
+  "_id": "citActor11000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor11",
+  "_key": "!actors!citActor11000000",
   "items": [
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor11Item1",
+      "_id": "citActor11Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -307,7 +307,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor11.citActor11Item1"
+      "_key": "!actors.items!citActor11000000.citActor11Item10"
     }
   ]
 }

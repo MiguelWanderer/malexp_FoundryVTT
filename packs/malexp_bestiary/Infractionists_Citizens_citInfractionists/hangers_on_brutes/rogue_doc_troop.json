@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Rogue Doc",
   "type": "npc",
-  "_id": "citActor33",
+  "_id": "citActor33000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor33",
+  "_key": "!actors!citActor33000000",
   "items": [
     {
       "name": "Chirurgeon",
       "type": "trait",
-      "_id": "citActor33Item1",
+      "_id": "citActor33Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor33.citActor33Item1"
+      "_key": "!actors.items!citActor33000000.citActor33Item10"
     },
     {
       "name": "Stub Revolver",
       "type": "weapon",
-      "_id": "citActor33Item2",
+      "_id": "citActor33Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor33.citActor33Item2"
+      "_key": "!actors.items!citActor33000000.citActor33Item20"
     },
     {
       "name": "Sword",
       "type": "weapon",
-      "_id": "citActor33Item3",
+      "_id": "citActor33Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,7 +441,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor33.citActor33Item3"
+      "_key": "!actors.items!citActor33000000.citActor33Item30"
     }
   ]
 }

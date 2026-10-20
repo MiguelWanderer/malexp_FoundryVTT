@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Enforcer",
   "type": "npc",
-  "_id": "adeptusActor05",
+  "_id": "adeptusActor0500",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor05",
+  "_key": "!actors!adeptusActor0500",
   "items": [
     {
       "name": "Lightly Augmented",
       "type": "trait",
-      "_id": "adeptusActor05Item01",
+      "_id": "adeptusActor05It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item01"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05It"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor05Item02",
+      "_id": "adeptusActor05I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item02"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I0"
     },
     {
       "name": "Stub Revolver",
       "type": "weapon",
-      "_id": "adeptusActor05Item03",
+      "_id": "adeptusActor05I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -435,12 +435,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item03"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I1"
     },
     {
       "name": "Choke Grenade",
       "type": "weapon",
-      "_id": "adeptusActor05Item04",
+      "_id": "adeptusActor05I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -506,12 +506,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item04"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I2"
     },
     {
       "name": "Shock Maul",
       "type": "weapon",
-      "_id": "adeptusActor05Item05",
+      "_id": "adeptusActor05I3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -580,12 +580,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item05"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I3"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor05Item06",
+      "_id": "adeptusActor05I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -610,12 +610,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item06"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I4"
     },
     {
       "name": "Interrogation",
       "type": "specialisation",
-      "_id": "adeptusActor05Item07",
+      "_id": "adeptusActor05I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -640,12 +640,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item07"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I5"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor05Item08",
+      "_id": "adeptusActor05I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -670,7 +670,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor05.adeptusActor05Item08"
+      "_key": "!actors.items!adeptusActor0500.adeptusActor05I6"
     }
   ]
 }

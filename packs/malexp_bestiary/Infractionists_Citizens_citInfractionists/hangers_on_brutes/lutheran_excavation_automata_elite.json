@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Lutheran Excavation Automata",
   "type": "npc",
-  "_id": "citActor30",
+  "_id": "citActor30000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor30",
+  "_key": "!actors!citActor30000000",
   "items": [
     {
       "name": "Cranial Governors",
       "type": "trait",
-      "_id": "citActor30Item1",
+      "_id": "citActor30Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor30.citActor30Item1"
+      "_key": "!actors.items!citActor30000000.citActor30Item10"
     },
     {
       "name": "Tunneling Claws",
       "type": "weapon",
-      "_id": "citActor30Item2",
+      "_id": "citActor30Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor30.citActor30Item2"
+      "_key": "!actors.items!citActor30000000.citActor30Item20"
     }
   ]
 }

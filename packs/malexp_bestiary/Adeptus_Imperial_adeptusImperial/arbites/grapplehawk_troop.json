@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Grapplehawk",
   "type": "npc",
-  "_id": "adeptusActor15",
+  "_id": "adeptusActor1500",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor15",
+  "_key": "!actors!adeptusActor1500",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor15Item01",
+      "_id": "adeptusActor15It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item01"
+      "_key": "!actors.items!adeptusActor1500.adeptusActor15It"
     },
     {
       "name": "Rending Claws",
       "type": "weapon",
-      "_id": "adeptusActor15Item02",
+      "_id": "adeptusActor15I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item02"
+      "_key": "!actors.items!adeptusActor1500.adeptusActor15I0"
     },
     {
       "name": "Shock Pulse Claws",
       "type": "weapon",
-      "_id": "adeptusActor15Item03",
+      "_id": "adeptusActor15I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -439,12 +439,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item03"
+      "_key": "!actors.items!adeptusActor1500.adeptusActor15I1"
     },
     {
       "name": "Dodge",
       "type": "specialisation",
-      "_id": "adeptusActor15Item04",
+      "_id": "adeptusActor15I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -469,7 +469,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor15.adeptusActor15Item04"
+      "_key": "!actors.items!adeptusActor1500.adeptusActor15I2"
     }
   ]
 }

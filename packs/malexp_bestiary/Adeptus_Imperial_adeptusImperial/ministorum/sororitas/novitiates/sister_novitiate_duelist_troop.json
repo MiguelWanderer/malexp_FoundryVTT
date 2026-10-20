@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Novitiate Duelist",
   "type": "npc",
-  "_id": "adeptusActor30",
+  "_id": "adeptusActor3000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor30",
+  "_key": "!actors!adeptusActor3000",
   "items": [
     {
       "name": "Duelist",
       "type": "trait",
-      "_id": "adeptusActor30Item01",
+      "_id": "adeptusActor30It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item01"
+      "_key": "!actors.items!adeptusActor3000.adeptusActor30It"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor30Item02",
+      "_id": "adeptusActor30I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item02"
+      "_key": "!actors.items!adeptusActor3000.adeptusActor30I0"
     },
     {
       "name": "2x Mono-Swords",
       "type": "weapon",
-      "_id": "adeptusActor30Item03",
+      "_id": "adeptusActor30I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -445,12 +445,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item03"
+      "_key": "!actors.items!adeptusActor3000.adeptusActor30I1"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor30Item04",
+      "_id": "adeptusActor30I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -475,7 +475,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor30.adeptusActor30Item04"
+      "_key": "!actors.items!adeptusActor3000.adeptusActor30I2"
     }
   ]
 }

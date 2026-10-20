@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Nightsider Sentry",
   "type": "npc",
-  "_id": "astraActor16",
+  "_id": "astraActor160000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor16",
+  "_key": "!actors!astraActor160000",
   "items": [
     {
       "name": "Adapted Night Vision",
       "type": "trait",
-      "_id": "astraActor16Item1",
+      "_id": "astraActor16Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item1"
+      "_key": "!actors.items!astraActor160000.astraActor16Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor16Item2",
+      "_id": "astraActor16Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item2"
+      "_key": "!actors.items!astraActor160000.astraActor16Ite0"
     },
     {
       "name": "Long Las",
       "type": "weapon",
-      "_id": "astraActor16Item3",
+      "_id": "astraActor16Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item3"
+      "_key": "!actors.items!astraActor160000.astraActor16Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor16Item4",
+      "_id": "astraActor16Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item4"
+      "_key": "!actors.items!astraActor160000.astraActor16Ite2"
     },
     {
       "name": "Sight",
       "type": "specialisation",
-      "_id": "astraActor16Item5",
+      "_id": "astraActor16Ite3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item5"
+      "_key": "!actors.items!astraActor160000.astraActor16Ite3"
     },
     {
       "name": "Poisons",
       "type": "specialisation",
-      "_id": "astraActor16Item6",
+      "_id": "astraActor16Ite4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,7 +568,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor16.astraActor16Item6"
+      "_key": "!actors.items!astraActor160000.astraActor16Ite4"
     }
   ]
 }

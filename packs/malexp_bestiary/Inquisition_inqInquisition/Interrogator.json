@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Interrogator",
   "type": "npc",
-  "_id": "inqActor13",
+  "_id": "inqActor13000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor13",
+  "_key": "!actors!inqActor13000000",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "inqActor13Trait01",
+      "_id": "inqActor13Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Trait01"
+      "_key": "!actors.items!inqActor13000000.inqActor13Trait0"
     },
     {
       "name": "Hunter-controller",
       "type": "trait",
-      "_id": "inqActor13Trait02",
+      "_id": "inqActor13Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Trait02"
+      "_key": "!actors.items!inqActor13000000.inqActor13Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor13Trait03",
+      "_id": "inqActor13Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Trait03"
+      "_key": "!actors.items!inqActor13000000.inqActor13Trait2"
     },
     {
       "name": "Needle Pistol",
       "type": "weapon",
-      "_id": "inqActor13Weapon04",
+      "_id": "inqActor13Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -499,7 +499,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Weapon04"
+      "_key": "!actors.items!inqActor13000000.inqActor13Weapon"
     },
     {
       "name": "Investigation",
@@ -529,7 +529,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Spec05"
+      "_key": "!actors.items!inqActor13000000.inqActor13Spec05"
     },
     {
       "name": "Interrogation",
@@ -559,7 +559,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor13.inqActor13Spec06"
+      "_key": "!actors.items!inqActor13000000.inqActor13Spec06"
     }
   ]
 }

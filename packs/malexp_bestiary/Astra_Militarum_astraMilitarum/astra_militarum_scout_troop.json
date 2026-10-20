@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Scout",
   "type": "npc",
-  "_id": "astraActor05",
+  "_id": "astraActor050000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor05",
+  "_key": "!actors!astraActor050000",
   "items": [
     {
       "name": "Skulker",
       "type": "trait",
-      "_id": "astraActor05Item1",
+      "_id": "astraActor05Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item1"
+      "_key": "!actors.items!astraActor050000.astraActor05Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor05Item2",
+      "_id": "astraActor05Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item2"
+      "_key": "!actors.items!astraActor050000.astraActor05Ite0"
     },
     {
       "name": "Lascarbine",
       "type": "weapon",
-      "_id": "astraActor05Item3",
+      "_id": "astraActor05Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item3"
+      "_key": "!actors.items!astraActor050000.astraActor05Ite1"
     },
     {
       "name": "Mono-Knife",
       "type": "weapon",
-      "_id": "astraActor05Item4",
+      "_id": "astraActor05Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -509,12 +509,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item4"
+      "_key": "!actors.items!astraActor050000.astraActor05Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor05Item5",
+      "_id": "astraActor05Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -586,12 +586,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item5"
+      "_key": "!actors.items!astraActor050000.astraActor05Ite3"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor05Item6",
+      "_id": "astraActor05Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -666,7 +666,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor05.astraActor05Item6"
+      "_key": "!actors.items!astraActor050000.astraActor05Ite4"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Ratling Sniper",
   "type": "npc",
-  "_id": "astraActor19",
+  "_id": "astraActor190000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor19",
+  "_key": "!actors!astraActor190000",
   "items": [
     {
       "name": "Deadeye",
       "type": "trait",
-      "_id": "astraActor19Item1",
+      "_id": "astraActor19Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor19.astraActor19Item1"
+      "_key": "!actors.items!astraActor190000.astraActor19Item"
     },
     {
       "name": "Long Las",
       "type": "weapon",
-      "_id": "astraActor19Item2",
+      "_id": "astraActor19Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor19.astraActor19Item2"
+      "_key": "!actors.items!astraActor190000.astraActor19Ite0"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor19Item3",
+      "_id": "astraActor19Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -447,12 +447,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor19.astraActor19Item3"
+      "_key": "!actors.items!astraActor190000.astraActor19Ite1"
     },
     {
       "name": "Long Gun",
       "type": "specialisation",
-      "_id": "astraActor19Item4",
+      "_id": "astraActor19Ite2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -477,7 +477,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor19.astraActor19Item4"
+      "_key": "!actors.items!astraActor190000.astraActor19Ite2"
     }
   ]
 }

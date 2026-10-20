@@ -1,8 +1,8 @@
 {
-  "folder": "cithiredguns",
+  "folder": "cithiredguns0000",
   "name": "Wyrd Gunslinger",
   "type": "npc",
-  "_id": "citActor38",
+  "_id": "citActor38000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor38",
+  "_key": "!actors!citActor38000000",
   "items": [
     {
       "name": "Ambidextrous",
       "type": "trait",
-      "_id": "citActor38Item1",
+      "_id": "citActor38Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item1"
+      "_key": "!actors.items!citActor38000000.citActor38Item10"
     },
     {
       "name": "Deadeye",
       "type": "trait",
-      "_id": "citActor38Item2",
+      "_id": "citActor38Item20",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item2"
+      "_key": "!actors.items!citActor38000000.citActor38Item20"
     },
     {
       "name": "Gunslinger",
       "type": "trait",
-      "_id": "citActor38Item3",
+      "_id": "citActor38Item30",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item3"
+      "_key": "!actors.items!citActor38000000.citActor38Item30"
     },
     {
       "name": "Diviner",
       "type": "trait",
-      "_id": "citActor38Item4",
+      "_id": "citActor38Item40",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -480,12 +480,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item4"
+      "_key": "!actors.items!citActor38000000.citActor38Item40"
     },
     {
       "name": "2x Bolt Pistols",
       "type": "weapon",
-      "_id": "citActor38Item5",
+      "_id": "citActor38Item50",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -563,12 +563,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item5"
+      "_key": "!actors.items!citActor38000000.citActor38Item50"
     },
     {
       "name": "Melee Attack",
       "type": "weapon",
-      "_id": "citActor38Item6",
+      "_id": "citActor38Item60",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -630,7 +630,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor38.citActor38Item6"
+      "_key": "!actors.items!citActor38000000.citActor38Item60"
     }
   ]
 }

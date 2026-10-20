@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Ratling",
   "type": "npc",
-  "_id": "citActor10",
+  "_id": "citActor10000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor10",
+  "_key": "!actors!citActor10000000",
   "items": [
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor10Item1",
+      "_id": "citActor10Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -307,7 +307,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor10.citActor10Item1"
+      "_key": "!actors.items!citActor10000000.citActor10Item10"
     }
   ]
 }

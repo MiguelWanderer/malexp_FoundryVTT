@@ -1,8 +1,8 @@
 {
-  "folder": "cithiredguns",
+  "folder": "cithiredguns0000",
   "name": "Hired Gun",
   "type": "npc",
-  "_id": "citActor37",
+  "_id": "citActor37000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor37",
+  "_key": "!actors!citActor37000000",
   "items": [
     {
       "name": "Lasgun",
       "type": "weapon",
-      "_id": "citActor37Item1",
+      "_id": "citActor37Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -316,12 +316,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor37.citActor37Item1"
+      "_key": "!actors.items!citActor37000000.citActor37Item10"
     },
     {
       "name": "Long Las",
       "type": "weapon",
-      "_id": "citActor37Item2",
+      "_id": "citActor37Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -399,12 +399,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor37.citActor37Item2"
+      "_key": "!actors.items!citActor37000000.citActor37Item20"
     },
     {
       "name": "Shotgun (PA)",
       "type": "weapon",
-      "_id": "citActor37Item3",
+      "_id": "citActor37Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -482,12 +482,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor37.citActor37Item3"
+      "_key": "!actors.items!citActor37000000.citActor37Item30"
     },
     {
       "name": "Sniper Rifle",
       "type": "weapon",
-      "_id": "citActor37Item4",
+      "_id": "citActor37Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -556,12 +556,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor37.citActor37Item4"
+      "_key": "!actors.items!citActor37000000.citActor37Item40"
     },
     {
       "name": "Autogun",
       "type": "weapon",
-      "_id": "citActor37Item5",
+      "_id": "citActor37Item50",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -633,7 +633,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor37.citActor37Item5"
+      "_key": "!actors.items!citActor37000000.citActor37Item50"
     }
   ]
 }

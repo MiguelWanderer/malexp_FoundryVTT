@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumtempe",
+  "folder": "astramilitarumte",
   "name": "Tempestus Scion",
   "type": "npc",
-  "_id": "astraActor23",
+  "_id": "astraActor230000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor23",
+  "_key": "!actors!astraActor230000",
   "items": [
     {
       "name": "Killing Zone",
       "type": "trait",
-      "_id": "astraActor23Item1",
+      "_id": "astraActor23Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item1"
+      "_key": "!actors.items!astraActor230000.astraActor23Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor23Item2",
+      "_id": "astraActor23Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item2"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite0"
     },
     {
       "name": "Hot-Shot Lasgun",
       "type": "weapon",
-      "_id": "astraActor23Item3",
+      "_id": "astraActor23Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item3"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor23Item4",
+      "_id": "astraActor23Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,12 +505,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item4"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor23Item5",
+      "_id": "astraActor23Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -582,12 +582,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item5"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite3"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor23Item6",
+      "_id": "astraActor23Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -662,12 +662,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item6"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite4"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "astraActor23Item7",
+      "_id": "astraActor23Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -692,7 +692,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor23.astraActor23Item7"
+      "_key": "!actors.items!astraActor230000.astraActor23Ite5"
     }
   ]
 }

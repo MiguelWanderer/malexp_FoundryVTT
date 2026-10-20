@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Beastman Auxiliary",
   "type": "npc",
-  "_id": "astraActor11",
+  "_id": "astraActor110000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor11",
+  "_key": "!actors!astraActor110000",
   "items": [
     {
       "name": "Beastial Gaze",
       "type": "trait",
-      "_id": "astraActor11Item1",
+      "_id": "astraActor11Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor11.astraActor11Item1"
+      "_key": "!actors.items!astraActor110000.astraActor11Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor11Item2",
+      "_id": "astraActor11Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor11.astraActor11Item2"
+      "_key": "!actors.items!astraActor110000.astraActor11Ite0"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "astraActor11Item3",
+      "_id": "astraActor11Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor11.astraActor11Item3"
+      "_key": "!actors.items!astraActor110000.astraActor11Ite1"
     },
     {
       "name": "Sword",
       "type": "weapon",
-      "_id": "astraActor11Item4",
+      "_id": "astraActor11Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,7 +505,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor11.astraActor11Item4"
+      "_key": "!actors.items!astraActor110000.astraActor11Ite2"
     }
   ]
 }

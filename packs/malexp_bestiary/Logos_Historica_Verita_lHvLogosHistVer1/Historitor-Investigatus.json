@@ -1,5 +1,5 @@
 {
-  "folder": "lHvLogosHistVer",
+  "folder": "lHvLogosHistVer1",
   "name": "Historitor-Investigatus",
   "type": "npc",
   "_id": "lHvHistoritorInv",
@@ -241,7 +241,7 @@
     {
       "name": "Data Delver",
       "type": "trait",
-      "_id": "lHvHistItem01",
+      "_id": "lHvHistItem01000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem01"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem01000"
     },
     {
       "name": "Historitor",
       "type": "trait",
-      "_id": "lHvHistItem02",
+      "_id": "lHvHistItem02000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem02"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem02000"
     },
     {
       "name": "Investigatus",
       "type": "trait",
-      "_id": "lHvHistItem03",
+      "_id": "lHvHistItem03000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem03"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem03000"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "lHvHistItem04",
+      "_id": "lHvHistItem04000",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -499,12 +499,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem04"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem04000"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "lHvHistItem05",
+      "_id": "lHvHistItem05000",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -529,12 +529,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem05"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem05000"
     },
     {
       "name": "Investigation",
       "type": "specialisation",
-      "_id": "lHvHistItem06",
+      "_id": "lHvHistItem06000",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -559,12 +559,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem06"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem06000"
     },
     {
       "name": "Adeptus Terra",
       "type": "specialisation",
-      "_id": "lHvHistItem07",
+      "_id": "lHvHistItem07000",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -589,12 +589,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem07"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem07000"
     },
     {
       "name": "Academics",
       "type": "specialisation",
-      "_id": "lHvHistItem08",
+      "_id": "lHvHistItem08000",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -619,12 +619,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem08"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem08000"
     },
     {
       "name": "Charm",
       "type": "specialisation",
-      "_id": "lHvHistItem09",
+      "_id": "lHvHistItem09000",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -649,7 +649,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem09"
+      "_key": "!actors.items!lHvHistoritorInv.lHvHistItem09000"
     }
   ]
 }

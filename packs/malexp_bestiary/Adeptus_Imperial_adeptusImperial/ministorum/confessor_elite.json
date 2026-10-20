@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Confessor",
   "type": "npc",
-  "_id": "adeptusActor22",
+  "_id": "adeptusActor2200",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor22",
+  "_key": "!actors!adeptusActor2200",
   "items": [
     {
       "name": "Spiritual Ministration",
       "type": "trait",
-      "_id": "adeptusActor22Item01",
+      "_id": "adeptusActor22It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item01"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22It"
     },
     {
       "name": "Hand Flamer",
       "type": "weapon",
-      "_id": "adeptusActor22Item02",
+      "_id": "adeptusActor22I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item02"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I0"
     },
     {
       "name": "Power Maul",
       "type": "weapon",
-      "_id": "adeptusActor22Item03",
+      "_id": "adeptusActor22I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item03"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I1"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor22Item04",
+      "_id": "adeptusActor22I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item04"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I2"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor22Item05",
+      "_id": "adeptusActor22I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item05"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor22Item06",
+      "_id": "adeptusActor22I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item06"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor22Item07",
+      "_id": "adeptusActor22I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,7 +568,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor22.adeptusActor22Item07"
+      "_key": "!actors.items!adeptusActor2200.adeptusActor22I5"
     }
   ]
 }

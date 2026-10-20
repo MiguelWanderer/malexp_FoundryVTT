@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Bullpup Cyber Mastiff",
   "type": "npc",
-  "_id": "adeptusActor13",
+  "_id": "adeptusActor1300",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor13",
+  "_key": "!actors!adeptusActor1300",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor13Item01",
+      "_id": "adeptusActor13It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor13.adeptusActor13Item01"
+      "_key": "!actors.items!adeptusActor1300.adeptusActor13It"
     },
     {
       "name": "Plasteel Jaw",
       "type": "weapon",
-      "_id": "adeptusActor13Item02",
+      "_id": "adeptusActor13I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor13.adeptusActor13Item02"
+      "_key": "!actors.items!adeptusActor1300.adeptusActor13I0"
     },
     {
       "name": "Shockbite",
       "type": "weapon",
-      "_id": "adeptusActor13Item03",
+      "_id": "adeptusActor13I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -439,12 +439,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor13.adeptusActor13Item03"
+      "_key": "!actors.items!adeptusActor1300.adeptusActor13I1"
     },
     {
       "name": "Chainbite",
       "type": "weapon",
-      "_id": "adeptusActor13Item04",
+      "_id": "adeptusActor13I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -510,7 +510,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor13.adeptusActor13Item04"
+      "_key": "!actors.items!adeptusActor1300.adeptusActor13I2"
     }
   ]
 }

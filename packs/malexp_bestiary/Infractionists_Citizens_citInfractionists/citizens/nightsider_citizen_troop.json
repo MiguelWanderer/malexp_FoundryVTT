@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Nightsider",
   "type": "npc",
-  "_id": "citActor08",
+  "_id": "citActor08000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor08",
+  "_key": "!actors!citActor08000000",
   "items": [
     {
       "name": "Adapted Night Vision",
       "type": "trait",
-      "_id": "citActor08Item1",
+      "_id": "citActor08Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor08.citActor08Item1"
+      "_key": "!actors.items!citActor08000000.citActor08Item10"
     },
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor08Item2",
+      "_id": "citActor08Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor08.citActor08Item2"
+      "_key": "!actors.items!citActor08000000.citActor08Item20"
     }
   ]
 }

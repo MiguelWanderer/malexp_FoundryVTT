@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Gangers",
   "color": null,
   "sorting": "a",
-  "_id": "citgangers",
+  "_id": "citgangers000000",
   "description": "",
   "sort": 901002,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!citgangers"
+  "_key": "!folders!citgangers000000"
 }

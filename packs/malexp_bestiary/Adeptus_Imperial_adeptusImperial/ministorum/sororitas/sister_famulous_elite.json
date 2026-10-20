@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Famulous",
   "type": "npc",
-  "_id": "adeptusActor42",
+  "_id": "adeptusActor4200",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor42",
+  "_key": "!actors!adeptusActor4200",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor42Item01",
+      "_id": "adeptusActor42It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item01"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42It"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor42Item02",
+      "_id": "adeptusActor42I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item02"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I0"
     },
     {
       "name": "Electro-Flail",
       "type": "weapon",
-      "_id": "adeptusActor42Item03",
+      "_id": "adeptusActor42I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item03"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I1"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor42Item04",
+      "_id": "adeptusActor42I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -484,12 +484,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item04"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I2"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor42Item05",
+      "_id": "adeptusActor42I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -514,12 +514,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item05"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor42Item06",
+      "_id": "adeptusActor42I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -544,12 +544,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item06"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I4"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor42Item07",
+      "_id": "adeptusActor42I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -574,12 +574,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item07"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I5"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor42Item08",
+      "_id": "adeptusActor42I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -604,12 +604,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item08"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I6"
     },
     {
       "name": "Charm",
       "type": "specialisation",
-      "_id": "adeptusActor42Item09",
+      "_id": "adeptusActor42I7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -634,12 +634,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item09"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I7"
     },
     {
       "name": "Inquiry",
       "type": "specialisation",
-      "_id": "adeptusActor42Item10",
+      "_id": "adeptusActor42I8",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -664,7 +664,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor42.adeptusActor42Item10"
+      "_key": "!actors.items!adeptusActor4200.adeptusActor42I8"
     }
   ]
 }

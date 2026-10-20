@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Longshank",
   "type": "npc",
-  "_id": "citActor07",
+  "_id": "citActor07000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor07",
+  "_key": "!actors!citActor07000000",
   "items": [
     {
       "name": "Void Legs",
       "type": "trait",
-      "_id": "citActor07Item1",
+      "_id": "citActor07Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor07.citActor07Item1"
+      "_key": "!actors.items!citActor07000000.citActor07Item10"
     },
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor07Item2",
+      "_id": "citActor07Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor07.citActor07Item2"
+      "_key": "!actors.items!citActor07000000.citActor07Item20"
     }
   ]
 }

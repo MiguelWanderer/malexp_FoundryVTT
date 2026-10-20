@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Performancer",
   "type": "npc",
-  "_id": "citActor43",
+  "_id": "citActor43000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor43",
+  "_key": "!actors!citActor43000000",
   "items": [
     {
       "name": "Entertaining",
       "type": "trait",
-      "_id": "citActor43Item1",
+      "_id": "citActor43Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor43.citActor43Item1"
+      "_key": "!actors.items!citActor43000000.citActor43Item10"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "citActor43Item2",
+      "_id": "citActor43Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor43.citActor43Item2"
+      "_key": "!actors.items!citActor43000000.citActor43Item20"
     }
   ]
 }

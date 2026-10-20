@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "adeptusImperial",
+  "folder": "adeptusFolder060",
   "name": "Administratum",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusFolder01",
+  "_id": "adeptusFolder010",
   "description": "",
   "sort": 921001,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusFolder01"
+  "_key": "!folders!adeptusFolder010"
 }

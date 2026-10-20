@@ -1,8 +1,8 @@
 {
-  "folder": "citgangers",
+  "folder": "citgangers000000",
   "name": "Heavy",
   "type": "npc",
-  "_id": "citActor18",
+  "_id": "citActor18000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor18",
+  "_key": "!actors!citActor18000000",
   "items": [
     {
       "name": "Crushing Blow",
       "type": "trait",
-      "_id": "citActor18Item1",
+      "_id": "citActor18Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor18.citActor18Item1"
+      "_key": "!actors.items!citActor18000000.citActor18Item10"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "citActor18Item2",
+      "_id": "citActor18Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor18.citActor18Item2"
+      "_key": "!actors.items!citActor18000000.citActor18Item20"
     },
     {
       "name": "Brass Knuckles",
       "type": "weapon",
-      "_id": "citActor18Item3",
+      "_id": "citActor18Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,7 +438,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor18.citActor18Item3"
+      "_key": "!actors.items!citActor18000000.citActor18Item30"
     }
   ]
 }

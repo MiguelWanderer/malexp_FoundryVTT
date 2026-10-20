@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Bomb Disposal Servitor",
   "type": "npc",
-  "_id": "adeptusActor12",
+  "_id": "adeptusActor1200",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor12",
+  "_key": "!actors!adeptusActor1200",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor12Item01",
+      "_id": "adeptusActor12It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor12.adeptusActor12Item01"
+      "_key": "!actors.items!adeptusActor1200.adeptusActor12It"
     },
     {
       "name": "Shotgun Pistol",
       "type": "weapon",
-      "_id": "adeptusActor12Item02",
+      "_id": "adeptusActor12I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,7 +371,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor12.adeptusActor12Item02"
+      "_key": "!actors.items!adeptusActor1200.adeptusActor12I0"
     }
   ]
 }

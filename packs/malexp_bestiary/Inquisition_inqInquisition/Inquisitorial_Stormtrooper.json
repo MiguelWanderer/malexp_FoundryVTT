@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Stormtrooper",
   "type": "npc",
-  "_id": "inqActor12",
+  "_id": "inqActor12000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor12",
+  "_key": "!actors!inqActor12000000",
   "items": [
     {
       "name": "Killing Zone",
       "type": "trait",
-      "_id": "inqActor12Trait01",
+      "_id": "inqActor12Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor12.inqActor12Trait01"
+      "_key": "!actors.items!inqActor12000000.inqActor12Trait0"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor12Trait02",
+      "_id": "inqActor12Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor12.inqActor12Trait02"
+      "_key": "!actors.items!inqActor12000000.inqActor12Trait1"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "inqActor12Trait03",
+      "_id": "inqActor12Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor12.inqActor12Trait03"
+      "_key": "!actors.items!inqActor12000000.inqActor12Trait2"
     },
     {
       "name": "Hot-Shot Lasgun",
       "type": "weapon",
-      "_id": "inqActor12Weapon04",
+      "_id": "inqActor12Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -508,7 +508,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor12.inqActor12Weapon04"
+      "_key": "!actors.items!inqActor12000000.inqActor12Weapon"
     },
     {
       "name": "Long Guns",
@@ -538,7 +538,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor12.inqActor12Spec05"
+      "_key": "!actors.items!inqActor12000000.inqActor12Spec05"
     }
   ]
 }

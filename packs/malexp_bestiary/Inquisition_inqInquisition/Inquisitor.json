@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitor",
   "type": "npc",
-  "_id": "inqActor03",
+  "_id": "inqActor03000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor03",
+  "_key": "!actors!inqActor03000000",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "inqActor03Trait01",
+      "_id": "inqActor03Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Trait01"
+      "_key": "!actors.items!inqActor03000000.inqActor03Trait0"
     },
     {
       "name": "Hunter-controller",
       "type": "trait",
-      "_id": "inqActor03Trait02",
+      "_id": "inqActor03Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Trait02"
+      "_key": "!actors.items!inqActor03000000.inqActor03Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor03Trait03",
+      "_id": "inqActor03Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Trait03"
+      "_key": "!actors.items!inqActor03000000.inqActor03Trait2"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "inqActor03Weapon04",
+      "_id": "inqActor03Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -502,7 +502,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Weapon04"
+      "_key": "!actors.items!inqActor03000000.inqActor03Weapon"
     },
     {
       "name": "Psychic",
@@ -532,7 +532,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec05"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec05"
     },
     {
       "name": "Fear",
@@ -562,7 +562,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec06"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec06"
     },
     {
       "name": "Composure",
@@ -592,7 +592,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec07"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec07"
     },
     {
       "name": "People",
@@ -622,7 +622,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec08"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec08"
     },
     {
       "name": "Investigation",
@@ -652,7 +652,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec09"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec09"
     },
     {
       "name": "Forbidden",
@@ -682,7 +682,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec10"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec10"
     },
     {
       "name": "Interrogation",
@@ -712,7 +712,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec11"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec11"
     },
     {
       "name": "Intimidation",
@@ -742,7 +742,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor03.inqActor03Spec12"
+      "_key": "!actors.items!inqActor03000000.inqActor03Spec12"
     }
   ]
 }

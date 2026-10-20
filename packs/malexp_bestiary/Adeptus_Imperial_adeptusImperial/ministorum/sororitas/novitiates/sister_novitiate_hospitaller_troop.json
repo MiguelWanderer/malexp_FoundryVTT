@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Novitiate Hospitaller",
   "type": "npc",
-  "_id": "adeptusActor32",
+  "_id": "adeptusActor3200",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor32",
+  "_key": "!actors!adeptusActor3200",
   "items": [
     {
       "name": "Angel of Mercy",
       "type": "trait",
-      "_id": "adeptusActor32Item01",
+      "_id": "adeptusActor32It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item01"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32It"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor32Item02",
+      "_id": "adeptusActor32I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item02"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32I0"
     },
     {
       "name": "Autogun",
       "type": "weapon",
-      "_id": "adeptusActor32Item03",
+      "_id": "adeptusActor32I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -451,12 +451,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item03"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32I1"
     },
     {
       "name": "Sword",
       "type": "weapon",
-      "_id": "adeptusActor32Item04",
+      "_id": "adeptusActor32I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item04"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32I2"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor32Item05",
+      "_id": "adeptusActor32I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -548,12 +548,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item05"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32I3"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor32Item06",
+      "_id": "adeptusActor32I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -578,7 +578,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor32.adeptusActor32Item06"
+      "_key": "!actors.items!adeptusActor3200.adeptusActor32I4"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Bloodhound Cyber Mastiff",
   "type": "npc",
-  "_id": "adeptusActor11",
+  "_id": "adeptusActor1100",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor11",
+  "_key": "!actors!adeptusActor1100",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor11Item01",
+      "_id": "adeptusActor11It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item01"
+      "_key": "!actors.items!adeptusActor1100.adeptusActor11It"
     },
     {
       "name": "Plasteel Jaw",
       "type": "weapon",
-      "_id": "adeptusActor11Item02",
+      "_id": "adeptusActor11I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item02"
+      "_key": "!actors.items!adeptusActor1100.adeptusActor11I0"
     },
     {
       "name": "Smell",
       "type": "specialisation",
-      "_id": "adeptusActor11Item03",
+      "_id": "adeptusActor11I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -398,12 +398,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item03"
+      "_key": "!actors.items!adeptusActor1100.adeptusActor11I1"
     },
     {
       "name": "Tracking",
       "type": "specialisation",
-      "_id": "adeptusActor11Item04",
+      "_id": "adeptusActor11I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -428,7 +428,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor11.adeptusActor11Item04"
+      "_key": "!actors.items!adeptusActor1100.adeptusActor11I2"
     }
   ]
 }

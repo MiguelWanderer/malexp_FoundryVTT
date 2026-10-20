@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "adeptusImperial",
+  "folder": "adeptusFolder060",
   "name": "Ministorum/Sororitas",
   "color": null,
   "sorting": "a",
-  "_id": "adeptusFolder04",
+  "_id": "adeptusFolder040",
   "description": "",
   "sort": 921004,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!adeptusFolder04"
+  "_key": "!folders!adeptusFolder040"
 }

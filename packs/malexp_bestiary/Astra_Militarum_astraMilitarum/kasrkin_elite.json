@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Kasrkin",
   "type": "npc",
-  "_id": "astraActor09",
+  "_id": "astraActor090000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor09",
+  "_key": "!actors!astraActor090000",
   "items": [
     {
       "name": "Cadia Stands!",
       "type": "trait",
-      "_id": "astraActor09Item1",
+      "_id": "astraActor09Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item1"
+      "_key": "!actors.items!astraActor090000.astraActor09Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor09Item2",
+      "_id": "astraActor09Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item2"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite0"
     },
     {
       "name": "Hot-Shot Lasgun",
       "type": "weapon",
-      "_id": "astraActor09Item3",
+      "_id": "astraActor09Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item3"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor09Item4",
+      "_id": "astraActor09Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,12 +505,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item4"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor09Item5",
+      "_id": "astraActor09Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -582,12 +582,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item5"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite3"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor09Item6",
+      "_id": "astraActor09Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -662,12 +662,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item6"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite4"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "astraActor09Item7",
+      "_id": "astraActor09Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -692,7 +692,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor09.astraActor09Item7"
+      "_key": "!actors.items!astraActor090000.astraActor09Ite5"
     }
   ]
 }

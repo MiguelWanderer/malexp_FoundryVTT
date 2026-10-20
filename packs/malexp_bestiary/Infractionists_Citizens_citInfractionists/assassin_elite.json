@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Assassin",
   "type": "npc",
-  "_id": "citActor01",
+  "_id": "citActor01000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor01",
+  "_key": "!actors!citActor01000000",
   "items": [
     {
       "name": "Ambusher",
       "type": "trait",
-      "_id": "citActor01Item1",
+      "_id": "citActor01Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor01.citActor01Item1"
+      "_key": "!actors.items!citActor01000000.citActor01Item10"
     },
     {
       "name": "Sniper Rifle w/ Silencer",
       "type": "weapon",
-      "_id": "citActor01Item2",
+      "_id": "citActor01Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,12 +368,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor01.citActor01Item2"
+      "_key": "!actors.items!citActor01000000.citActor01Item20"
     },
     {
       "name": "Autopistol w/ Manstoppers",
       "type": "weapon",
-      "_id": "citActor01Item3",
+      "_id": "citActor01Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor01.citActor01Item3"
+      "_key": "!actors.items!citActor01000000.citActor01Item30"
     },
     {
       "name": "Mono-Sword",
       "type": "weapon",
-      "_id": "citActor01Item4",
+      "_id": "citActor01Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -519,7 +519,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor01.citActor01Item4"
+      "_key": "!actors.items!citActor01000000.citActor01Item40"
     }
   ]
 }

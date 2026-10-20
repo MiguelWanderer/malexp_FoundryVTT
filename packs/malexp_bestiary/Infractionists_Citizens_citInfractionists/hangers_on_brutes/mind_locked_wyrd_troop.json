@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Mind-Locked Wyrd",
   "type": "npc",
-  "_id": "citActor31",
+  "_id": "citActor31000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor31",
+  "_key": "!actors!citActor31000000",
   "items": [
     {
       "name": "Mind-Locked",
       "type": "trait",
-      "_id": "citActor31Item1",
+      "_id": "citActor31Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor31.citActor31Item1"
+      "_key": "!actors.items!citActor31000000.citActor31Item10"
     },
     {
       "name": "Psyker",
       "type": "trait",
-      "_id": "citActor31Item2",
+      "_id": "citActor31Item20",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor31.citActor31Item2"
+      "_key": "!actors.items!citActor31000000.citActor31Item20"
     },
     {
       "name": "Stub Pistol",
       "type": "weapon",
-      "_id": "citActor31Item3",
+      "_id": "citActor31Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -435,12 +435,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor31.citActor31Item3"
+      "_key": "!actors.items!citActor31000000.citActor31Item30"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "citActor31Item4",
+      "_id": "citActor31Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -502,7 +502,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor31.citActor31Item4"
+      "_key": "!actors.items!citActor31000000.citActor31Item40"
     }
   ]
 }

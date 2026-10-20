@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Breacher",
   "type": "npc",
-  "_id": "astraActor01",
+  "_id": "astraActor010000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor01",
+  "_key": "!actors!astraActor010000",
   "items": [
     {
       "name": "Demolition Specialist",
       "type": "trait",
-      "_id": "astraActor01Item1",
+      "_id": "astraActor01Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item1"
+      "_key": "!actors.items!astraActor010000.astraActor01Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor01Item2",
+      "_id": "astraActor01Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item2"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite0"
     },
     {
       "name": "Lasgun",
       "type": "weapon",
-      "_id": "astraActor01Item3",
+      "_id": "astraActor01Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item3"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor01Item4",
+      "_id": "astraActor01Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,12 +505,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item4"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor01Item5",
+      "_id": "astraActor01Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -582,12 +582,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item5"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite3"
     },
     {
       "name": "Blasting Charge",
       "type": "weapon",
-      "_id": "astraActor01Item6",
+      "_id": "astraActor01Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -659,12 +659,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item6"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite4"
     },
     {
       "name": "Demolition Charge",
       "type": "weapon",
-      "_id": "astraActor01Item7",
+      "_id": "astraActor01Ite5",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -736,12 +736,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item7"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite5"
     },
     {
       "name": "Defuse",
       "type": "specialisation",
-      "_id": "astraActor01Item8",
+      "_id": "astraActor01Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -766,12 +766,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item8"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite6"
     },
     {
       "name": "Engineering",
       "type": "specialisation",
-      "_id": "astraActor01Item9",
+      "_id": "astraActor01Ite7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -796,7 +796,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor01.astraActor01Item9"
+      "_key": "!actors.items!astraActor010000.astraActor01Ite7"
     }
   ]
 }

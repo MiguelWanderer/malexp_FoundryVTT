@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Beastman",
   "type": "npc",
-  "_id": "citActor04",
+  "_id": "citActor04000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor04",
+  "_key": "!actors!citActor04000000",
   "items": [
     {
       "name": "Beastial Gaze",
       "type": "trait",
-      "_id": "citActor04Item1",
+      "_id": "citActor04Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor04.citActor04Item1"
+      "_key": "!actors.items!citActor04000000.citActor04Item10"
     },
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor04Item2",
+      "_id": "citActor04Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor04.citActor04Item2"
+      "_key": "!actors.items!citActor04000000.citActor04Item20"
     }
   ]
 }

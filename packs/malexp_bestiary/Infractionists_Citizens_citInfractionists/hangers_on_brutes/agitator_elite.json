@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Agitator",
   "type": "npc",
-  "_id": "citActor23",
+  "_id": "citActor23000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor23",
+  "_key": "!actors!citActor23000000",
   "items": [
     {
       "name": "\"Truth\" Speaker",
       "type": "trait",
-      "_id": "citActor23Item1",
+      "_id": "citActor23Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor23.citActor23Item1"
+      "_key": "!actors.items!citActor23000000.citActor23Item10"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "citActor23Item2",
+      "_id": "citActor23Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor23.citActor23Item2"
+      "_key": "!actors.items!citActor23000000.citActor23Item20"
     }
   ]
 }

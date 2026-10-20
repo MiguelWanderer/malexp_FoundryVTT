@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Dominion",
   "type": "npc",
-  "_id": "adeptusActor41",
+  "_id": "adeptusActor4100",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor41",
+  "_key": "!actors!adeptusActor4100",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor41Item01",
+      "_id": "adeptusActor41It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item01"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41It"
     },
     {
       "name": "Boltgun",
       "type": "weapon",
-      "_id": "adeptusActor41Item02",
+      "_id": "adeptusActor41I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item02"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I0"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor41Item03",
+      "_id": "adeptusActor41I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -463,12 +463,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item03"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I1"
     },
     {
       "name": "Storm Bolter",
       "type": "weapon",
-      "_id": "adeptusActor41Item04",
+      "_id": "adeptusActor41I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -543,12 +543,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item04"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I2"
     },
     {
       "name": "Flamer",
       "type": "weapon",
-      "_id": "adeptusActor41Item05",
+      "_id": "adeptusActor41I3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -623,12 +623,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item05"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I3"
     },
     {
       "name": "Meltagun",
       "type": "weapon",
-      "_id": "adeptusActor41Item06",
+      "_id": "adeptusActor41I4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -700,12 +700,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item06"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I4"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "adeptusActor41Item07",
+      "_id": "adeptusActor41I5",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -777,12 +777,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item07"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I5"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "adeptusActor41Item08",
+      "_id": "adeptusActor41I6",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -857,12 +857,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item08"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I6"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "adeptusActor41Item09",
+      "_id": "adeptusActor41I7",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -931,12 +931,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item09"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I7"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor41Item10",
+      "_id": "adeptusActor41I8",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -961,12 +961,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item10"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I8"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor41Item11",
+      "_id": "adeptusActor41I9",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -991,12 +991,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item11"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor41I9"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor41Item12",
+      "_id": "adeptusActor4110",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -1021,12 +1021,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item12"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor4110"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor41Item13",
+      "_id": "adeptusActor4111",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -1051,12 +1051,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item13"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor4111"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "adeptusActor41Item14",
+      "_id": "adeptusActor4112",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -1081,7 +1081,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor41.adeptusActor41Item14"
+      "_key": "!actors.items!adeptusActor4100.adeptusActor4112"
     }
   ]
 }

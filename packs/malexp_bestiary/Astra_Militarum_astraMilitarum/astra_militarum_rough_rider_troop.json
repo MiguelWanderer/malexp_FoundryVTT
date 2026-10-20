@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Rough Rider",
   "type": "npc",
-  "_id": "astraActor04",
+  "_id": "astraActor040000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor04",
+  "_key": "!actors!astraActor040000",
   "items": [
     {
       "name": "Beastmaster",
       "type": "trait",
-      "_id": "astraActor04Item1",
+      "_id": "astraActor04Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item1"
+      "_key": "!actors.items!astraActor040000.astraActor04Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor04Item2",
+      "_id": "astraActor04Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item2"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite0"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "astraActor04Item3",
+      "_id": "astraActor04Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item3"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite1"
     },
     {
       "name": "Cavalry Spear",
       "type": "weapon",
-      "_id": "astraActor04Item4",
+      "_id": "astraActor04Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -509,12 +509,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item4"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite2"
     },
     {
       "name": "Hunting Lance",
       "type": "weapon",
-      "_id": "astraActor04Item5",
+      "_id": "astraActor04Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -580,12 +580,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item5"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite3"
     },
     {
       "name": "Saber",
       "type": "weapon",
-      "_id": "astraActor04Item6",
+      "_id": "astraActor04Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -647,12 +647,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item6"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite4"
     },
     {
       "name": "Riding",
       "type": "specialisation",
-      "_id": "astraActor04Item7",
+      "_id": "astraActor04Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -677,12 +677,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item7"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite5"
     },
     {
       "name": "Animals",
       "type": "specialisation",
-      "_id": "astraActor04Item8",
+      "_id": "astraActor04Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -707,7 +707,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor04.astraActor04Item8"
+      "_key": "!actors.items!astraActor040000.astraActor04Ite6"
     }
   ]
 }

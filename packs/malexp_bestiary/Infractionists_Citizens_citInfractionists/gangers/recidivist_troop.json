@@ -1,8 +1,8 @@
 {
-  "folder": "citgangers",
+  "folder": "citgangers000000",
   "name": "Recidivist",
   "type": "npc",
-  "_id": "citActor21",
+  "_id": "citActor21000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor21",
+  "_key": "!actors!citActor21000000",
   "items": [
     {
       "name": "Autopistol w/ Manstoppers",
       "type": "weapon",
-      "_id": "citActor21Item1",
+      "_id": "citActor21Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -307,12 +307,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor21.citActor21Item1"
+      "_key": "!actors.items!citActor21000000.citActor21Item10"
     },
     {
       "name": "Mono-Knife",
       "type": "weapon",
-      "_id": "citActor21Item2",
+      "_id": "citActor21Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -378,7 +378,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor21.citActor21Item2"
+      "_key": "!actors.items!citActor21000000.citActor21Item20"
     }
   ]
 }

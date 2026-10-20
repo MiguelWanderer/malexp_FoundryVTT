@@ -1,8 +1,8 @@
 {
-  "folder": "citcitizens",
+  "folder": "citcitizens00000",
   "name": "Ogryn",
   "type": "npc",
-  "_id": "citActor09",
+  "_id": "citActor09000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor09",
+  "_key": "!actors!citActor09000000",
   "items": [
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "citActor09Item1",
+      "_id": "citActor09Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -307,7 +307,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor09.citActor09Item1"
+      "_key": "!actors.items!citActor09000000.citActor09Item10"
     }
   ]
 }

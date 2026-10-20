@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Engineer",
   "type": "npc",
-  "_id": "astraActor02",
+  "_id": "astraActor020000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor02",
+  "_key": "!actors!astraActor020000",
   "items": [
     {
       "name": "Auspex Scanner",
       "type": "trait",
-      "_id": "astraActor02Item1",
+      "_id": "astraActor02Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item1"
+      "_key": "!actors.items!astraActor020000.astraActor02Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor02Item2",
+      "_id": "astraActor02Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item2"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite0"
     },
     {
       "name": "Lasgun",
       "type": "weapon",
-      "_id": "astraActor02Item3",
+      "_id": "astraActor02Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item3"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor02Item4",
+      "_id": "astraActor02Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,12 +505,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item4"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor02Item5",
+      "_id": "astraActor02Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -582,12 +582,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item5"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite3"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor02Item6",
+      "_id": "astraActor02Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -662,12 +662,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item6"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite4"
     },
     {
       "name": "Engineering",
       "type": "specialisation",
-      "_id": "astraActor02Item7",
+      "_id": "astraActor02Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -692,7 +692,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor02.astraActor02Item7"
+      "_key": "!actors.items!astraActor020000.astraActor02Ite5"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Cipher",
   "type": "npc",
-  "_id": "adeptusCipher",
+  "_id": "adeptusCipher000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusCipher",
+  "_key": "!actors!adeptusCipher000",
   "items": [
     {
       "name": "Bureaucratic Boldness",
       "type": "trait",
-      "_id": "adeptusCipherItem01",
+      "_id": "adeptusCipherIte",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusCipher.adeptusCipherItem01"
+      "_key": "!actors.items!adeptusCipher000.adeptusCipherIte"
     },
     {
       "name": "Data Delver",
       "type": "trait",
-      "_id": "adeptusCipherItem02",
+      "_id": "adeptusCipherIt0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusCipher.adeptusCipherItem02"
+      "_key": "!actors.items!adeptusCipher000.adeptusCipherIt0"
     },
     {
       "name": "Read Lips",
       "type": "trait",
-      "_id": "adeptusCipherItem03",
+      "_id": "adeptusCipherIt1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusCipher.adeptusCipherItem03"
+      "_key": "!actors.items!adeptusCipher000.adeptusCipherIt1"
     },
     {
       "name": "Fists",
       "type": "weapon",
-      "_id": "adeptusCipherItem04",
+      "_id": "adeptusCipherIt2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -490,7 +490,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusCipher.adeptusCipherItem04"
+      "_key": "!actors.items!adeptusCipher000.adeptusCipherIt2"
     }
   ]
 }

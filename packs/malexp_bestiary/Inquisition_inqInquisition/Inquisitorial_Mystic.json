@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Mystic",
   "type": "npc",
-  "_id": "inqActor09",
+  "_id": "inqActor09000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor09",
+  "_key": "!actors!inqActor09000000",
   "items": [
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor09Trait01",
+      "_id": "inqActor09Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Trait01"
+      "_key": "!actors.items!inqActor09000000.inqActor09Trait0"
     },
     {
       "name": "Diviner",
       "type": "trait",
-      "_id": "inqActor09Trait02",
+      "_id": "inqActor09Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Trait02"
+      "_key": "!actors.items!inqActor09000000.inqActor09Trait1"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "inqActor09Weapon03",
+      "_id": "inqActor09Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,7 +438,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Weapon03"
+      "_key": "!actors.items!inqActor09000000.inqActor09Weapon"
     },
     {
       "name": "Psyniscience",
@@ -468,7 +468,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Spec04"
+      "_key": "!actors.items!inqActor09000000.inqActor09Spec04"
     },
     {
       "name": "Psychic",
@@ -498,7 +498,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Spec05"
+      "_key": "!actors.items!inqActor09000000.inqActor09Spec05"
     },
     {
       "name": "Divination",
@@ -528,7 +528,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor09.inqActor09Spec06"
+      "_key": "!actors.items!inqActor09000000.inqActor09Spec06"
     }
   ]
 }

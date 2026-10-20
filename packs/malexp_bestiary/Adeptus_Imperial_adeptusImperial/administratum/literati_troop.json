@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Literati",
   "type": "npc",
-  "_id": "adeptusLiterati",
+  "_id": "adeptusLiterati0",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusLiterati",
+  "_key": "!actors!adeptusLiterati0",
   "items": [
     {
       "name": "Autogun",
       "type": "weapon",
-      "_id": "adeptusLiteratiItem01",
+      "_id": "adeptusLiteratiI",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -313,12 +313,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusLiterati.adeptusLiteratiItem01"
+      "_key": "!actors.items!adeptusLiterati0.adeptusLiteratiI"
     },
     {
       "name": "Baton",
       "type": "weapon",
-      "_id": "adeptusLiteratiItem02",
+      "_id": "adeptusLiterati1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,7 +380,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusLiterati.adeptusLiteratiItem02"
+      "_key": "!actors.items!adeptusLiterati0.adeptusLiterati1"
     }
   ]
 }

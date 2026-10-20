@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Militarum Auxilia",
   "color": null,
   "sorting": "a",
-  "_id": "astramilitarumauxil",
+  "_id": "astramilitarumau",
   "description": "",
   "sort": 911001,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!astramilitarumauxil"
+  "_key": "!folders!astramilitarumau"
 }

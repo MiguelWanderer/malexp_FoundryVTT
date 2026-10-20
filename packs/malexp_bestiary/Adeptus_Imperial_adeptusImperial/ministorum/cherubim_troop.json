@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Cherubim",
   "type": "npc",
-  "_id": "adeptusActor21",
+  "_id": "adeptusActor2100",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor21",
+  "_key": "!actors!adeptusActor2100",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor21Item01",
+      "_id": "adeptusActor21It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor21.adeptusActor21Item01"
+      "_key": "!actors.items!adeptusActor2100.adeptusActor21It"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor21Item02",
+      "_id": "adeptusActor21I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,7 +358,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor21.adeptusActor21Item02"
+      "_key": "!actors.items!adeptusActor2100.adeptusActor21I0"
     }
   ]
 }

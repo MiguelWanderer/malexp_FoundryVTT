@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Suppressor Servitor",
   "type": "npc",
-  "_id": "adeptusActor17",
+  "_id": "adeptusActor1700",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor17",
+  "_key": "!actors!adeptusActor1700",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor17Item01",
+      "_id": "adeptusActor17It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor17.adeptusActor17Item01"
+      "_key": "!actors.items!adeptusActor1700.adeptusActor17It"
     },
     {
       "name": "Auto-Grenade Launcher w/ Choke Grenades",
       "type": "weapon",
-      "_id": "adeptusActor17Item02",
+      "_id": "adeptusActor17I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor17.adeptusActor17Item02"
+      "_key": "!actors.items!adeptusActor1700.adeptusActor17I0"
     },
     {
       "name": "Webber",
       "type": "weapon",
-      "_id": "adeptusActor17Item03",
+      "_id": "adeptusActor17I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -445,12 +445,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor17.adeptusActor17Item03"
+      "_key": "!actors.items!adeptusActor1700.adeptusActor17I1"
     },
     {
       "name": "Pneumatic Piston Launcher",
       "type": "weapon",
-      "_id": "adeptusActor17Item04",
+      "_id": "adeptusActor17I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -519,7 +519,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor17.adeptusActor17Item04"
+      "_key": "!actors.items!adeptusActor1700.adeptusActor17I2"
     }
   ]
 }

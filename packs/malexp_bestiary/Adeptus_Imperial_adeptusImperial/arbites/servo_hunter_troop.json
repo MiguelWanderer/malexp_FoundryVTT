@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Servo-Hunter",
   "type": "npc",
-  "_id": "adeptusActor16",
+  "_id": "adeptusActor1600",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor16",
+  "_key": "!actors!adeptusActor1600",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "adeptusActor16Item01",
+      "_id": "adeptusActor16It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item01"
+      "_key": "!actors.items!adeptusActor1600.adeptusActor16It"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor16Item02",
+      "_id": "adeptusActor16I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item02"
+      "_key": "!actors.items!adeptusActor1600.adeptusActor16I0"
     },
     {
       "name": "Tracking",
       "type": "specialisation",
-      "_id": "adeptusActor16Item03",
+      "_id": "adeptusActor16I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -388,7 +388,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor16.adeptusActor16Item03"
+      "_key": "!actors.items!adeptusActor1600.adeptusActor16I1"
     }
   ]
 }

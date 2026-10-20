@@ -4,7 +4,7 @@
   "name": "Astra Militarum",
   "color": null,
   "sorting": "a",
-  "_id": "astraMilitarum",
+  "_id": "astraMilitarum00",
   "description": "",
   "sort": 910000,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!astraMilitarum"
+  "_key": "!folders!astraMilitarum00"
 }

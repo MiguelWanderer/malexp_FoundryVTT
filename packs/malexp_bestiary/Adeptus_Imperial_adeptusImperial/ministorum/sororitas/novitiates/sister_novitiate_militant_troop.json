@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Novitiate Militant",
   "type": "npc",
-  "_id": "adeptusActor33",
+  "_id": "adeptusActor3300",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor33",
+  "_key": "!actors!adeptusActor3300",
   "items": [
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "adeptusActor33Item01",
+      "_id": "adeptusActor33It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor33.adeptusActor33Item01"
+      "_key": "!actors.items!adeptusActor3300.adeptusActor33It"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "adeptusActor33Item02",
+      "_id": "adeptusActor33I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor33.adeptusActor33Item02"
+      "_key": "!actors.items!adeptusActor3300.adeptusActor33I0"
     },
     {
       "name": "Autogun",
       "type": "weapon",
-      "_id": "adeptusActor33Item03",
+      "_id": "adeptusActor33I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -451,12 +451,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor33.adeptusActor33Item03"
+      "_key": "!actors.items!adeptusActor3300.adeptusActor33I1"
     },
     {
       "name": "Sword",
       "type": "weapon",
-      "_id": "adeptusActor33Item04",
+      "_id": "adeptusActor33I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor33.adeptusActor33Item04"
+      "_key": "!actors.items!adeptusActor3300.adeptusActor33I2"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor33Item05",
+      "_id": "adeptusActor33I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -548,7 +548,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor33.adeptusActor33Item05"
+      "_key": "!actors.items!adeptusActor3300.adeptusActor33I3"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Psyber-Eagle",
   "type": "npc",
-  "_id": "citActor44",
+  "_id": "citActor44000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor44",
+  "_key": "!actors!citActor44000000",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "citActor44Item1",
+      "_id": "citActor44Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor44.citActor44Item1"
+      "_key": "!actors.items!citActor44000000.citActor44Item10"
     },
     {
       "name": "Claws",
       "type": "weapon",
-      "_id": "citActor44Item2",
+      "_id": "citActor44Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -364,7 +364,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor44.citActor44Item2"
+      "_key": "!actors.items!citActor44000000.citActor44Item20"
     }
   ]
 }

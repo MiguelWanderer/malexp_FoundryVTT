@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Missionary",
   "type": "npc",
-  "_id": "adeptusActor26",
+  "_id": "adeptusActor2600",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor26",
+  "_key": "!actors!adeptusActor2600",
   "items": [
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "adeptusActor26Item01",
+      "_id": "adeptusActor26It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item01"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26It"
     },
     {
       "name": "Exterminator Cartridge",
       "type": "weapon",
-      "_id": "adeptusActor26Item02",
+      "_id": "adeptusActor26I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item02"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I0"
     },
     {
       "name": "Eviscerator w/ Exterminator Cartridge",
       "type": "weapon",
-      "_id": "adeptusActor26Item03",
+      "_id": "adeptusActor26I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item03"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I1"
     },
     {
       "name": "Human",
       "type": "specialisation",
-      "_id": "adeptusActor26Item04",
+      "_id": "adeptusActor26I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -484,12 +484,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item04"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I2"
     },
     {
       "name": "High Gothic",
       "type": "specialisation",
-      "_id": "adeptusActor26Item05",
+      "_id": "adeptusActor26I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -514,12 +514,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item05"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor26Item06",
+      "_id": "adeptusActor26I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -544,12 +544,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item06"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor26Item07",
+      "_id": "adeptusActor26I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -574,7 +574,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor26.adeptusActor26Item07"
+      "_key": "!actors.items!adeptusActor2600.adeptusActor26I5"
     }
   ]
 }

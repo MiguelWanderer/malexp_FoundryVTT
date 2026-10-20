@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Imperial Tactician",
   "type": "npc",
-  "_id": "astraActor08",
+  "_id": "astraActor080000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor08",
+  "_key": "!actors!astraActor080000",
   "items": [
     {
       "name": "Data Delver",
       "type": "trait",
-      "_id": "astraActor08Item1",
+      "_id": "astraActor08Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item1"
+      "_key": "!actors.items!astraActor080000.astraActor08Item"
     },
     {
       "name": "Las Pistol",
       "type": "weapon",
-      "_id": "astraActor08Item2",
+      "_id": "astraActor08Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item2"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite0"
     },
     {
       "name": "Power Sword",
       "type": "weapon",
-      "_id": "astraActor08Item3",
+      "_id": "astraActor08Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item3"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite1"
     },
     {
       "name": "Sight",
       "type": "specialisation",
-      "_id": "astraActor08Item4",
+      "_id": "astraActor08Ite2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item4"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite2"
     },
     {
       "name": "Cipher",
       "type": "specialisation",
-      "_id": "astraActor08Item5",
+      "_id": "astraActor08Ite3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,12 +508,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item5"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite3"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "astraActor08Item6",
+      "_id": "astraActor08Ite4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -538,12 +538,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item6"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "astraActor08Item7",
+      "_id": "astraActor08Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -568,7 +568,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor08.astraActor08Item7"
+      "_key": "!actors.items!astraActor080000.astraActor08Ite5"
     }
   ]
 }

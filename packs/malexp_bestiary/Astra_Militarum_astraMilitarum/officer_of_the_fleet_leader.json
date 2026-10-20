@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Officer of the Fleet",
   "type": "npc",
-  "_id": "astraActor24",
+  "_id": "astraActor240000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor24",
+  "_key": "!actors!astraActor240000",
   "items": [
     {
       "name": "Aura of Discipline",
       "type": "trait",
-      "_id": "astraActor24Item1",
+      "_id": "astraActor24Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item1"
+      "_key": "!actors.items!astraActor240000.astraActor24Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor24Item2",
+      "_id": "astraActor24Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item2"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite0"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "astraActor24Item3",
+      "_id": "astraActor24Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item3"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite1"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor24Item4",
+      "_id": "astraActor24Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item4"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite2"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor24Item5",
+      "_id": "astraActor24Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -598,12 +598,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item5"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite3"
     },
     {
       "name": "Power Sword",
       "type": "weapon",
-      "_id": "astraActor24Item6",
+      "_id": "astraActor24Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -669,12 +669,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item6"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "astraActor24Item7",
+      "_id": "astraActor24Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -699,12 +699,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item7"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite5"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "astraActor24Item8",
+      "_id": "astraActor24Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -729,12 +729,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item8"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite6"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "astraActor24Item9",
+      "_id": "astraActor24Ite7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -759,7 +759,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor24.astraActor24Item9"
+      "_key": "!actors.items!astraActor240000.astraActor24Ite7"
     }
   ]
 }

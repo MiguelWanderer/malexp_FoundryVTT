@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Autosavant",
   "type": "npc",
-  "_id": "inqActor05",
+  "_id": "inqActor05000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor05",
+  "_key": "!actors!inqActor05000000",
   "items": [
     {
       "name": "Heavily Augmented",
       "type": "trait",
-      "_id": "inqActor05Trait01",
+      "_id": "inqActor05Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Trait01"
+      "_key": "!actors.items!inqActor05000000.inqActor05Trait0"
     },
     {
       "name": "Scribe-Tines",
       "type": "trait",
-      "_id": "inqActor05Trait02",
+      "_id": "inqActor05Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Trait02"
+      "_key": "!actors.items!inqActor05000000.inqActor05Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor05Trait03",
+      "_id": "inqActor05Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Trait03"
+      "_key": "!actors.items!inqActor05000000.inqActor05Trait2"
     },
     {
       "name": "Mechanical Appendages",
       "type": "weapon",
-      "_id": "inqActor05Weapon04",
+      "_id": "inqActor05Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -490,7 +490,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Weapon04"
+      "_key": "!actors.items!inqActor05000000.inqActor05Weapon"
     },
     {
       "name": "People",
@@ -520,7 +520,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Spec05"
+      "_key": "!actors.items!inqActor05000000.inqActor05Spec05"
     },
     {
       "name": "Adeptus Terra",
@@ -550,7 +550,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor05.inqActor05Spec06"
+      "_key": "!actors.items!inqActor05000000.inqActor05Spec06"
     }
   ]
 }

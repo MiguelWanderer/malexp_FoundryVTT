@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Veteran",
   "type": "npc",
-  "_id": "astraActor26",
+  "_id": "astraActor260000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor26",
+  "_key": "!actors!astraActor260000",
   "items": [
     {
       "name": "Drilled (Kill Team)",
       "type": "trait",
-      "_id": "astraActor26Item1",
+      "_id": "astraActor26Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item1"
+      "_key": "!actors.items!astraActor260000.astraActor26Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor26Item2",
+      "_id": "astraActor26Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item2"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite0"
     },
     {
       "name": "Lasgun",
       "type": "weapon",
-      "_id": "astraActor26Item3",
+      "_id": "astraActor26Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item3"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite1"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor26Item4",
+      "_id": "astraActor26Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -515,12 +515,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item4"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite2"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor26Item5",
+      "_id": "astraActor26Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -595,12 +595,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item5"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite3"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor26Item6",
+      "_id": "astraActor26Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -662,12 +662,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item6"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite4"
     },
     {
       "name": "Might",
       "type": "specialisation",
-      "_id": "astraActor26Item7",
+      "_id": "astraActor26Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -692,7 +692,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor26.astraActor26Item7"
+      "_key": "!actors.items!astraActor260000.astraActor26Ite5"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder05",
+  "folder": "adeptusFolder050",
   "name": "Crusader",
   "type": "npc",
-  "_id": "adeptusActor23",
+  "_id": "adeptusActor2300",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor23",
+  "_key": "!actors!adeptusActor2300",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor23Item01",
+      "_id": "adeptusActor23It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item01"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23It"
     },
     {
       "name": "Mastercrafted Sanctified Power Sword",
       "type": "weapon",
-      "_id": "adeptusActor23Item02",
+      "_id": "adeptusActor23I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item02"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I0"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor23Item03",
+      "_id": "adeptusActor23I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -401,12 +401,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item03"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I1"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor23Item04",
+      "_id": "adeptusActor23I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -431,12 +431,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item04"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I2"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor23Item05",
+      "_id": "adeptusActor23I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -461,12 +461,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item05"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I3"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor23Item06",
+      "_id": "adeptusActor23I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -491,12 +491,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item06"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor23Item07",
+      "_id": "adeptusActor23I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -521,12 +521,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item07"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I5"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor23Item08",
+      "_id": "adeptusActor23I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -551,7 +551,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor23.adeptusActor23Item08"
+      "_key": "!actors.items!adeptusActor2300.adeptusActor23I6"
     }
   ]
 }

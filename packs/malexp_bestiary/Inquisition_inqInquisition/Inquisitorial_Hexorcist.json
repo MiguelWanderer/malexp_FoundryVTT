@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Hexorcist",
   "type": "npc",
-  "_id": "inqActor08",
+  "_id": "inqActor08000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor08",
+  "_key": "!actors!inqActor08000000",
   "items": [
     {
       "name": "True Faith",
       "type": "trait",
-      "_id": "inqActor08Trait01",
+      "_id": "inqActor08Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Trait01"
+      "_key": "!actors.items!inqActor08000000.inqActor08Trait0"
     },
     {
       "name": "Chasten",
       "type": "trait",
-      "_id": "inqActor08Trait02",
+      "_id": "inqActor08Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Trait02"
+      "_key": "!actors.items!inqActor08000000.inqActor08Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor08Trait03",
+      "_id": "inqActor08Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Trait03"
+      "_key": "!actors.items!inqActor08000000.inqActor08Trait2"
     },
     {
       "name": "Pump Action Shotgun",
       "type": "weapon",
-      "_id": "inqActor08Weapon04",
+      "_id": "inqActor08Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -502,7 +502,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Weapon04"
+      "_key": "!actors.items!inqActor08000000.inqActor08Weapon"
     },
     {
       "name": "Human",
@@ -532,7 +532,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Spec05"
+      "_key": "!actors.items!inqActor08000000.inqActor08Spec05"
     },
     {
       "name": "Theology",
@@ -562,7 +562,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Spec06"
+      "_key": "!actors.items!inqActor08000000.inqActor08Spec06"
     },
     {
       "name": "Intimidation",
@@ -592,7 +592,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor08.inqActor08Spec07"
+      "_key": "!actors.items!inqActor08000000.inqActor08Spec07"
     }
   ]
 }

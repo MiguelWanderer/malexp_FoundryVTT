@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Felinid Scout",
   "type": "npc",
-  "_id": "astraActor14",
+  "_id": "astraActor140000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor14",
+  "_key": "!actors!astraActor140000",
   "items": [
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor14Item1",
+      "_id": "astraActor14Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor14.astraActor14Item1"
+      "_key": "!actors.items!astraActor140000.astraActor14Item"
     },
     {
       "name": "Lascarbine",
       "type": "weapon",
-      "_id": "astraActor14Item2",
+      "_id": "astraActor14Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor14.astraActor14Item2"
+      "_key": "!actors.items!astraActor140000.astraActor14Ite0"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor14Item3",
+      "_id": "astraActor14Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -444,12 +444,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor14.astraActor14Item3"
+      "_key": "!actors.items!astraActor140000.astraActor14Ite1"
     },
     {
       "name": "Charm",
       "type": "specialisation",
-      "_id": "astraActor14Item4",
+      "_id": "astraActor14Ite2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -474,12 +474,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor14.astraActor14Item4"
+      "_key": "!actors.items!astraActor140000.astraActor14Ite2"
     },
     {
       "name": "Acrobatics",
       "type": "specialisation",
-      "_id": "astraActor14Item5",
+      "_id": "astraActor14Ite3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -504,7 +504,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor14.astraActor14Item5"
+      "_key": "!actors.items!astraActor140000.astraActor14Ite3"
     }
   ]
 }

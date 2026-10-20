@@ -1,8 +1,8 @@
 {
-  "folder": "citgangers",
+  "folder": "citgangers000000",
   "name": "Juve",
   "type": "npc",
-  "_id": "citActor19",
+  "_id": "citActor19000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor19",
+  "_key": "!actors!citActor19000000",
   "items": [
     {
       "name": "Ambusher",
       "type": "trait",
-      "_id": "citActor19Item1",
+      "_id": "citActor19Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor19.citActor19Item1"
+      "_key": "!actors.items!citActor19000000.citActor19Item10"
     },
     {
       "name": "Stub Pistol",
       "type": "weapon",
-      "_id": "citActor19Item2",
+      "_id": "citActor19Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor19.citActor19Item2"
+      "_key": "!actors.items!citActor19000000.citActor19Item20"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "citActor19Item3",
+      "_id": "citActor19Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,7 +441,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor19.citActor19Item3"
+      "_key": "!actors.items!citActor19000000.citActor19Item30"
     }
   ]
 }

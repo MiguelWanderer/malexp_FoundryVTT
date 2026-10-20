@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder02",
+  "folder": "adeptusFolder020",
   "name": "Arbites Detective",
   "type": "npc",
-  "_id": "adeptusActor10",
+  "_id": "adeptusActor1000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor10",
+  "_key": "!actors!adeptusActor1000",
   "items": [
     {
       "name": "Guilty until Proven Innocent",
       "type": "trait",
-      "_id": "adeptusActor10Item01",
+      "_id": "adeptusActor10It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item01"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10It"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor10Item02",
+      "_id": "adeptusActor10I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item02"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I0"
     },
     {
       "name": "Silenced Stub Pistol",
       "type": "weapon",
-      "_id": "adeptusActor10Item03",
+      "_id": "adeptusActor10I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -432,12 +432,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item03"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I1"
     },
     {
       "name": "Mono-Knife",
       "type": "weapon",
-      "_id": "adeptusActor10Item04",
+      "_id": "adeptusActor10I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -503,12 +503,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item04"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I2"
     },
     {
       "name": "Composure",
       "type": "specialisation",
-      "_id": "adeptusActor10Item05",
+      "_id": "adeptusActor10I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -533,12 +533,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item05"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I3"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor10Item06",
+      "_id": "adeptusActor10I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -563,12 +563,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item06"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I4"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor10Item07",
+      "_id": "adeptusActor10I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -593,12 +593,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item07"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I5"
     },
     {
       "name": "Interrogation",
       "type": "specialisation",
-      "_id": "adeptusActor10Item08",
+      "_id": "adeptusActor10I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -623,12 +623,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item08"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I6"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor10Item09",
+      "_id": "adeptusActor10I7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -653,12 +653,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item09"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I7"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "adeptusActor10Item10",
+      "_id": "adeptusActor10I8",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -683,7 +683,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor10.adeptusActor10Item10"
+      "_key": "!actors.items!adeptusActor1000.adeptusActor10I8"
     }
   ]
 }

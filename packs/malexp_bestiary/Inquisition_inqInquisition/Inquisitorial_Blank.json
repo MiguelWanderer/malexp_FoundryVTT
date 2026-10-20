@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Blank",
   "type": "npc",
-  "_id": "inqActor06",
+  "_id": "inqActor06000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor06",
+  "_key": "!actors!inqActor06000000",
   "items": [
     {
       "name": "Blank",
       "type": "trait",
-      "_id": "inqActor06Trait01",
+      "_id": "inqActor06Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Trait01"
+      "_key": "!actors.items!inqActor06000000.inqActor06Trait0"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor06Trait02",
+      "_id": "inqActor06Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Trait02"
+      "_key": "!actors.items!inqActor06000000.inqActor06Trait1"
     },
     {
       "name": "Truthfinder",
       "type": "trait",
-      "_id": "inqActor06Trait03",
+      "_id": "inqActor06Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Trait03"
+      "_key": "!actors.items!inqActor06000000.inqActor06Trait2"
     },
     {
       "name": "Silenced Stub Pistol",
       "type": "weapon",
-      "_id": "inqActor06Weapon04",
+      "_id": "inqActor06Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,7 +505,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Weapon04"
+      "_key": "!actors.items!inqActor06000000.inqActor06Weapon"
     },
     {
       "name": "Human",
@@ -535,7 +535,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec05"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec05"
     },
     {
       "name": "Investigation",
@@ -565,7 +565,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec06"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec06"
     },
     {
       "name": "One_handed",
@@ -595,7 +595,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec07"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec07"
     },
     {
       "name": "Intimidation",
@@ -625,7 +625,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec08"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec08"
     },
     {
       "name": "Pistols",
@@ -655,7 +655,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec09"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec09"
     },
     {
       "name": "Deception",
@@ -685,7 +685,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec10"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec10"
     },
     {
       "name": "Inquiry",
@@ -715,7 +715,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor06.inqActor06Spec11"
+      "_key": "!actors.items!inqActor06000000.inqActor06Spec11"
     }
   ]
 }

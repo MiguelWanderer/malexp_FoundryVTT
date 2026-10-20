@@ -2,7 +2,7 @@
   "folder": "SkitariiForce001",
   "name": "Skitarii Vanguard",
   "type": "npc",
-  "_id": "SkitariiVanguardT1",
+  "_id": "SkitariiVanguard",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -235,12 +235,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!SkitariiVanguardT1",
+  "_key": "!actors!SkitariiVanguard",
   "items": [
     {
       "name": "Heavily Augmented",
       "type": "trait",
-      "_id": "SVT1",
+      "_id": "SVT1000000000000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -296,12 +296,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!SkitariiVanguardT1.SVT1"
+      "_key": "!actors.items!SkitariiVanguard.SVT1000000000000"
     },
     {
       "name": "Augmetic Heart",
       "type": "trait",
-      "_id": "SVT2",
+      "_id": "SVT2000000000000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -357,12 +357,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!SkitariiVanguardT1.SVT2"
+      "_key": "!actors.items!SkitariiVanguard.SVT2000000000000"
     },
     {
       "name": "Augmetic Respiratory System",
       "type": "trait",
-      "_id": "SVT3",
+      "_id": "SVT3000000000000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -418,12 +418,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!SkitariiVanguardT1.SVT3"
+      "_key": "!actors.items!SkitariiVanguard.SVT3000000000000"
     },
     {
       "name": "Rad Scourge",
       "type": "trait",
-      "_id": "SVT4",
+      "_id": "SVT4000000000000",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -479,12 +479,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!SkitariiVanguardT1.SVT4"
+      "_key": "!actors.items!SkitariiVanguard.SVT4000000000000"
     },
     {
       "name": "Radium Carbine",
       "type": "weapon",
-      "_id": "SVW1",
+      "_id": "SVW1000000000000",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -560,7 +560,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!SkitariiVanguardT1.SVW1"
+      "_key": "!actors.items!SkitariiVanguard.SVW1000000000000"
     }
   ]
 }

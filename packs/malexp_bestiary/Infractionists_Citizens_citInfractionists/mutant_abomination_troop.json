@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Mutant Abomination",
   "type": "npc",
-  "_id": "citActor41",
+  "_id": "citActor41000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor41",
+  "_key": "!actors!citActor41000000",
   "items": [
     {
       "name": "Dire Conditions, Passed",
       "type": "trait",
-      "_id": "citActor41Item1",
+      "_id": "citActor41Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor41.citActor41Item1"
+      "_key": "!actors.items!citActor41000000.citActor41Item10"
     },
     {
       "name": "Stub Revolver",
       "type": "weapon",
-      "_id": "citActor41Item2",
+      "_id": "citActor41Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor41.citActor41Item2"
+      "_key": "!actors.items!citActor41000000.citActor41Item20"
     },
     {
       "name": "Axe",
       "type": "weapon",
-      "_id": "citActor41Item3",
+      "_id": "citActor41Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -445,7 +445,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor41.citActor41Item3"
+      "_key": "!actors.items!citActor41000000.citActor41Item30"
     }
   ]
 }

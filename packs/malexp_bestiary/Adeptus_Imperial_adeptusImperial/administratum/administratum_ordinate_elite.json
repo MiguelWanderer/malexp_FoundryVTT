@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Administratum Ordinate",
   "type": "npc",
-  "_id": "adeptusActor02",
+  "_id": "adeptusActor0200",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor02",
+  "_key": "!actors!adeptusActor0200",
   "items": [
     {
       "name": "Air of Authority",
       "type": "trait",
-      "_id": "adeptusActor02Item01",
+      "_id": "adeptusActor02It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor02.adeptusActor02Item01"
+      "_key": "!actors.items!adeptusActor0200.adeptusActor02It"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "adeptusActor02Item02",
+      "_id": "adeptusActor02I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor02.adeptusActor02Item02"
+      "_key": "!actors.items!adeptusActor0200.adeptusActor02I0"
     },
     {
       "name": "Flaccid Fists (Unarmed)",
       "type": "weapon",
-      "_id": "adeptusActor02Item03",
+      "_id": "adeptusActor02I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor02.adeptusActor02Item03"
+      "_key": "!actors.items!adeptusActor0200.adeptusActor02I1"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "adeptusActor02Item04",
+      "_id": "adeptusActor02I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,12 +478,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor02.adeptusActor02Item04"
+      "_key": "!actors.items!adeptusActor0200.adeptusActor02I2"
     },
     {
       "name": "Adeptus Terra",
       "type": "specialisation",
-      "_id": "adeptusActor02Item05",
+      "_id": "adeptusActor02I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -508,7 +508,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor02.adeptusActor02Item05"
+      "_key": "!actors.items!adeptusActor0200.adeptusActor02I3"
     }
   ]
 }

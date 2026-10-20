@@ -1,8 +1,8 @@
 {
-  "folder": "citgangers",
+  "folder": "citgangers000000",
   "name": "Gang Leader",
   "type": "npc",
-  "_id": "citActor16",
+  "_id": "citActor16000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor16",
+  "_key": "!actors!citActor16000000",
   "items": [
     {
       "name": "Home Turf",
       "type": "trait",
-      "_id": "citActor16Item1",
+      "_id": "citActor16Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor16.citActor16Item1"
+      "_key": "!actors.items!citActor16000000.citActor16Item10"
     },
     {
       "name": "Hand Cannon",
       "type": "weapon",
-      "_id": "citActor16Item2",
+      "_id": "citActor16Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor16.citActor16Item2"
+      "_key": "!actors.items!citActor16000000.citActor16Item20"
     },
     {
       "name": "Fire Bombs",
       "type": "weapon",
-      "_id": "citActor16Item3",
+      "_id": "citActor16Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor16.citActor16Item3"
+      "_key": "!actors.items!citActor16000000.citActor16Item30"
     },
     {
       "name": "Great Weapon",
       "type": "weapon",
-      "_id": "citActor16Item4",
+      "_id": "citActor16Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -525,12 +525,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor16.citActor16Item4"
+      "_key": "!actors.items!citActor16000000.citActor16Item40"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "citActor16Item5",
+      "_id": "citActor16Item50",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -592,7 +592,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor16.citActor16Item5"
+      "_key": "!actors.items!citActor16000000.citActor16Item50"
     }
   ]
 }

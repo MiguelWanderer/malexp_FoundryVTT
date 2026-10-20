@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Lookout",
   "type": "npc",
-  "_id": "citActor29",
+  "_id": "citActor29000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor29",
+  "_key": "!actors!citActor29000000",
   "items": [
     {
       "name": "Home Turf",
       "type": "trait",
-      "_id": "citActor29Item1",
+      "_id": "citActor29Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor29.citActor29Item1"
+      "_key": "!actors.items!citActor29000000.citActor29Item10"
     },
     {
       "name": "Sniper Rifle",
       "type": "weapon",
-      "_id": "citActor29Item2",
+      "_id": "citActor29Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -371,12 +371,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor29.citActor29Item2"
+      "_key": "!actors.items!citActor29000000.citActor29Item20"
     },
     {
       "name": "Stub Pistol",
       "type": "weapon",
-      "_id": "citActor29Item3",
+      "_id": "citActor29Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor29.citActor29Item3"
+      "_key": "!actors.items!citActor29000000.citActor29Item30"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "citActor29Item4",
+      "_id": "citActor29Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -515,7 +515,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor29.citActor29Item4"
+      "_key": "!actors.items!citActor29000000.citActor29Item40"
     }
   ]
 }

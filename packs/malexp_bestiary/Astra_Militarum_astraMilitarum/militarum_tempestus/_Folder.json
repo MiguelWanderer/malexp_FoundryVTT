@@ -1,10 +1,10 @@
 {
   "type": "Actor",
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Militarum Tempestus",
   "color": null,
   "sorting": "a",
-  "_id": "astramilitarumtempe",
+  "_id": "astramilitarumte",
   "description": "",
   "sort": 911002,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!astramilitarumtempe"
+  "_key": "!folders!astramilitarumte"
 }

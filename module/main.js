@@ -1,4 +1,20 @@
+const ensureActiveEffectChangesSchema = () => {
+    const activeEffectModel = CONFIG.ActiveEffect?.dataModels?.base;
+    if (!activeEffectModel || activeEffectModel.schema.changes) return;
+
+    activeEffectModel.schema.changes = new foundry.data.fields.ArrayField(
+        new foundry.data.fields.SchemaField({
+            key: new foundry.data.fields.StringField({ initial: '' }),
+            mode: new foundry.data.fields.NumberField({ initial: 0 }),
+            value: new foundry.data.fields.StringField({ initial: '' }),
+            priority: new foundry.data.fields.NumberField({ initial: 0 })
+        }),
+        { initial: [] }
+    );
+};
+
 Hooks.on('init', () => {
+    ensureActiveEffectChangesSchema();
     foundry.utils.mergeObject(game.impmal.config.disciplines, {
         nurglitePowers: 'Nurglite Powers'
     });

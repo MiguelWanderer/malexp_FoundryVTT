@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Enforcer",
   "type": "npc",
-  "_id": "adeptusActor06",
+  "_id": "adeptusActor0600",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor06",
+  "_key": "!actors!adeptusActor0600",
   "items": [
     {
       "name": "Call for Backup",
       "type": "trait",
-      "_id": "adeptusActor06Item01",
+      "_id": "adeptusActor06It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item01"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06It"
     },
     {
       "name": "Incarceratus",
       "type": "trait",
-      "_id": "adeptusActor06Item02",
+      "_id": "adeptusActor06I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item02"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I0"
     },
     {
       "name": "Autogun",
       "type": "weapon",
-      "_id": "adeptusActor06Item03",
+      "_id": "adeptusActor06I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -435,12 +435,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item03"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I1"
     },
     {
       "name": "Stub Revolver",
       "type": "weapon",
-      "_id": "adeptusActor06Item04",
+      "_id": "adeptusActor06I2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -512,12 +512,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item04"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I2"
     },
     {
       "name": "Choke Grenade",
       "type": "weapon",
-      "_id": "adeptusActor06Item05",
+      "_id": "adeptusActor06I3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -583,12 +583,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item05"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I3"
     },
     {
       "name": "Shock Maul",
       "type": "weapon",
-      "_id": "adeptusActor06Item06",
+      "_id": "adeptusActor06I4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -657,12 +657,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item06"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I4"
     },
     {
       "name": "One-handed",
       "type": "specialisation",
-      "_id": "adeptusActor06Item07",
+      "_id": "adeptusActor06I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -687,12 +687,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item07"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I5"
     },
     {
       "name": "Interrogation",
       "type": "specialisation",
-      "_id": "adeptusActor06Item08",
+      "_id": "adeptusActor06I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -717,12 +717,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item08"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I6"
     },
     {
       "name": "Intimidation",
       "type": "specialisation",
-      "_id": "adeptusActor06Item09",
+      "_id": "adeptusActor06I7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -747,7 +747,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor06.adeptusActor06Item09"
+      "_key": "!actors.items!adeptusActor0600.adeptusActor06I7"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Hospitaller",
   "type": "npc",
-  "_id": "adeptusActor43",
+  "_id": "adeptusActor4300",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor43",
+  "_key": "!actors!adeptusActor4300",
   "items": [
     {
       "name": "Chirurgeon",
       "type": "trait",
-      "_id": "adeptusActor43Item01",
+      "_id": "adeptusActor43It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item01"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43It"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor43Item02",
+      "_id": "adeptusActor43I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -380,12 +380,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item02"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I0"
     },
     {
       "name": "Chainblade",
       "type": "weapon",
-      "_id": "adeptusActor43Item03",
+      "_id": "adeptusActor43I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -454,12 +454,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item03"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I1"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor43Item04",
+      "_id": "adeptusActor43I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -484,12 +484,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item04"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I2"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor43Item05",
+      "_id": "adeptusActor43I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -514,12 +514,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item05"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor43Item06",
+      "_id": "adeptusActor43I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -544,12 +544,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item06"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I4"
     },
     {
       "name": "Humans",
       "type": "specialisation",
-      "_id": "adeptusActor43Item07",
+      "_id": "adeptusActor43I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -574,12 +574,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item07"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I5"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "adeptusActor43Item08",
+      "_id": "adeptusActor43I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -604,7 +604,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor43.adeptusActor43Item08"
+      "_key": "!actors.items!adeptusActor4300.adeptusActor43I6"
     }
   ]
 }

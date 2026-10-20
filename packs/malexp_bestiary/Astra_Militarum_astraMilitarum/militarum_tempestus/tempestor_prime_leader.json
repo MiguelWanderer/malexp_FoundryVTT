@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumtempe",
+  "folder": "astramilitarumte",
   "name": "Tempestor Prime",
   "type": "npc",
-  "_id": "astraActor21",
+  "_id": "astraActor210000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor21",
+  "_key": "!actors!astraActor210000",
   "items": [
     {
       "name": "Killing Zone",
       "type": "trait",
-      "_id": "astraActor21Item1",
+      "_id": "astraActor21Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item1"
+      "_key": "!actors.items!astraActor210000.astraActor21Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor21Item2",
+      "_id": "astraActor21Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item2"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite0"
     },
     {
       "name": "Hot-Shot Lasgun",
       "type": "weapon",
-      "_id": "astraActor21Item3",
+      "_id": "astraActor21Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -438,12 +438,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item3"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite1"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "astraActor21Item4",
+      "_id": "astraActor21Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -505,12 +505,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item4"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite2"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor21Item5",
+      "_id": "astraActor21Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -582,12 +582,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item5"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite3"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor21Item6",
+      "_id": "astraActor21Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -662,12 +662,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item6"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite4"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "astraActor21Item7",
+      "_id": "astraActor21Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -692,12 +692,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item7"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite5"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "astraActor21Item8",
+      "_id": "astraActor21Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -722,7 +722,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor21.astraActor21Item8"
+      "_key": "!actors.items!astraActor210000.astraActor21Ite6"
     }
   ]
 }

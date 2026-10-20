@@ -4,7 +4,7 @@
   "name": "Logos Historica Verita",
   "color": null,
   "sorting": "a",
-  "_id": "lHvLogosHistVer",
+  "_id": "lHvLogosHistVer1",
   "description": "",
   "sort": 700000,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!lHvLogosHistVer"
+  "_key": "!folders!lHvLogosHistVer1"
 }

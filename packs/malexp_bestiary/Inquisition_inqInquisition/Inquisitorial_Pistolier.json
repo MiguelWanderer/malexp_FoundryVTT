@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Pistoleer",
   "type": "npc",
-  "_id": "inqActor10",
+  "_id": "inqActor10000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor10",
+  "_key": "!actors!inqActor10000000",
   "items": [
     {
       "name": "Fusillade",
       "type": "trait",
-      "_id": "inqActor10Trait01",
+      "_id": "inqActor10Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Trait01"
+      "_key": "!actors.items!inqActor10000000.inqActor10Trait0"
     },
     {
       "name": "Gunslinger",
       "type": "trait",
-      "_id": "inqActor10Trait02",
+      "_id": "inqActor10Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Trait02"
+      "_key": "!actors.items!inqActor10000000.inqActor10Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor10Trait03",
+      "_id": "inqActor10Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Trait03"
+      "_key": "!actors.items!inqActor10000000.inqActor10Trait2"
     },
     {
       "name": "Plasma Pistol",
       "type": "weapon",
-      "_id": "inqActor10Weapon04",
+      "_id": "inqActor10Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -502,7 +502,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Weapon04"
+      "_key": "!actors.items!inqActor10000000.inqActor10Weapon"
     },
     {
       "name": "Human",
@@ -532,7 +532,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec05"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec05"
     },
     {
       "name": "Investigation",
@@ -562,7 +562,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec06"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec06"
     },
     {
       "name": "Intimidation",
@@ -592,7 +592,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec07"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec07"
     },
     {
       "name": "Pistols",
@@ -622,7 +622,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec08"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec08"
     },
     {
       "name": "Deception",
@@ -652,7 +652,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec09"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec09"
     },
     {
       "name": "Inquiry",
@@ -682,7 +682,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor10.inqActor10Spec10"
+      "_key": "!actors.items!inqActor10000000.inqActor10Spec10"
     }
   ]
 }

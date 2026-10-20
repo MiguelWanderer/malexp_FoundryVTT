@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Mutant",
   "type": "npc",
-  "_id": "citActor40",
+  "_id": "citActor40000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor40",
+  "_key": "!actors!citActor40000000",
   "items": [
     {
       "name": "Dire Conditions, Passed",
       "type": "trait",
-      "_id": "citActor40Item1",
+      "_id": "citActor40Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor40.citActor40Item1"
+      "_key": "!actors.items!citActor40000000.citActor40Item10"
     },
     {
       "name": "Improvised (1H)",
       "type": "weapon",
-      "_id": "citActor40Item2",
+      "_id": "citActor40Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor40.citActor40Item2"
+      "_key": "!actors.items!citActor40000000.citActor40Item20"
     }
   ]
 }

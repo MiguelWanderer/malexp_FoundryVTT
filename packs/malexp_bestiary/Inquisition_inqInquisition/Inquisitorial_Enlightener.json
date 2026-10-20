@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Enlightener",
   "type": "npc",
-  "_id": "inqActor07",
+  "_id": "inqActor07000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor07",
+  "_key": "!actors!inqActor07000000",
   "items": [
     {
       "name": "No Escape",
       "type": "trait",
-      "_id": "inqActor07Trait01",
+      "_id": "inqActor07Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Trait01"
+      "_key": "!actors.items!inqActor07000000.inqActor07Trait0"
     },
     {
       "name": "Disseminator",
       "type": "trait",
-      "_id": "inqActor07Trait02",
+      "_id": "inqActor07Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Trait02"
+      "_key": "!actors.items!inqActor07000000.inqActor07Trait1"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor07Trait03",
+      "_id": "inqActor07Trait2",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Trait03"
+      "_key": "!actors.items!inqActor07000000.inqActor07Trait2"
     },
     {
       "name": "2x Mono-Swords",
       "type": "weapon",
-      "_id": "inqActor07Weapon04",
+      "_id": "inqActor07Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -490,7 +490,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Weapon04"
+      "_key": "!actors.items!inqActor07000000.inqActor07Weapon"
     },
     {
       "name": "Running",
@@ -520,7 +520,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Spec05"
+      "_key": "!actors.items!inqActor07000000.inqActor07Spec05"
     },
     {
       "name": "Interrogation",
@@ -550,7 +550,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Spec06"
+      "_key": "!actors.items!inqActor07000000.inqActor07Spec06"
     },
     {
       "name": "Intimidation",
@@ -580,7 +580,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor07.inqActor07Spec07"
+      "_key": "!actors.items!inqActor07000000.inqActor07Spec07"
     }
   ]
 }

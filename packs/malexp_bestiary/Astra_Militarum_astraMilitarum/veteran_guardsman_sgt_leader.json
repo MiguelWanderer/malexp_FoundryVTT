@@ -1,8 +1,8 @@
 {
-  "folder": "astraMilitarum",
+  "folder": "astraMilitarum00",
   "name": "Astra Militarum Veteran Sergeant",
   "type": "npc",
-  "_id": "astraActor27",
+  "_id": "astraActor270000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor27",
+  "_key": "!actors!astraActor270000",
   "items": [
     {
       "name": "Drilled (Kill Team)",
       "type": "trait",
-      "_id": "astraActor27Item1",
+      "_id": "astraActor27Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item1"
+      "_key": "!actors.items!astraActor270000.astraActor27Item"
     },
     {
       "name": "Stalwart",
       "type": "trait",
-      "_id": "astraActor27Item2",
+      "_id": "astraActor27Ite0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item2"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite0"
     },
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "astraActor27Item3",
+      "_id": "astraActor27Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item3"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite1"
     },
     {
       "name": "Frag Grenade",
       "type": "weapon",
-      "_id": "astraActor27Item4",
+      "_id": "astraActor27Ite2",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,12 +518,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item4"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite2"
     },
     {
       "name": "Krak Grenade",
       "type": "weapon",
-      "_id": "astraActor27Item5",
+      "_id": "astraActor27Ite3",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -598,12 +598,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item5"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite3"
     },
     {
       "name": "Chainsword",
       "type": "weapon",
-      "_id": "astraActor27Item6",
+      "_id": "astraActor27Ite4",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -672,12 +672,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item6"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite4"
     },
     {
       "name": "Might",
       "type": "specialisation",
-      "_id": "astraActor27Item7",
+      "_id": "astraActor27Ite5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -702,12 +702,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item7"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite5"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "astraActor27Item8",
+      "_id": "astraActor27Ite6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -732,12 +732,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item8"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite6"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "astraActor27Item9",
+      "_id": "astraActor27Ite7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -762,12 +762,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item9"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite7"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "astraActor27Item10",
+      "_id": "astraActor27Ite8",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -792,12 +792,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item10"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite8"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "astraActor27Item11",
+      "_id": "astraActor27Ite9",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -822,7 +822,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor27.astraActor27Item11"
+      "_key": "!actors.items!astraActor270000.astraActor27Ite9"
     }
   ]
 }

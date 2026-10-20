@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Bondless Dealer",
   "type": "npc",
-  "_id": "citActor24",
+  "_id": "citActor24000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor24",
+  "_key": "!actors!citActor24000000",
   "items": [
     {
       "name": "Shady Deals",
       "type": "trait",
-      "_id": "citActor24Item1",
+      "_id": "citActor24Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor24.citActor24Item1"
+      "_key": "!actors.items!citActor24000000.citActor24Item10"
     },
     {
       "name": "Las Pistol",
       "type": "weapon",
-      "_id": "citActor24Item2",
+      "_id": "citActor24Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor24.citActor24Item2"
+      "_key": "!actors.items!citActor24000000.citActor24Item20"
     }
   ]
 }

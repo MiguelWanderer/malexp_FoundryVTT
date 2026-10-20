@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Jokaero",
   "type": "npc",
-  "_id": "inqActor14",
+  "_id": "inqActor14000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor14",
+  "_key": "!actors!inqActor14000000",
   "items": [
     {
       "name": "Tech Modifications",
       "type": "trait",
-      "_id": "inqActor14Trait01",
+      "_id": "inqActor14Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Trait01"
+      "_key": "!actors.items!inqActor14000000.inqActor14Trait0"
     },
     {
       "name": "Jokaero Digi-Las",
       "type": "weapon",
-      "_id": "inqActor14Weapon02",
+      "_id": "inqActor14Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,7 +377,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Weapon02"
+      "_key": "!actors.items!inqActor14000000.inqActor14Weapon"
     },
     {
       "name": "Might",
@@ -407,7 +407,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Spec03"
+      "_key": "!actors.items!inqActor14000000.inqActor14Spec03"
     },
     {
       "name": "Forbidden",
@@ -437,7 +437,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Spec04"
+      "_key": "!actors.items!inqActor14000000.inqActor14Spec04"
     },
     {
       "name": "Engineering",
@@ -467,7 +467,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Spec05"
+      "_key": "!actors.items!inqActor14000000.inqActor14Spec05"
     },
     {
       "name": "Augmetics",
@@ -497,7 +497,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor14.inqActor14Spec06"
+      "_key": "!actors.items!inqActor14000000.inqActor14Spec06"
     }
   ]
 }

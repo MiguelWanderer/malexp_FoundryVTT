@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Banisher",
   "type": "npc",
-  "_id": "inqActor01",
+  "_id": "inqActor01000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor01",
+  "_key": "!actors!inqActor01000000",
   "items": [
     {
       "name": "Litany of Purity",
       "type": "trait",
-      "_id": "inqActor01Trait01",
+      "_id": "inqActor01Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Trait01"
+      "_key": "!actors.items!inqActor01000000.inqActor01Trait0"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor01Trait02",
+      "_id": "inqActor01Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Trait02"
+      "_key": "!actors.items!inqActor01000000.inqActor01Trait1"
     },
     {
       "name": "Sanctified Flamer",
       "type": "weapon",
-      "_id": "inqActor01Weapon03",
+      "_id": "inqActor01Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -444,7 +444,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Weapon03"
+      "_key": "!actors.items!inqActor01000000.inqActor01Weapon"
     },
     {
       "name": "Human",
@@ -474,7 +474,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Spec04"
+      "_key": "!actors.items!inqActor01000000.inqActor01Spec04"
     },
     {
       "name": "High Gothic",
@@ -504,7 +504,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Spec05"
+      "_key": "!actors.items!inqActor01000000.inqActor01Spec05"
     },
     {
       "name": "Theology",
@@ -534,7 +534,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Spec06"
+      "_key": "!actors.items!inqActor01000000.inqActor01Spec06"
     },
     {
       "name": "Leadership",
@@ -564,7 +564,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor01.inqActor01Spec07"
+      "_key": "!actors.items!inqActor01000000.inqActor01Spec07"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Jotunn Servitor-Ogryn",
   "type": "npc",
-  "_id": "citActor28",
+  "_id": "citActor28000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor28",
+  "_key": "!actors!citActor28000000",
   "items": [
     {
       "name": "Programmed to Serve",
       "type": "trait",
-      "_id": "citActor28Item1",
+      "_id": "citActor28Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor28.citActor28Item1"
+      "_key": "!actors.items!citActor28000000.citActor28Item10"
     },
     {
       "name": "Servo Claw",
       "type": "weapon",
-      "_id": "citActor28Item2",
+      "_id": "citActor28Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -368,7 +368,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor28.citActor28Item2"
+      "_key": "!actors.items!citActor28000000.citActor28Item20"
     }
   ]
 }

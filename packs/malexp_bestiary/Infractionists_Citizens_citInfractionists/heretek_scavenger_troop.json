@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Heretek Scavenger",
   "type": "npc",
-  "_id": "citActor35",
+  "_id": "citActor35000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor35",
+  "_key": "!actors!citActor35000000",
   "items": [
     {
       "name": "Laspistol",
       "type": "weapon",
-      "_id": "citActor35Item1",
+      "_id": "citActor35Item10",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -316,12 +316,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor35.citActor35Item1"
+      "_key": "!actors.items!citActor35000000.citActor35Item10"
     },
     {
       "name": "Mono-Knife",
       "type": "weapon",
-      "_id": "citActor35Item2",
+      "_id": "citActor35Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -387,7 +387,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor35.citActor35Item2"
+      "_key": "!actors.items!citActor35000000.citActor35Item20"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Dialogus",
   "type": "npc",
-  "_id": "adeptusActor39",
+  "_id": "adeptusActor3900",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor39",
+  "_key": "!actors!adeptusActor3900",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor39Item01",
+      "_id": "adeptusActor39It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item01"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39It"
     },
     {
       "name": "Possessions",
       "type": "trait",
-      "_id": "adeptusActor39Item02",
+      "_id": "adeptusActor39I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item02"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39I0"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor39Item03",
+      "_id": "adeptusActor39I1",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -388,12 +388,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item03"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39I1"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor39Item04",
+      "_id": "adeptusActor39I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -418,12 +418,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item04"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39I2"
     },
     {
       "name": "Forbidden",
       "type": "specialisation",
-      "_id": "adeptusActor39Item05",
+      "_id": "adeptusActor39I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -448,12 +448,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item05"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39I3"
     },
     {
       "name": "Pistols",
       "type": "specialisation",
-      "_id": "adeptusActor39Item06",
+      "_id": "adeptusActor39I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -478,7 +478,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor39.adeptusActor39Item06"
+      "_key": "!actors.items!adeptusActor3900.adeptusActor39I4"
     }
   ]
 }

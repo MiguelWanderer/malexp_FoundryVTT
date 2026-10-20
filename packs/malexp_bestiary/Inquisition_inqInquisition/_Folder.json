@@ -4,7 +4,7 @@
   "name": "Inquisition",
   "color": null,
   "sorting": "a",
-  "_id": "inqInquisition",
+  "_id": "inqInquisition00",
   "description": "",
   "sort": 800000,
   "flags": {},
@@ -16,5 +16,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!folders!inqInquisition"
+  "_key": "!folders!inqInquisition00"
 }

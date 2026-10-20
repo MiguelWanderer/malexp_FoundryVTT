@@ -1,8 +1,8 @@
 {
-  "folder": "citInfractionists",
+  "folder": "citInfractionist",
   "name": "Hexacation Specialist",
   "type": "npc",
-  "_id": "citActor36",
+  "_id": "citActor36000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor36",
+  "_key": "!actors!citActor36000000",
   "items": [
     {
       "name": "Shaped Charge",
       "type": "trait",
-      "_id": "citActor36Item1",
+      "_id": "citActor36Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor36.citActor36Item1"
+      "_key": "!actors.items!citActor36000000.citActor36Item10"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "citActor36Item2",
+      "_id": "citActor36Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor36.citActor36Item2"
+      "_key": "!actors.items!citActor36000000.citActor36Item20"
     },
     {
       "name": "Blasting Charge",
       "type": "weapon",
-      "_id": "citActor36Item3",
+      "_id": "citActor36Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -451,12 +451,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor36.citActor36Item3"
+      "_key": "!actors.items!citActor36000000.citActor36Item30"
     },
     {
       "name": "Melee Attack",
       "type": "weapon",
-      "_id": "citActor36Item4",
+      "_id": "citActor36Item40",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -518,7 +518,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor36.citActor36Item4"
+      "_key": "!actors.items!citActor36000000.citActor36Item40"
     }
   ]
 }

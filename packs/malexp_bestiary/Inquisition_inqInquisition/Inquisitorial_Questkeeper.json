@@ -1,8 +1,8 @@
 {
-  "folder": "inqInquisition",
+  "folder": "inqInquisition00",
   "name": "Inquisitorial Questkeeper",
   "type": "npc",
-  "_id": "inqActor11",
+  "_id": "inqActor11000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!inqActor11",
+  "_key": "!actors!inqActor11000000",
   "items": [
     {
       "name": "Irrepressible Purpose",
       "type": "trait",
-      "_id": "inqActor11Trait01",
+      "_id": "inqActor11Trait0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Trait01"
+      "_key": "!actors.items!inqActor11000000.inqActor11Trait0"
     },
     {
       "name": "Ordo",
       "type": "trait",
-      "_id": "inqActor11Trait02",
+      "_id": "inqActor11Trait1",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Trait02"
+      "_key": "!actors.items!inqActor11000000.inqActor11Trait1"
     },
     {
       "name": "Eviscerator",
       "type": "weapon",
-      "_id": "inqActor11Weapon03",
+      "_id": "inqActor11Weapon",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -435,7 +435,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Weapon03"
+      "_key": "!actors.items!inqActor11000000.inqActor11Weapon"
     },
     {
       "name": "Fear",
@@ -465,7 +465,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Spec04"
+      "_key": "!actors.items!inqActor11000000.inqActor11Spec04"
     },
     {
       "name": "Psychic",
@@ -495,7 +495,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Spec05"
+      "_key": "!actors.items!inqActor11000000.inqActor11Spec05"
     },
     {
       "name": "Two-Handed",
@@ -525,7 +525,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Spec06"
+      "_key": "!actors.items!inqActor11000000.inqActor11Spec06"
     },
     {
       "name": "Interrogation",
@@ -555,7 +555,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Spec07"
+      "_key": "!actors.items!inqActor11000000.inqActor11Spec07"
     },
     {
       "name": "Intimidation",
@@ -585,7 +585,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!inqActor11.inqActor11Spec08"
+      "_key": "!actors.items!inqActor11000000.inqActor11Spec08"
     }
   ]
 }

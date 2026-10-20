@@ -1,8 +1,8 @@
 {
-  "folder": "cithangersonbrute",
+  "folder": "cithangersonbrut",
   "name": "Prize Fighter",
   "type": "npc",
-  "_id": "citActor32",
+  "_id": "citActor32000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor32",
+  "_key": "!actors!citActor32000000",
   "items": [
     {
       "name": "Agile Attacks",
       "type": "trait",
-      "_id": "citActor32Item1",
+      "_id": "citActor32Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor32.citActor32Item1"
+      "_key": "!actors.items!citActor32000000.citActor32Item10"
     },
     {
       "name": "Brass Knuckles",
       "type": "weapon",
-      "_id": "citActor32Item2",
+      "_id": "citActor32Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -364,7 +364,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor32.citActor32Item2"
+      "_key": "!actors.items!citActor32000000.citActor32Item20"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "folder": "NecronDynasty001",
   "name": "Necron Warrior",
   "type": "npc",
-  "_id": "NecronWarriorElite1",
+  "_id": "NecronWarriorEli",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -225,7 +225,7 @@
     {
       "name": "Living Metal (2)",
       "type": "trait",
-      "_id": "NWTrait1LivingMetal",
+      "_id": "NWTrait1LivingMe",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -289,7 +289,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!NecronWarriorElite1.NWTrait1LivingMetal"
+      "_key": "!actors.items!NecronWarriorEli.NWTrait1LivingMe"
     },
     {
       "name": "Phase Out",
@@ -350,12 +350,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!NecronWarriorElite1.NWTrait2PhaseOut"
+      "_key": "!actors.items!NecronWarriorEli.NWTrait2PhaseOut"
     },
     {
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
-      "_id": "NWTrait3Reanimation",
+      "_id": "NWTrait3Reanimat",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -419,12 +419,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!NecronWarriorElite1.NWTrait3Reanimation"
+      "_key": "!actors.items!NecronWarriorEli.NWTrait3Reanimat"
     },
     {
       "name": "Their Number is Legion",
       "type": "trait",
-      "_id": "NWTrait4Legion",
+      "_id": "NWTrait4Legion00",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -480,12 +480,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!NecronWarriorElite1.NWTrait4Legion"
+      "_key": "!actors.items!NecronWarriorEli.NWTrait4Legion00"
     },
     {
       "name": "Gauss Flayer",
       "type": "weapon",
-      "_id": "NWWeapon1GaussFlayer",
+      "_id": "NWWeapon1GaussFl",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -561,7 +561,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!NecronWarriorElite1.NWWeapon1GaussFlayer"
+      "_key": "!actors.items!NecronWarriorEli.NWWeapon1GaussFl"
     }
   ],
   "effects": [],
@@ -578,5 +578,5 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!NecronWarriorElite1"
+  "_key": "!actors!NecronWarriorEli"
 }

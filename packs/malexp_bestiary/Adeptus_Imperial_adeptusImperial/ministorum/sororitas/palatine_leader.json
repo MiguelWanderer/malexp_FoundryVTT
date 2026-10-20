@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Palatine",
   "type": "npc",
-  "_id": "adeptusActor38",
+  "_id": "adeptusActor3800",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor38",
+  "_key": "!actors!adeptusActor3800",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor38Item01",
+      "_id": "adeptusActor38It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item01"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38It"
     },
     {
       "name": "Plasma Pistol",
       "type": "weapon",
-      "_id": "adeptusActor38Item02",
+      "_id": "adeptusActor38I0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -377,12 +377,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item02"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I0"
     },
     {
       "name": "Palatine Blade",
       "type": "weapon",
-      "_id": "adeptusActor38Item03",
+      "_id": "adeptusActor38I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -451,12 +451,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item03"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I1"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor38Item04",
+      "_id": "adeptusActor38I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -481,12 +481,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item04"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I2"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor38Item05",
+      "_id": "adeptusActor38I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -511,12 +511,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item05"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor38Item06",
+      "_id": "adeptusActor38I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -541,12 +541,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item06"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I4"
     },
     {
       "name": "One-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor38Item07",
+      "_id": "adeptusActor38I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -571,12 +571,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item07"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I5"
     },
     {
       "name": "Leadership",
       "type": "specialisation",
-      "_id": "adeptusActor38Item08",
+      "_id": "adeptusActor38I6",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -601,12 +601,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item08"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I6"
     },
     {
       "name": "Long Guns",
       "type": "specialisation",
-      "_id": "adeptusActor38Item09",
+      "_id": "adeptusActor38I7",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -631,7 +631,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor38.adeptusActor38Item09"
+      "_key": "!actors.items!adeptusActor3800.adeptusActor38I7"
     }
   ]
 }

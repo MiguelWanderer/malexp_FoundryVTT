@@ -1,8 +1,8 @@
 {
-  "folder": "citgangers",
+  "folder": "citgangers000000",
   "name": "Prospect",
   "type": "npc",
-  "_id": "citActor20",
+  "_id": "citActor20000000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!citActor20",
+  "_key": "!actors!citActor20000000",
   "items": [
     {
       "name": "Ambusher",
       "type": "trait",
-      "_id": "citActor20Item1",
+      "_id": "citActor20Item10",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor20.citActor20Item1"
+      "_key": "!actors.items!citActor20000000.citActor20Item10"
     },
     {
       "name": "Autopistol",
       "type": "weapon",
-      "_id": "citActor20Item2",
+      "_id": "citActor20Item20",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -374,12 +374,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor20.citActor20Item2"
+      "_key": "!actors.items!citActor20000000.citActor20Item20"
     },
     {
       "name": "Knife",
       "type": "weapon",
-      "_id": "citActor20Item3",
+      "_id": "citActor20Item30",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,7 +441,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!citActor20.citActor20Item3"
+      "_key": "!actors.items!citActor20000000.citActor20Item30"
     }
   ]
 }

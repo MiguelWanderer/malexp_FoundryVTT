@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder04",
+  "folder": "adeptusFolder040",
   "name": "Sister Repentia",
   "type": "npc",
-  "_id": "adeptusActor47",
+  "_id": "adeptusActor4700",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor47",
+  "_key": "!actors!adeptusActor4700",
   "items": [
     {
       "name": "Deny the Witch",
       "type": "trait",
-      "_id": "adeptusActor47Item01",
+      "_id": "adeptusActor47It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item01"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47It"
     },
     {
       "name": "Martyrdom",
       "type": "trait",
-      "_id": "adeptusActor47Item02",
+      "_id": "adeptusActor47I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item02"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I0"
     },
     {
       "name": "Eviscerator",
       "type": "weapon",
-      "_id": "adeptusActor47Item03",
+      "_id": "adeptusActor47I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -435,12 +435,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item03"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I1"
     },
     {
       "name": "Fear",
       "type": "specialisation",
-      "_id": "adeptusActor47Item04",
+      "_id": "adeptusActor47I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -465,12 +465,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item04"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I2"
     },
     {
       "name": "Psychic",
       "type": "specialisation",
-      "_id": "adeptusActor47Item05",
+      "_id": "adeptusActor47I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -495,12 +495,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item05"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I3"
     },
     {
       "name": "Theology",
       "type": "specialisation",
-      "_id": "adeptusActor47Item06",
+      "_id": "adeptusActor47I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -525,12 +525,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item06"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I4"
     },
     {
       "name": "Two-Handed",
       "type": "specialisation",
-      "_id": "adeptusActor47Item07",
+      "_id": "adeptusActor47I5",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -555,7 +555,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor47.adeptusActor47Item07"
+      "_key": "!actors.items!adeptusActor4700.adeptusActor47I5"
     }
   ]
 }

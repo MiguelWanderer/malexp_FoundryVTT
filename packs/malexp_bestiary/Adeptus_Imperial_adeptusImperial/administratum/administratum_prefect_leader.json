@@ -1,8 +1,8 @@
 {
-  "folder": "adeptusFolder01",
+  "folder": "adeptusFolder010",
   "name": "Administratum Leader",
   "type": "npc",
-  "_id": "adeptusActor04",
+  "_id": "adeptusActor0400",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!adeptusActor04",
+  "_key": "!actors!adeptusActor0400",
   "items": [
     {
       "name": "Administrative Augmentations",
       "type": "trait",
-      "_id": "adeptusActor04Item01",
+      "_id": "adeptusActor04It",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item01"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04It"
     },
     {
       "name": "Scribe-Tines",
       "type": "trait",
-      "_id": "adeptusActor04Item02",
+      "_id": "adeptusActor04I0",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -358,12 +358,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item02"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04I0"
     },
     {
       "name": "Bolt Pistol",
       "type": "weapon",
-      "_id": "adeptusActor04Item03",
+      "_id": "adeptusActor04I1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -441,12 +441,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item03"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04I1"
     },
     {
       "name": "People",
       "type": "specialisation",
-      "_id": "adeptusActor04Item04",
+      "_id": "adeptusActor04I2",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -471,12 +471,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item04"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04I2"
     },
     {
       "name": "Adeptus Terra",
       "type": "specialisation",
-      "_id": "adeptusActor04Item05",
+      "_id": "adeptusActor04I3",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -501,12 +501,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item05"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04I3"
     },
     {
       "name": "Forbidden",
       "type": "specialisation",
-      "_id": "adeptusActor04Item06",
+      "_id": "adeptusActor04I4",
       "img": "modules/impmal-core/assets/icons/generic.webp",
       "system": {
         "notes": {
@@ -531,7 +531,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!adeptusActor04.adeptusActor04Item06"
+      "_key": "!actors.items!adeptusActor0400.adeptusActor04I4"
     }
   ]
 }

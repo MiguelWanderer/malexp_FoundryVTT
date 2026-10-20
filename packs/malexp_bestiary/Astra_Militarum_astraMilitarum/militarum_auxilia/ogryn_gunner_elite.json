@@ -1,8 +1,8 @@
 {
-  "folder": "astramilitarumauxil",
+  "folder": "astramilitarumau",
   "name": "Ogryn Gunner",
   "type": "npc",
-  "_id": "astraActor18",
+  "_id": "astraActor180000",
   "img": "modules/impmal-core/assets/tokens/unknown.webp",
   "system": {
     "characteristics": {
@@ -236,12 +236,12 @@
     "systemId": "impmal",
     "systemVersion": "3.2.1"
   },
-  "_key": "!actors!astraActor18",
+  "_key": "!actors!astraActor180000",
   "items": [
     {
       "name": "Beaten Zone",
       "type": "trait",
-      "_id": "astraActor18Item1",
+      "_id": "astraActor18Item",
       "img": "modules/impmal-core/assets/icons/blank.webp",
       "system": {
         "notes": {
@@ -297,12 +297,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor18.astraActor18Item1"
+      "_key": "!actors.items!astraActor180000.astraActor18Item"
     },
     {
       "name": "Ripper Gun",
       "type": "weapon",
-      "_id": "astraActor18Item2",
+      "_id": "astraActor18Ite0",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -383,12 +383,12 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor18.astraActor18Item2"
+      "_key": "!actors.items!astraActor180000.astraActor18Ite0"
     },
     {
       "name": "Unarmed",
       "type": "weapon",
-      "_id": "astraActor18Item3",
+      "_id": "astraActor18Ite1",
       "img": "modules/impmal-core/assets/icons/weapons/rifle.webp",
       "system": {
         "notes": {
@@ -450,7 +450,7 @@
         "systemId": "impmal",
         "systemVersion": "3.2.1"
       },
-      "_key": "!actors.items!astraActor18.astraActor18Item3"
+      "_key": "!actors.items!astraActor180000.astraActor18Ite1"
     }
   ]
 }
